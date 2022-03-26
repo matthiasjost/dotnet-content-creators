@@ -152,6 +152,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
+| Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio)
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
  </details>
 
