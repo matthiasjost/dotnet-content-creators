@@ -125,6 +125,7 @@ All creators under this section must have published something in 2022.
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Niels Swimberghe | [Blog](https://swimburger.net)
+  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
