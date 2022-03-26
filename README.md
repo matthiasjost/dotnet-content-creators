@@ -47,6 +47,16 @@ All creators under this section must have published something in 2022.
 </details>
 
 
+ <details><summary>Portugal</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+| João Antunes  | [Blog](https://www.youtube.com/c/CodingMilitia)  |
+</details>
+
+
+
+
  <details><summary>Romania</summary>
   
 | Name  | Main Channel |
