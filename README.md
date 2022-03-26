@@ -32,9 +32,6 @@ Please add your favourite creators!
 | ------------- | ------------- |
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic)  |
 
-
-https://steven-giesel.com/
-
 ### Switzerland
 | Name  | Main Channel |
 | ------------- | ------------- |
