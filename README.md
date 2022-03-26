@@ -25,6 +25,7 @@ Please add your favourite creators!
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Niels Swimberghe | [Blog](https://swimburger.net)
+| Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
 
 ### Serbia
