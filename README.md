@@ -19,6 +19,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
+| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 </details>
 
 
