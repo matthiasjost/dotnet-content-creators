@@ -14,12 +14,6 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 
 All creators under this section must have published something in 2022.
 
-<details><summary>Dubai</summary>
-  
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
-</details>
 
 
 <details><summary>Germany</summary>
@@ -40,6 +34,16 @@ All creators under this section must have published something in 2022.
 </details>
 
 <details>
+  
+  <details><summary>Lebanon</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
+</details>
+
+  
+  
 <summary>Serbia</summary>
   
 | Name  | Main Channel |
