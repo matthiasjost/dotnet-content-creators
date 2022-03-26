@@ -147,13 +147,14 @@ All creators under this section must have published something in 2022.
 
 
 <details>
- <summary>Official MSFT / .NET Foundation content resources</summary>
+ <summary>Official MSFT / .NET Foundation content resources / Xamarin</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
 | dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio)
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
+| Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
  </details>
 
 <details><summary>Multi-Creator Channels / Creator Name Unkown</summary>
