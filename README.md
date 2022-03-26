@@ -14,6 +14,13 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 
 All creators under this section must have published something in 2022.
 
+<details><summary>Australia</summary>
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
+</details>
+
 
 
 <details><summary>Canada</summary>
