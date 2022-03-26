@@ -36,7 +36,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Ahmad Mozaffar  | [Blog](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
+| Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
 </details>
 
 
