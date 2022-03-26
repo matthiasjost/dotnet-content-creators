@@ -1,11 +1,11 @@
-# :zap: My Favourite .NET Content Creators // Bloggers, YouTubers etc.
+# :zap: My Favourite .NET Content Creators
 
 With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Books, tutorial platforms (e.g. Pluralsight)
 
-* Bloggers
-* YouTubers
-* Book authors
-* Free or paid conntent
+* :writing_hand: Bloggers
+* :film_projector: YouTubers
+* :open_book: Book authors
+* :receipt: Free or paid conntent
 
 No matter if huge or a small following: The quality matters. 
 
