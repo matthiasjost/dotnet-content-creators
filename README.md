@@ -1,9 +1,18 @@
 # dotnet-content-creators
-A list of .NET content creators
+A list of .NET content creators. No matter if huge or a small following the quality matters. Please add your favourite creators!
 
 ## 2022
 
-| First Header  | Second Header |
+### UK
+| Name  | Main Channel |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Nick Chapsas | [Youtube](https://www.youtube.com/c/Elfocrash)  |
+
+
+### USA
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
+
+### Unkown
