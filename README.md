@@ -33,9 +33,7 @@ All creators under this section must have published something in 2022.
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)  |
 </details>
 
-<details>
-  
-  <details><summary>Lebanon</summary>
+<details><summary>Lebanon</summary>
   
 | Name  | Main Channel |
 | ------------- | ------------- |
