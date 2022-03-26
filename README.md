@@ -136,6 +136,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
+| DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 </details>
 
