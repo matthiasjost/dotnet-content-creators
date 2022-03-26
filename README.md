@@ -30,7 +30,7 @@ Please add your favourite creators!
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Damien Bowden  | [Blog](https://damienbod.com/)  |
-| Jürgen Gutsch | https://asp.net-hacker.rocks/
+| Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks/)
 
 ### Unkown
 ...
