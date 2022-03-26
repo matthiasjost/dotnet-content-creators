@@ -144,6 +144,7 @@ All creators under this section must have published something in 2022.
   | Name  | Main Channel |
   | ------------- | ------------- |
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
+  | David McCarter | [Blog](https://dotNetTips.com)
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Niels Swimberghe | [Blog](https://swimburger.net)
