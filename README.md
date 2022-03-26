@@ -1,4 +1,4 @@
-# My Favourite .NET Content Creators // Bloggers, YouTubers etc.
+# :zap: My Favourite .NET Content Creators // Bloggers, YouTubers etc.
 
 With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Books, tutorial platforms (e.g. Pluralsight)
 
@@ -11,7 +11,7 @@ No matter if huge or a small following: The quality matters.
 
 Please add your favourite creators!
 
-## 2022
+## :calendar: 2022
 
 All creators under this section must have published something in 2022.
 
