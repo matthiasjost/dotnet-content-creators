@@ -67,6 +67,15 @@ All creators under this section must have published something in 2022.
 </details>
 
 
+ <details><summary>Netherlands</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)  |
+</details>
+
+
+
  <details><summary>Portugal</summary>
   
 | Name  | Main Channel |
