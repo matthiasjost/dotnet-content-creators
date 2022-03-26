@@ -7,13 +7,10 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 * :open_book: Book authors
 * :receipt: Free or paid conntent
 
-No matter if huge or a small following: The quality matters. 
+:world_map: The country actally doesn't matter as well, but I thought it is a nice way to divide the list in sections and to challenge everyone to find good creators from all countries.
 
-Please add your favourite creators!
 
 All creaters listed here also create content in Englihs or only create content in English.
-
-The country actally doesn't matter as well, but I thought it is a nice way to divide the list in sections and to challenge everyone to find good creators from all countries.
 
 ## :calendar: 2022
 
@@ -64,5 +61,7 @@ All creators under this section must have published something in 2022.
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/)  |
 </details>
 
+No matter if huge or a small following: The quality matters. 
 
+Please add your favourite creators!
 
