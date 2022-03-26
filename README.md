@@ -15,6 +15,14 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 All creators under this section must have published something in 2022.
 
 
+<details><summary>India</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)  |
+</details>
+
+
 <details><summary>Germany</summary>
  
 | Name  | Main Channel |
