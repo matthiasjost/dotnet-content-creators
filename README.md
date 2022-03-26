@@ -24,15 +24,16 @@ Please add your favourite creators!
 
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Niels Swimberghe | [Blog](https://swimburger.net/)
+| Niels Swimberghe | [Blog](https://swimburger.net)
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
 
 
 ### Switzerland
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Damien Bowden  | [Blog](https://damienbod.com/)  |
-| Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks/)
+| Damien Bowden  | [Blog](https://damienbod.com)  |
+| Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
+| Steven Giesel |  [Blog](https://steven-giesel.com)
 
 ### Unkown
 ...
