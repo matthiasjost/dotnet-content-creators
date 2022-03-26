@@ -130,11 +130,12 @@ All creators under this section must have published something in 2022.
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
  </details>
 
-<details><summary>Anywhere, Distributed</summary>
+<details><summary>Anywhere, Distributed, Unkown Creator Name / Organisation</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
+| Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 </details>
 
  
