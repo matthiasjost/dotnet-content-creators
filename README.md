@@ -15,6 +15,11 @@ A list of .NET content creators. No matter if huge or a small following the qual
 | ------------- | ------------- |
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
 
+### Switzerland
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Damien Bowden  | [Blog](https://damienbod.com/)  |
+
 ### Unkown
 ...
 
