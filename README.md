@@ -82,11 +82,12 @@ All creators under this section must have published something in 2022.
 </details>
 
 <details>
- <summary>Official MSFT content resources</summary>
+ <summary>Official MSFT / .NET Foundation content resources</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
 | dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
+| .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
  </details>
 
  
