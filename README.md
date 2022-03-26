@@ -130,7 +130,7 @@ All creators under this section must have published something in 2022.
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
  </details>
 
-<details><summary>Anywhere, Distributed, Unkown Creator Name / Organisation</summary>
+<details><summary>Multi-Creator Channels / Creator Name Unkown</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
