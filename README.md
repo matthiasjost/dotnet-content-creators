@@ -39,12 +39,25 @@ All creators under this section must have published something in 2022.
 | Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
 </details>
 
-  <details><summary>Poland</summary>
+ <details><summary>Poland</summary>
   
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)  |
 </details>
+
+
+ <details><summary>Romania</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)  |
+</details>
+  
+  
+ 
+  
+  
   
 <details>
 <summary>Serbia</summary> 
