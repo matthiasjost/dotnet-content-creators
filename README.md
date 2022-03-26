@@ -88,6 +88,7 @@ All creators under this section must have published something in 2022.
   
   | Name  | Main Channel |
   | ------------- | ------------- |
+  | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Niels Swimberghe | [Blog](https://swimburger.net)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
