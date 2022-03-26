@@ -11,6 +11,10 @@ No matter if huge or a small following: The quality matters.
 
 Please add your favourite creators!
 
+All creaters listed here also create content in Englihs or only create content in English.
+
+The country actally doesn't matter as well, but I thought it is a nice way to divide the list in sections and to challenge everyone to find good creators from all countries.
+
 ## :calendar: 2022
 
 All creators under this section must have published something in 2022.
