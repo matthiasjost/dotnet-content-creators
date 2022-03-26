@@ -28,6 +28,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
 </details>
 
