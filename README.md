@@ -14,7 +14,7 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 
 All creators under this section must have published something in 2022.
 
-<details><summary>Anywhere, Disribted<summary>
+<details><summary>Anywhere, Disribted</summary>
  | Name  | Main Channel |
 | ------------- | ------------- |
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
