@@ -42,8 +42,9 @@ All creators under this section must have published something in 2022.
 
   
   
-<summary>Serbia</summary>
-  
+<detail><summary>Serbia</summary>
+
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic)  |
