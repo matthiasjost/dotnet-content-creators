@@ -24,7 +24,9 @@ Please add your favourite creators!
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Niels Swimberghe | [Blog](https://swimburger.net/)
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
+
 
 ### Switzerland
 | Name  | Main Channel |
