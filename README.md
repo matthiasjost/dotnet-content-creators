@@ -41,28 +41,6 @@ All creators under this section must have published something in 2022.
 
 
 
-<details><summary>UK</summary>
- 
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Nick Chapsas | [Youtube](https://www.youtube.com/c/Elfocrash)  |
-| Jamie Maguire | [Blog](https://jamiemaguire.net/)
-| Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
-</details>
-
-<details>
-<summary>USA</summary>
-  
-  | Name  | Main Channel |
-  | ------------- | ------------- |
-  | Kendra Havens | [Twitter](https://twitter.com/gotheap)
-  | Niels Swimberghe | [Blog](https://swimburger.net)
-  | Julie Lerman | [Twitter](https://twitter.com/julielerman)
-  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
-  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
-  | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
-</details>
-
 <details>
 <summary>Serbia</summary>
   
@@ -88,6 +66,30 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/)  |
 </details>
+
+
+<details><summary>UK</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Nick Chapsas | [Youtube](https://www.youtube.com/c/Elfocrash)  |
+| Jamie Maguire | [Blog](https://jamiemaguire.net/)
+| Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
+</details>
+
+<details>
+<summary>USA</summary>
+  
+  | Name  | Main Channel |
+  | ------------- | ------------- |
+  | Kendra Havens | [Twitter](https://twitter.com/gotheap)
+  | Niels Swimberghe | [Blog](https://swimburger.net)
+  | Julie Lerman | [Twitter](https://twitter.com/julielerman)
+  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
+  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
+  | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
+</details>
+
 
 <details>
  <summary>Official MSFT / .NET Foundation content resources</summary>
