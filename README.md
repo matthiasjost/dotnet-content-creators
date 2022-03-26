@@ -53,6 +53,7 @@ All creators under this section must have published something in 2022.
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
+  | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
 </details>
 
 <details>
