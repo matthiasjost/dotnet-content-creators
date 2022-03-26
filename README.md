@@ -81,7 +81,17 @@ All creators under this section must have published something in 2022.
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/)  |
 </details>
 
+<details>
+ <summary>Official MSFT content resources</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
+ </details>
+
+ 
 No matter if huge or a small following: The quality matters. 
 
 Please add your favourite creators!
+
 
