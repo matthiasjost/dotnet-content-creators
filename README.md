@@ -18,6 +18,7 @@ Please add your favourite creators!
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Nick Chapsas | [Youtube](https://www.youtube.com/c/Elfocrash)  |
+| Jamie Maguire | [Blog](https://jamiemaguire.net/)
 
 
 ### USA
