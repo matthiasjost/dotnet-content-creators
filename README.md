@@ -27,6 +27,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR)
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog)  |
 </details>
 
