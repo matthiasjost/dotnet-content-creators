@@ -130,6 +130,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)  |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
