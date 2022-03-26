@@ -7,10 +7,9 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 * :open_book: Book authors
 * :receipt: Free or paid conntent
 
-:world_map: The country actally doesn't matter as well, but I thought it is a nice way to divide the list in sections and to challenge everyone to find good creators from all countries.
+:world_map: The country doesn't matter as well, but I thought it is an excellent way to divide the list into sections and to challenge everyone to find good creators from all countries.
 
-
-All creaters listed here also create content in Englihs or only create content in English.
+All creators listed here also create content in English or only create content in English.
 
 ## :calendar: 2022
 
