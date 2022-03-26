@@ -49,6 +49,7 @@ All creators under this section must have published something in 2022.
   | ------------- | ------------- |
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Niels Swimberghe | [Blog](https://swimburger.net)
+  | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
 </details>
