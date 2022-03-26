@@ -42,7 +42,8 @@ Please add your favourite creators!
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
 | Steven Giesel |  [Blog](https://steven-giesel.com)
 
-### Turkey
+
+### Turkey 
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/)  |
