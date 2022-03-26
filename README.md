@@ -16,7 +16,7 @@ All creators under this section must have published something in 2022.
 
 
 
-<details><summary>Germany</summary>
+<details><summary>Canada</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
