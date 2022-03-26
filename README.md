@@ -27,6 +27,13 @@ Please add your favourite creators!
 | Niels Swimberghe | [Blog](https://swimburger.net)
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
 
+### Serbia
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic)  |
+
+
+https://steven-giesel.com/
 
 ### Switzerland
 | Name  | Main Channel |
