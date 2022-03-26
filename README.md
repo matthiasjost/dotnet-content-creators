@@ -134,7 +134,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
-| DevMentors | https://www.youtube.com/c/DevMentors
+| DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 </details>
