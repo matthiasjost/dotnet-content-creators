@@ -181,11 +181,12 @@ All creators under this section must have published something in 2022.
 
 </details>
 
- 
-No matter if huge or a small following: The quality matters. 
+## 🪴 Contribute
+* No matter if huge or a small following: The quality matters. 
+* Please add your favourite creators!
 
-Please add your favourite creators!
-
-
+## 🙏Credits
+* Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://mccshreyas.com/2022/01/24/list-of-youtube-channels-for-net-csharp-developers)
+* Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 
 
