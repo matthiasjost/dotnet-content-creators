@@ -14,13 +14,6 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 
 All creators under this section must have published something in 2022.
 
-<details><summary>Anywhere, Disribted</summary>
- | Name  | Main Channel |
-| ------------- | ------------- |
-| Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
-</details>
- 
- </details>
 
 <details><summary>Germany</summary>
  
@@ -107,6 +100,13 @@ All creators under this section must have published something in 2022.
 | dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
  </details>
+
+<details><summary>Anywhere, Distributed</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
+</details>
 
  
 No matter if huge or a small following: The quality matters. 
