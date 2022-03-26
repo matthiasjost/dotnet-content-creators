@@ -39,6 +39,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Nick Chapsas | [Youtube](https://www.youtube.com/c/Elfocrash)  |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
+| Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 </details>
 
 <details>
