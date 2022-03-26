@@ -47,7 +47,9 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)  |
+
 </details>
 
 <details><summary>Lebanon</summary>
