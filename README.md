@@ -42,7 +42,8 @@ All creators under this section must have published something in 2022.
 
   
   
-<detail><summary>Serbia</summary>
+<details>
+<summary>Serbia</summary> 
 
 
 | Name  | Main Channel |
