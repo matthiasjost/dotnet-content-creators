@@ -133,6 +133,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella)
+| Andrew Lock | [Blog](https://andrewlock.net/)
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)  |
