@@ -5,7 +5,7 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 * :writing_hand: Bloggers
 * :film_projector: YouTubers
 * :open_book: Book authors
-* :receipt: Free or paid conntent
+* :receipt: Free or paid content
 * :world_map: The country doesn't matter as well, but I thought it is an excellent way to divide the list into sections and to challenge everyone to find good creators from all countries.
 * :speaking_head: All creators listed here also create content in English or only create content in English.
 * :compass: What I call the "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best.
