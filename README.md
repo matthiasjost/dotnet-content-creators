@@ -181,6 +181,7 @@ All creators under this section must have published something in 2022.
 | Code Maze | [Blog](https://www.code-maze.com)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 | C# Corner | [Blog](https://www.c-sharpcorner.com/)
+| Rockin' The Code World with dotNetDave| [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave)
 | DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
