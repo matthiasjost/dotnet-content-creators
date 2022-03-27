@@ -104,6 +104,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Marinko Spasojevic | [Blog](https://code-maze.com/)
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic)  |
 </details>
 
@@ -176,6 +177,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Code Maze | [Blog](https://www.code-maze.com)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 | C# Corner | [Blog](https://www.c-sharpcorner.com/)
 | DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
