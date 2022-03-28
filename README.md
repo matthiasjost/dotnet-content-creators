@@ -153,7 +153,7 @@ All creators under this section must have published something in 2022.
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
   | Niels Swimberghe | [Blog](https://swimburger.net)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
-  | Sean Killeen | | [Blog](https://seankilleen.com/)
+  | Sean Killeen | [Blog](https://seankilleen.com/)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://www.youtube.com/c/WesDoyle)
