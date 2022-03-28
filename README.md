@@ -22,8 +22,6 @@ All creators under this section must have published something in 2022.
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 </details>
 
-
-
 <details><summary>Canada</summary>
  
 | Name  | Main Channel |
@@ -38,33 +36,30 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR)
-| Tim Cadenbach | [Blog](https://www.tcdev.de/blog)  |
+| Tim Cadenbach | [Blog](https://www.tcdev.de/blog)
 </details>
-
-
 
 <details><summary>India</summary>
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Nouman Rahman  | [Blog](https://programmingfire.com/)
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
-| Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)  |
-| Nouman Rahman  | [Blog](https://programmingfire.com/)  |
-
+| Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)
 </details>
 
 <details><summary>Lebanon</summary>
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)  |
+| Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)
 </details>
 
  <details><summary>Poland</summary>
-  
+
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Szymon Kulec  | [Blog](https://blog.scooletz.com/)  |
+| Szymon Kulec  | [Blog](https://blog.scooletz.com/)
 </details>
 
 
@@ -72,7 +67,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)  |
+| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)
 </details>
 
 
@@ -81,7 +76,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-| João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)  |
+| João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
 </details>
 
 
@@ -91,7 +86,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)  |
+|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
 </details>
   
   
@@ -106,7 +101,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/)
-| Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic)  |
+| Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic) 
 </details>
 
 <details>
@@ -114,7 +109,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Damien Bowden  | [Blog](https://damienbod.com)  |
+| Damien Bowden  | [Blog](https://damienbod.com)
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken)
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
 | Steven Giesel |  [Blog](https://steven-giesel.com)
@@ -125,7 +120,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/)  |
+| Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) 
 </details>
 
 
@@ -158,7 +153,8 @@ All creators under this section must have published something in 2022.
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
   | Niels Swimberghe | [Blog](https://swimburger.net)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
-  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  |
+  | Sean Killeen | | [Blog](https://seankilleen.com/)
+  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://www.youtube.com/c/WesDoyle)
 </details>
@@ -169,7 +165,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
-| dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  |
+| dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio)
 | .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
@@ -187,7 +183,14 @@ All creators under this section must have published something in 2022.
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
-| Discover.NET | [Site](https://discoverdot.net) |
+</details>
+
+<details><summary>Aggregator Sites</summary>
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Discover.NET | [Site](https://discoverdot.net)
+| .NET Ketchup | [Site](https://dotnetketchup.com)
 </details>
 
 ## 🪴 Contribute
