@@ -186,7 +186,7 @@ All creators under this section must have published something in 2022.
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
-
+| Discover.NET | [Site](https://discoverdot.net) |
 </details>
 
 ## 🪴 Contribute
