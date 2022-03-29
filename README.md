@@ -48,6 +48,14 @@ All creators under this section must have published something in 2022.
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)
 </details>
 
+<details><summary>Italy</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Davide Bellone | [Blog](https://www.code4it.dev)
+</details>
+
+
 <details><summary>Lebanon</summary>
   
 | Name  | Main Channel |
