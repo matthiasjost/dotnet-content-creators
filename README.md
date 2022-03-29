@@ -132,9 +132,10 @@ All creators under this section must have published something in 2022.
 | Andrew Lock | [Blog](https://andrewlock.net/)
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
-| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)  |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
+| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
+| Peter Morris | [Site](https://blazor-university.com)
 </details>
 
 <details>
