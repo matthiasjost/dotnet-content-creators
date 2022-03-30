@@ -28,6 +28,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
+| Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 </details>
 
 
@@ -48,6 +49,14 @@ All creators under this section must have published something in 2022.
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com/)
 </details>
 
+<details><summary>Italy</summary>
+ 
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Davide Bellone | [Blog](https://www.code4it.dev)
+</details>
+
+
 <details><summary>Lebanon</summary>
   
 | Name  | Main Channel |
@@ -60,6 +69,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)
+| Oskar Dudycz  | [Blog](https://event-driven.io/en/)
 </details>
 
 
@@ -131,10 +141,15 @@ All creators under this section must have published something in 2022.
 | Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella)
 | Andrew Lock | [Blog](https://andrewlock.net/)
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
+| Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
-| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)  |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
+| Jamie Taylor | [Podcast](https://dotnetcore.show)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
+| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
+| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
+| Peter Morris | [Site](https://blazor-university.com)
+| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
 </details>
 
 <details>
@@ -142,17 +157,20 @@ All creators under this section must have published something in 2022.
   
   | Name  | Main Channel |
   | ------------- | ------------- |
+  | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
+  | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/)
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
+  | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz)
   | David McCarter | [Blog](https://dotNetTips.com)
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
-  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno)
-  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/)
+  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
+  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
   | Niels Swimberghe | [Blog](https://swimburger.net)
-  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
+  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/)
   | Sean Killeen | [Blog](https://seankilleen.com/)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [YouTube](https://m.youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
@@ -176,9 +194,10 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Code Maze | [Blog](https://www.code-maze.com)
+| Coding Blocks| [Podcast](https://www.codingblocks.net/)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 | C# Corner | [Blog](https://www.c-sharpcorner.com/)
-| Rockin' The Code World with dotNetDave| [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave)
+| Rockin' The Code World with dotNetDave | [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave)
 | DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
 | Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
@@ -191,6 +210,9 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Discover.NET | [Site](https://discoverdot.net)
 | .NET Ketchup | [Site](https://dotnetketchup.com)
+| The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/)
+| The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/)
+
 </details>
 
 ## 🪴 Contribute
