@@ -142,6 +142,7 @@ All creators under this section must have published something in 2022.
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
+| Jamie Taylor | [Podcast](https://dotnetcore.show)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
