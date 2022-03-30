@@ -202,8 +202,8 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Discover.NET | [Site](https://discoverdot.net)
 | .NET Ketchup | [Site](https://dotnetketchup.com)
-| The Morning Brew by Chris Alcock, UK) | [Site](https://blog.cwa.me.uk/)
-| The Morning Dew by Alvin Ashcraft, USA) | [Site](https://www.alvinashcraft.com/)
+| The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/)
+| The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/)
 
 </details>
 
