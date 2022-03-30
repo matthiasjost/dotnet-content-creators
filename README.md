@@ -28,6 +28,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
+| Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 </details>
 
 
@@ -139,11 +140,15 @@ All creators under this section must have published something in 2022.
 | Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella)
 | Andrew Lock | [Blog](https://andrewlock.net/)
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
+| Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
+| Jamie Taylor | [Podcast](https://dotnetcore.show)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
+| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
+| Steve Gordon | [Blog](https://www.stevejgordon.co.uk) [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
 </details>
 
 <details>
@@ -151,17 +156,20 @@ All creators under this section must have published something in 2022.
   
   | Name  | Main Channel |
   | ------------- | ------------- |
+  | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
+  | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/)
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
+  | Carl Franklin | [Podcast](https://www.dotnetrocks.com/) [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz)
   | David McCarter | [Blog](https://dotNetTips.com)
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
-  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno)
-  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/)
-  | Julie Lerman | [Twitter](https://twitter.com/julielerman)
+  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno) [Podcast](https://www.mergeconflict.fm/)
+  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/) [Twitch](https://www.twitch.tv/csharpfritz)
+  | Julie Lerman | [Twitter](https://twitter.com/julielerman) [Blog](https://thedatafarm.com/blog/)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
   | Niels Swimberghe | [Blog](https://swimburger.net)
-  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og)
+  | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og) [Blog](https://www.hanselman.com/blog/) [Podcast](https://www.hanselminutes.com/)
   | Sean Killeen | [Blog](https://seankilleen.com/)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [Podcast](https://iamtimcorey.com/p/podcast)
