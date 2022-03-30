@@ -68,9 +68,6 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)
-| Piotr Gankiewicz  | [Blog](https://piotrgankiewicz.com/blog/)
-| Cezary Piątek  | [Blog](https://cezarypiatek.github.io/)
-| Kondrad Kokosa  | [Blog](https://tooslowexception.com/)
 | Oskar Dudycz  | [Blog](https://event-driven.io/en/)
 </details>
 
