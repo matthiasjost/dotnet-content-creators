@@ -149,7 +149,7 @@ All creators under this section must have published something in 2022.
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
-| Steve Gordon | [Blog](https://www.stevejgordon.co.uk) [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
+| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
 </details>
 
 <details>
