@@ -186,6 +186,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Code Maze | [Blog](https://www.code-maze.com)
+| Coding Blocks .NET| [Blog](https://www.codingblocks.net/)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 | C# Corner | [Blog](https://www.c-sharpcorner.com/)
 | Rockin' The Code World with dotNetDave| [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave)
@@ -201,6 +202,9 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Discover.NET | [Site](https://discoverdot.net)
 | .NET Ketchup | [Site](https://dotnetketchup.com)
+| The Morning Brew | [Site](https://blog.cwa.me.uk/)
+| The Morning Dew | [Site](https://www.alvinashcraft.com/)
+
 </details>
 
 ## 🪴 Contribute
