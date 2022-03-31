@@ -69,6 +69,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)
+| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/)
 | Oskar Dudycz  | [Blog](https://event-driven.io/en/)
 </details>
 
@@ -81,7 +82,6 @@ All creators under this section must have published something in 2022.
 </details>
 
 
-
  <details><summary>Portugal</summary>
   
 | Name  | Main Channel |
@@ -90,18 +90,12 @@ All creators under this section must have published something in 2022.
 </details>
 
 
-
-
  <details><summary>Romania</summary>
   
 | Name  | Main Channel |
 | ------------- | ------------- |
 |  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
 </details>
-  
-  
- 
-  
   
   
 <details>
