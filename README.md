@@ -80,6 +80,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)
+| Marc Duiker | [YouTube]https://www.youtube.com/c/marcduiker-serverless/
 </details>
 
 
