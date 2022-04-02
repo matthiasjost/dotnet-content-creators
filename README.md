@@ -66,6 +66,18 @@ All creators under this section must have published something in 2022.
 | Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)
 </details>
 
+
+
+<details><summary>Malawi</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg)
+</details>
+
+
+
+
  <details><summary>Poland</summary>
 
 | Name  | Main Channel |
