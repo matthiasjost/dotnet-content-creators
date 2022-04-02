@@ -157,6 +157,7 @@ All creators under this section must have published something in 2022.
 | Jamie Taylor | [Podcast](https://dotnetcore.show)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
+| Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
