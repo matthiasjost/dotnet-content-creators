@@ -76,7 +76,14 @@ All creators under this section must have published something in 2022.
 </details>
 
 
+<details><summary>Mauritius</summary>
+  
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Patrick Smacchia | [Blog](https://blog.ndepend.com)
+</details>
 
+  
 
  <details><summary>Poland</summary>
 
