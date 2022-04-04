@@ -136,6 +136,7 @@ All creators under this section must have published something in 2022.
   
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi)
 | Damien Bowden  | [Blog](https://damienbod.com)
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken)
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
