@@ -216,8 +216,8 @@ All creators under this section must have published something in 2022.
 | Coding Blocks| [Podcast](https://www.codingblocks.net/)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
 | C# Corner | [Blog](https://www.c-sharpcorner.com/)
-| DevMentors | [YouTube](https://www.youtube.com/c/DevMentors)
-| Dotnetos Blog | [Blog](https://dotnetos.org/blog/)
+| DevMentors | [YouTube](https://www.youtube.com/c/DevMentors), [Site](https://devmentors.io)
+| Dotnetos | [Blog](https://dotnetos.org/blog), [YouTube](https://youtube.com/c/Dotnetos)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
 </details>
