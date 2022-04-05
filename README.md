@@ -176,7 +176,6 @@ All creators under this section must have published something in 2022.
   
   | Name  | Main Channel |
   | ------------- | ------------- |
-  | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/)
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz)
@@ -212,6 +211,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
 | Code Maze | [Blog](https://www.code-maze.com)
 | Coding Blocks| [Podcast](https://www.codingblocks.net/)
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive)
