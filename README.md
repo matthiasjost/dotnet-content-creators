@@ -202,7 +202,7 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
-| .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET)  
+| .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/en-us/dotnet)
 | .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation)
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio),  [Blog](https://devblogs.microsoft.com/visualstudio/)
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
