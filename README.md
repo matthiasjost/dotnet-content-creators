@@ -202,9 +202,11 @@ All creators under this section must have published something in 2022.
  
 | Name  | Main Channel |
 | ------------- | ------------- |
+| .NET Blog (Microsoft) | [Blog](https://devblogs.microsoft.com/dotnet)
+| .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
 | dotNET on YouTube | [YouTube](https://www.youtube.com/c/dotNET)  
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio)
-| .NET Fundation on Youtube | [YouTube](https://www.youtube.com/c/NETFoundation)
+| Visual Studio Blog | [Blog](https://devblogs.microsoft.com/visualstudio/)
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
  </details>
 
