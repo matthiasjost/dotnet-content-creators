@@ -188,6 +188,7 @@ All creators under this section must have published something in 2022.
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
   | Niels Swimberghe | [Blog](https://swimburger.net)
+  | Richard Campbell | [Podcast](https://www.dotnetrocks.com)
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/)
   | Sean Killeen | [Blog](https://seankilleen.com/)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
