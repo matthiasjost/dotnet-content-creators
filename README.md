@@ -180,7 +180,7 @@ All creators under this section must have published something in 2022.
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG)
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz)
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave)
-  | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/)
+  | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/)
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz)
