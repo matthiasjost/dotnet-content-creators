@@ -183,7 +183,7 @@ All creators under this section must have published something in 2022.
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib)
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
-  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz)
+  | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
