@@ -163,6 +163,7 @@ All creators under this section must have published something in 2022.
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
 | Jamie Taylor | [Podcast](https://dotnetcore.show)
+| Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
