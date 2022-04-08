@@ -14,23 +14,27 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 
 All creators under this section must have published something in 2022.
 
-<details><summary>Australia</summary>
+## Australia
 
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
-| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
-</details>
+<img height="50px" alt="Australia's Flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/255px-Flag_of_Australia_%28converted%29.svg.png"/>
 
-<details><summary>Canada</summary>
+| Icon | Name  | Main Channel |
+| ------------- | ------------- | ------------- |
+| [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ3GvjwZ_k2cVOJGkqSmxz5MrVEXK6hyn_R-VDCCQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/binarythistle) | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
+| [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTIzspcZNn-cn_soXUut1KScfjLHEb-9pglSMxXx1Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/RahulNath) | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
+
+## Canada
+
+<img height="50px" alt="Canada's Flag" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/>
  
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
-| Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
-| Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
+| Icon | Name  | Main Channel |
+| ------------- | ------------- | ------------- |
+| [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLRrWwUKZyjDMKiUkAkAQPil5zE5-7Q45kp2Tk1CdQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
+| [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSRk6L72GfMql4zJtIUrUZHpA1wAtMUApi2L6W3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/FrankLiuSoftware) | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
+| [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://pbs.twimg.com/profile_images/3319695661/a2ee3550d299dc1641acc062290ce374_400x400.jpeg"/>](https://www.dotnetrocks.com) | Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 </details>
 
+# !TODO THE REST BELOW!
 
 <details><summary>Germany</summary>
  
