@@ -166,6 +166,7 @@ All creators under this section must have published something in 2022.
 | Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
+| Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net)
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
