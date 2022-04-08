@@ -37,6 +37,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR)
+| Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber)
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog)
 </details>
 
