@@ -171,6 +171,7 @@ All creators under this section must have published something in 2022.
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
 | Peter Morris | [Site](https://blazor-university.com)
+| Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
 </details>
 
