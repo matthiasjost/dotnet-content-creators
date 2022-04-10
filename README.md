@@ -171,6 +171,7 @@ All creators under this section must have published something in 2022.
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net)
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash)
+| Paul Michaels | [Site](https://pmichaels.net)
 | Peter Morris | [Site](https://blazor-university.com)
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
