@@ -13,13 +13,18 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
 
-### Australia
+### Australia 
+
+<img src="4x3/au.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 
 ### Canada
+<img src="4x3/ca.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
@@ -27,6 +32,8 @@ All creators under this section must have published something in 2022.
 | Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 
 ### Germany
+<img src="4x3/de.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR)
@@ -34,6 +41,8 @@ All creators under this section must have published something in 2022.
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog)
 
 ### India
+<img src="4x3/in.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
@@ -43,30 +52,40 @@ All creators under this section must have published something in 2022.
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com)
 
 ### Italy
+<img src="4x3/it.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev)
 
 
 ### Lebanon
+<img src="4x3/lb.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)
 
 
 ### Malawi
+<img src="4x3/mw.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg)
 
 
 ### Mauritius
+<img src="4x3/mu.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Patrick Smacchia | [Blog](https://blog.ndepend.com)
 
 
 ### Poland
+<img src="4x3/pl.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)
@@ -76,6 +95,8 @@ All creators under this section must have published something in 2022.
 
 
 ### Netherlands
+<img src="4x3/nl.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)
@@ -85,6 +106,8 @@ All creators under this section must have published something in 2022.
 
 
 ### Portugal
+<img src="4x3/pt.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
@@ -92,6 +115,8 @@ All creators under this section must have published something in 2022.
 
 
 ### Romania
+<img src="4x3/ro.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 |  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
@@ -100,12 +125,16 @@ All creators under this section must have published something in 2022.
   
 
 ### Serbia
+<img src="4x3/rs.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/)
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic) 
 
 ### Switzerland
+<img src="4x3/ch.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi)
@@ -116,11 +145,14 @@ All creators under this section must have published something in 2022.
 
 
 ### Turkey
+<img src="4x3/tr.svg" height="35">
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) 
 
 ### UK
+<img src="4x3/gb.svg" height="35">
 
 | Name  | Main Channel |
 | ------------- | ------------- |
@@ -143,6 +175,8 @@ All creators under this section must have published something in 2022.
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
 
 ### USA
+<img src="4x3/us.svg" height="35">
+
   | Name  | Main Channel |
   | ------------- | ------------- |
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/)
@@ -207,5 +241,5 @@ All creators under this section must have published something in 2022.
 ## 🙏Credits
 * Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://mccshreyas.com/2022/01/24/list-of-youtube-channels-for-net-csharp-developers)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
-
+* Flags copied from: https://flagicons.lipis.dev / https://github.com/lipis/flag-icons
 
