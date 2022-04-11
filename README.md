@@ -11,38 +11,29 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 * :compass: What I call the "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best.
 
 ## :calendar: 2022
-
 All creators under this section must have published something in 2022.
 
-<details><summary>Australia</summary>
-
+### Australia
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
-</details>
 
-<details><summary>Canada</summary>
- 
+### Canada
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
 | Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
-</details>
 
-
-<details><summary>Germany</summary>
- 
+### Germany
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR)
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber)
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog)
-</details>
 
-<details><summary>India</summary>
- 
+### India
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
@@ -50,92 +41,71 @@ All creators under this section must have published something in 2022.
 | Saineshwar Bageri | [Blog](https://tutexchange.com)
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com)
-</details>
 
-<details><summary>Italy</summary>
- 
+### Italy
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev)
-</details>
 
 
-<details><summary>Lebanon</summary>
-  
+### Lebanon
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Ahmad Mozaffar  | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)
-</details>
 
 
-
-<details><summary>Malawi</summary>
-  
+### Malawi
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg)
-</details>
 
 
-<details><summary>Mauritius</summary>
-  
+### Mauritius
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Patrick Smacchia | [Blog](https://blog.ndepend.com)
-</details>
 
-  
 
- <details><summary>Poland</summary>
-
+### Poland
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/)
 | Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/)
 | Oskar Dudycz  | [Blog](https://event-driven.io/en/)
-</details>
 
 
- <details><summary>Netherlands</summary>
-  
+
+### Netherlands
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl)
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog)
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)
-</details>
 
 
- <details><summary>Portugal</summary>
-  
+### Portugal
 | Name  | Main Channel |
 | ------------- | ------------- |
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
-</details>
 
 
- <details><summary>Romania</summary>
-  
+
+### Romania
 | Name  | Main Channel |
 | ------------- | ------------- |
 |  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
-</details>
+
   
   
-<details>
-<summary>Serbia</summary> 
 
-
+### Serbia
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/)
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic) 
-</details>
 
-<details>
-<summary>Switzerland</summary> 
-  
+### Switzerland
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi)
@@ -143,19 +113,15 @@ All creators under this section must have published something in 2022.
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken)
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
 | Steven Giesel |  [Blog](https://steven-giesel.com)
-</details>
 
-<details>
-<summary>Turkey</summary>
-  
+
+### Turkey
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) 
-</details>
 
+### UK
 
-<details><summary>UK</summary>
- 
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella)
@@ -175,11 +141,8 @@ All creators under this section must have published something in 2022.
 | Peter Morris | [Site](https://blazor-university.com)
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
-</details>
 
-<details>
-<summary>USA</summary>
-  
+### USA
   | Name  | Main Channel |
   | ------------- | ------------- |
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/)
@@ -201,12 +164,10 @@ All creators under this section must have published something in 2022.
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [YouTube](https://m.youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://www.youtube.com/c/WesDoyle)
-</details>
 
 
-<details>
- <summary>Official MSFT / .NET Foundation content resources / Xamarin</summary>
- 
+
+### Official MSFT / .NET Foundation content resources / Xamarin
 | Name  | Main Channel |
 | ------------- | ------------- |
 | .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/en-us/dotnet)
@@ -215,8 +176,7 @@ All creators under this section must have published something in 2022.
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
  </details>
 
-<details><summary>Multi-Creator Channels / Creator Name Unkown</summary>
- 
+### Multi-Creator Channels / Creator Name Unkown
 | Name  | Main Channel |
 | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
@@ -230,8 +190,7 @@ All creators under this section must have published something in 2022.
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
 </details>
 
-<details><summary>Aggregator Sites</summary>
-
+### Aggregator Sites
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Discover.NET | [Site](https://discoverdot.net)
@@ -239,7 +198,7 @@ All creators under this section must have published something in 2022.
 | The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/)
 | The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/)
 
-</details>
+
 
 ## 🪴 Contribute
 * No matter if huge or a small following: The quality matters. 
