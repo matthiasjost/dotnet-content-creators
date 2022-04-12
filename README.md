@@ -45,12 +45,13 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com)
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
 | Nouman Rahman  | [Blog](https://programmingfire.com)
 | Saineshwar Bageri | [Blog](https://tutexchange.com)
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
 | Shreyas Jejurkar  | [Blog](https://mccshreyas.com)
-| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com)
+
 
 ### Italy
 <img src="4x3/it.svg" height="35">
