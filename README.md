@@ -198,8 +198,8 @@ All creators under this section must have published something in 2022.
   | Sean Killeen | [Blog](https://seankilleen.com/)
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth)
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
-  | Tim Corey | [YouTube](https://m.youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
-  | Wes Doyle | [YouTube](https://www.youtube.com/c/WesDoyle)
+  | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
+  | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle)
 
 
 
