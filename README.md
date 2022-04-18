@@ -29,6 +29,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | André "Balta" Baltieri | [Blog](https://balta.io/blog)
+| Luiz Carlos "Gago" Faria | [Blog](https://gago.io/blog/)
 | Renato Groffe | [Blog](https://renatogroffe.medium.com/)
 
 ### Canada
