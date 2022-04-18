@@ -22,6 +22,15 @@ All creators under this section must have published something in 2022.
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 
+### Brazil 
+
+<img src="4x3/br.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| André "Balta" Baltieri | [Blog](https://balta.io/blog)
+| Renato Groffe | [Blog](https://renatogroffe.medium.com/)
+
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
