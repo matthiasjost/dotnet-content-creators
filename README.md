@@ -123,7 +123,6 @@ All creators under this section must have published something in 2022.
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
 
 
-
 ### Romania
 <img src="4x3/ro.svg" height="35">
 
@@ -131,8 +130,6 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 |  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
 
-  
-  
 
 ### Serbia
 <img src="4x3/rs.svg" height="35">
@@ -197,6 +194,7 @@ All creators under this section must have published something in 2022.
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz)
+  | Jimmy Bogard | [Blog](https://jimmybogard.com/)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/)
@@ -208,8 +206,7 @@ All creators under this section must have published something in 2022.
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle)
-  | Jimmy Bogard | [Blog](https://jimmybogard.com/)
-  | Chris Pratt | [Blog](https://cpratt.co/)
+
 
 
 ### Official MSFT / .NET Foundation content resources / Xamarin
