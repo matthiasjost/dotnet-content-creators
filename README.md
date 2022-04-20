@@ -107,6 +107,14 @@ All creators under this section must have published something in 2022.
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)
 
 
+### Norway
+<img src="4x3/no.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/)
+
+
 ### Portugal
 <img src="4x3/pt.svg" height="35">
 
@@ -200,7 +208,8 @@ All creators under this section must have published something in 2022.
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog)  
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle)
-
+  | Jimmy Bogard | [Blog](https://jimmybogard.com/)
+  | Chris Pratt | [Blog](https://cpratt.co/)
 
 
 ### Official MSFT / .NET Foundation content resources / Xamarin
@@ -224,6 +233,7 @@ All creators under this section must have published something in 2022.
 | Dotnetos | [Blog](https://dotnetos.org/blog), [YouTube](https://youtube.com/c/Dotnetos)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
+| ExceptionNotFound | [Blog](https://www.exceptionnotfound.net)
 </details>
 
 ### Aggregator Sites
