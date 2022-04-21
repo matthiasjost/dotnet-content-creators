@@ -22,6 +22,14 @@ All creators under this section must have published something in 2022.
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 
+### Belgium
+
+<img src="4x3/be.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/)
+
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
