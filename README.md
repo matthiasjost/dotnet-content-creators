@@ -92,18 +92,6 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Patrick Smacchia | [Blog](https://blog.ndepend.com)
 
-
-### Poland
-<img src="4x3/pl.svg" height="35">
-
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Szymon Kulec  | [Blog](https://blog.scooletz.com/)
-| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/)
-| Oskar Dudycz  | [Blog](https://event-driven.io/en/)
-
-
-
 ### Netherlands
 <img src="4x3/nl.svg" height="35">
 
@@ -123,11 +111,23 @@ All creators under this section must have published something in 2022.
 | Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/)
 
 
+
+### Poland
+<img src="4x3/pl.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Szymon Kulec  | [Blog](https://blog.scooletz.com/)
+| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/)
+| Oskar Dudycz  | [Blog](https://event-driven.io/en/)
+
+
 ### Portugal
 <img src="4x3/pt.svg" height="35">
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Guilherme Ferreira  | [Blog](https://gsferreira.com)
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
 
 
