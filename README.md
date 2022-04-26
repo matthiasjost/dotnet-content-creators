@@ -39,6 +39,13 @@ All creators under this section must have published something in 2022.
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
 | Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 
+### Colombia
+<img src="4x3/co.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Juan Carlos Zuluaga | [YouTube](https://www.youtube.com/c/jzuluaga55)
+
 ### Germany
 <img src="4x3/de.svg" height="35">
 
