@@ -58,7 +58,7 @@ All creators under this section must have published something in 2022.
 | Nouman Rahman  | [Blog](https://programmingfire.com)
 | Saineshwar Bageri | [Blog](https://tutexchange.com)
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
-| Shreyas Jejurkar  | [Blog](https://mccshreyas.wordpress.com)
+| Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com)
 
 
 ### Italy
@@ -256,7 +256,7 @@ All creators under this section must have published something in 2022.
 * Please add your favourite creators!
 
 ## 🙏Credits
-* Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://mccshreyas.wordpress.com/2022/01/24/list-of-youtube-channels-for-net-csharp-developers)
+* Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: https://flagicons.lipis.dev / https://github.com/lipis/flag-icons
 
