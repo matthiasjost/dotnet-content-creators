@@ -197,6 +197,7 @@ All creators under this section must have published something in 2022.
 | Peter Morris | [Site](https://blazor-university.com)
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
+| John Skeet | [Blog](https://codeblog.jonskeet.uk/)
 
 ### USA
 <img src="4x3/us.svg" height="35">
@@ -211,6 +212,7 @@ All creators under this section must have published something in 2022.
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz)
+  | Jeremy Likness | [Blog](https://blog.jeremylikness.com/)
   | Jimmy Bogard | [Blog](https://jimmybogard.com/)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
