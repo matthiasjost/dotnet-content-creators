@@ -189,6 +189,7 @@ All creators under this section must have published something in 2022.
 | Jamie Taylor | [Podcast](https://dotnetcore.show)
 | Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
+| Jon Skeet | [Blog](https://codeblog.jonskeet.uk/)
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit)
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net)
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand)
@@ -197,7 +198,6 @@ All creators under this section must have published something in 2022.
 | Peter Morris | [Site](https://blazor-university.com)
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
-| John Skeet | [Blog](https://codeblog.jonskeet.uk/)
 
 ### USA
 <img src="4x3/us.svg" height="35">
