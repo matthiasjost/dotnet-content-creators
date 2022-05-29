@@ -67,8 +67,8 @@ All creators under this section must have published something in 2022.
 | Nouman Rahman  | [Blog](https://programmingfire.com)
 | Saineshwar Bageri | [Blog](https://tutexchange.com)
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
+| Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos)
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com)
-
 
 ### Italy
 <img src="4x3/it.svg" height="35">
