@@ -212,7 +212,6 @@ All creators under this section must have published something in 2022.
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy)
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/)
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz)
-  | Jeremy Likness | [Blog](https://blog.jeremylikness.com/)
   | Jimmy Bogard | [Blog](https://jimmybogard.com/)
   | Julie Lerman | [Twitter](https://twitter.com/julielerman)
   | Kendra Havens | [Twitter](https://twitter.com/gotheap)
