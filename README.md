@@ -85,6 +85,13 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev)
 
+### Jamaica
+<img src="4x3/jm.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams)
+
 
 ### Lebanon
 <img src="4x3/lb.svg" height="35">
