@@ -199,6 +199,7 @@ All creators under this section must have published something in 2022.
 | Andrew Lock | [Blog](https://andrewlock.net/)
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding)
 | Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/)
+| Dave Murray | [Blog](https://blog.taranissoftware.com/)
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
 | Jamie Taylor | [Podcast](https://dotnetcore.show)
