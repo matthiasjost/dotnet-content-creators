@@ -13,14 +13,6 @@ With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Bo
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
 
-### Dominican Republic 
-
-<img src="4x3/do.svg" height="35">
-
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Steven Checo | [YouTube](youtube.com/channel/UC5G2iz5s9m9pR_w50ma_sWA), [Blog](https://checox.com)
-
 ### Australia 
 
 <img src="4x3/au.svg" height="35">
@@ -29,6 +21,14 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
+
+### Dominican Republic 
+
+<img src="4x3/do.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Steven Checo | [Blog](https://checox.com)
 
 ### Belgium
 
