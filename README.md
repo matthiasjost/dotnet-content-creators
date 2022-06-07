@@ -125,7 +125,7 @@ All creators under this section must have published something in 2022.
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl)
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog)
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)
-
+| Fanie Reynders | [Twitch](https://twitch.tv/faniereynders), [YouTube](https://YouTube.com/faniereynders)
 
 ### Norway
 <img src="4x3/no.svg" height="35">
