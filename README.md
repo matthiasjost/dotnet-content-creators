@@ -54,6 +54,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads)
+| Martin Finkel | [Blog](https://mfkl.github.io)
 
 
 ### Germany
