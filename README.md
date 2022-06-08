@@ -71,6 +71,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Abdul Rahman | [Site](https://www.ilovedotnet.org)
 | Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com)
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
 | Nouman Rahman  | [Blog](https://programmingfire.com)
