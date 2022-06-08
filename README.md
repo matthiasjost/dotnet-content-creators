@@ -182,6 +182,7 @@ All creators under this section must have published something in 2022.
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken)
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
 | Steven Giesel |  [Blog](https://steven-giesel.com)
+| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/)
 
 
 ### Turkey
