@@ -1,14 +1,14 @@
 # :zap: My Favourite .NET Content Creators
 
-With creators I mean enthusiasts creating content for Blogs, YouTube, Twitch, Books, tutorial platforms (e.g. Pluralsight)
+By creators, I mean enthusiasts creating content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight)
 
-* :speaking_head: All creators listed here **also create content in English or only create content in English**.
-* :writing_hand: Bloggers
-* :film_projector: YouTubers
-* :open_book: Book authors
-* :receipt: Free or paid content
-* :world_map: The country doesn't matter as well, but I thought it is an excellent way to divide the list into sections and to challenge everyone to find good creators from all countries.
-* :compass: What I call the "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best.
+* 🗣️ All creators listed here also create or only create content in English.
+* ✍️ Bloggers
+* 📽️ YouTubers
+* 📖 Book authors
+* 🧾 Free or paid content
+* 🗺️ The country doesn't matter either, but I thought it is an excellent way to divide the list into sections and challenge everyone to find good creators from all countries.
+* 🧭 What I call the "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best.
 
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
