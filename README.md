@@ -189,7 +189,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) 
-| Engincan Veske | [ABP-Community](https://community.abp.io/members/EngincanV), [Dev.to](https://dev.to/engincanv), [Medium](https://enginveske.medium.com/)
+| Engincan Veske | [ABP-Community](https://community.abp.io/members/EngincanV)
 
 ### UK
 <img src="4x3/gb.svg" height="35">
