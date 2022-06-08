@@ -71,6 +71,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Abdul Rahman Shabeek Mohamed | [Site](https://www.ilovedotnet.org), [YouTube](https://www.youtube.com/channel/UCOS3wCw7SVXjXXffMPqid7A), [Instagram](https://www.instagram.com/ilovedotnet), [LinkedIn](https://www.linkedin.com/in/fingers10), [GitHub](https://www.github.com/ilovedotnet)
 | Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com)
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
 | Nouman Rahman  | [Blog](https://programmingfire.com)
