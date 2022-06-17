@@ -24,6 +24,7 @@ All creators under this section must have published something in 2022.
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
+| Rahul Rai | [Blog](https://thecloudblog.net)
 
 ### Dominican Republic 
 
