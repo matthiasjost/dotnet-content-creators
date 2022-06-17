@@ -22,7 +22,6 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Christian Findlay | [Blog](https://christianfindlay.com)
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
-| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle)
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 | Rahul Rai | [Blog](https://thecloudblog.net)
 
