@@ -25,14 +25,6 @@ All creators under this section must have published something in 2022.
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 | Rahul Rai | [Blog](https://thecloudblog.net)
 
-### Dominican Republic 
-
-<img src="4x3/do.svg" height="35">
-
-| Name  | Main Channel |
-| ------------- | ------------- |
-| Steven Checo | [Blog](https://checox.com)
-
 ### Belgium
 
 <img src="4x3/be.svg" height="35">
@@ -50,6 +42,14 @@ All creators under this section must have published something in 2022.
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/)
 | Richard Campbell | [Podcast](https://www.dotnetrocks.com/)
 
+
+### Dominican Republic 
+
+<img src="4x3/do.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Steven Checo | [Blog](https://checox.com)
 
 ### France
 <img src="4x3/fr.svg" height="35">
