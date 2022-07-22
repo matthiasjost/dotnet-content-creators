@@ -276,8 +276,9 @@ All creators under this section must have published something in 2022.
 | DevMentors | [YouTube](https://www.youtube.com/c/DevMentors), [Site](https://devmentors.io)
 | Dotnetos | [Blog](https://dotnetos.org/blog), [YouTube](https://youtube.com/c/Dotnetos)
 | DotNet Core Central | [YouTube](https://www.youtube.com/c/DotNetCoreCentral)
-| Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
 | ExceptionNotFound | [Blog](https://www.exceptionnotfound.net)
+| tutorials.EU | [YouTube](https://www.youtube.com/c/tutorialsEU), [Courses](https://tutorials.eu/)
+| Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
 </details>
 
 ### Aggregator Sites
