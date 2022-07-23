@@ -15,7 +15,6 @@ By creators, I mean enthusiasts creating content for Blogs, YouTube, Twitch, Boo
 All creators under this section must have published something in 2022.
 
 ### Australia 
-
 <img src="4x3/au.svg" height="35">
 
 | Name  | Main Channel |
@@ -44,12 +43,18 @@ All creators under this section must have published something in 2022.
 
 
 ### Dominican Republic 
-
 <img src="4x3/do.svg" height="35">
 
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Steven Checo | [Blog](https://checox.com)
+
+### Egypt
+<img src="4x3/eg.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Shady Nagy | [Blog](https://shadynagy.com/)
 
 ### France
 <img src="4x3/fr.svg" height="35">
@@ -254,18 +259,17 @@ All creators under this section must have published something in 2022.
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast)
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle)
 
-
-
 ### Official MSFT / .NET Foundation content resources / Xamarin
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/en-us/dotnet)
 | .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation)
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio),  [Blog](https://devblogs.microsoft.com/visualstudio/)
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers)
- </details>
 
 ### Multi-Creator Channels / Creator Name Unkown
+
 | Name  | Main Channel |
 | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/)
@@ -279,7 +283,6 @@ All creators under this section must have published something in 2022.
 | ExceptionNotFound | [Blog](https://www.exceptionnotfound.net)
 | tutorials.EU | [YouTube](https://www.youtube.com/c/tutorialsEU), [Courses](https://tutorials.eu/)
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
-</details>
 
 ### Aggregator Sites
 | Name  | Main Channel |
@@ -288,8 +291,6 @@ All creators under this section must have published something in 2022.
 | .NET Ketchup | [Site](https://dotnetketchup.com)
 | The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/)
 | The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/)
-
-
 
 ## 🪴 Contribute
 * No matter if huge or a small following: The quality matters. 
