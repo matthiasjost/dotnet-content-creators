@@ -90,6 +90,14 @@ All creators under this section must have published something in 2022.
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos)
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com)
 
+### Israel
+<img src="4x3/il.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/)
+
+
 ### Italy
 <img src="4x3/it.svg" height="35">
 
