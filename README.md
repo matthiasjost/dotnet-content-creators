@@ -164,7 +164,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
-| Guilherme Ferreira  | [Blog](https://gsferreira.com)
+| Guilherme Ferreira  | [Blog](https://gsferreira.com), [YouTube](https://www.youtube.com/user/guilhermeasferreira)
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia)
 
 
