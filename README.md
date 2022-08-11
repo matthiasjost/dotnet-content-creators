@@ -105,6 +105,14 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev)
 
+
+### Japan
+<img src="4x3/jp.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech)
+
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
 
