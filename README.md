@@ -199,7 +199,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/)
-| Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic), [YouTube](https://www.youtube.com/c/MilanJovanovicTech)
+| Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic), [YouTube](https://www.youtube.com/c/MilanJovanovicTech), [Twitter](https://twitter.com/mjovanovictech)
 
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
