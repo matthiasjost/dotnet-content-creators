@@ -104,6 +104,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev)
+| Fabio Ramoni | [Twitter](https://twitter.com/developer_fabio), [Twitter Threads (GitHub)](https://github.com/FabioDeveloper92/developer_fabio_twitter_threads)
 
 
 ### Japan
