@@ -82,6 +82,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |
 | Abdul Rahman | [Site](https://www.ilovedotnet.org)
 | Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com)
+| Anurag Sinha  | [Blog](https://techncodetools.com/blog/)
 | Bhrugen Patel | [YouTube](https://www.youtube.com/user/bhrugen1990), [Courses](https://www.dotnetmastery.com/)
 | Mukesh Murugan | [Blog](https://codewithmukesh.com/blog)
 | Nouman Rahman  | [Blog](https://programmingfire.com)
@@ -89,7 +90,7 @@ All creators under this section must have published something in 2022.
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA)
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos)
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com)
-| Anurag Sinha  | [Blog](https://techncodetools.com/blog/)
+
 
 ### Israel
 <img src="4x3/il.svg" height="35">
