@@ -212,6 +212,7 @@ All creators under this section must have published something in 2022.
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi)
 | Damien Bowden  | [Blog](https://damienbod.com)
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken)
+| Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/)
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks)
 | Steven Giesel |  [Blog](https://steven-giesel.com)
 | Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/)
