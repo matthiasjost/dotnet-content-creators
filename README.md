@@ -251,6 +251,7 @@ All creators under this section must have published something in 2022.
 | Peter Morris | [Site](https://blazor-university.com)
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com)
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon)
+| Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/)
 
 ### USA
 <img src="4x3/us.svg" height="35">
