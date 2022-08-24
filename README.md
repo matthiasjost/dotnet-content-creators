@@ -203,6 +203,7 @@ All creators under this section must have published something in 2022.
 | Marinko Spasojevic | [Blog](https://code-maze.com/)
 | Milan Milanović | [LinkedIn](https://www.linkedin.com/in/milanmilanovic/), [Blog](https://milan.milanovic.org/post/), [Twitter](https://twitter.com/milan_milanovic)
 | Milan Jovanović | [LinkedIn](https://www.linkedin.com/in/milan-jovanovic), [YouTube](https://www.youtube.com/c/MilanJovanovicTech), [Twitter](https://twitter.com/mjovanovictech)
+| Zoran Horvat | [Twitter](https://twitter.com/zoranh75), [Blog](https://codinghelmet.com/articles), [YouTube](https://www.youtube.com/c/zh-code)
 
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
