@@ -227,6 +227,14 @@ All creators under this section must have published something in 2022.
 | Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) 
 | Engincan Veske | [Blog](https://engincanv.github.io/)
 
+### Ukraine
+<img src="4x3/ua.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall)
+
+
 ### UK
 <img src="4x3/gb.svg" height="35">
 
