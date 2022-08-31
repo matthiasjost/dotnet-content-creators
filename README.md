@@ -115,6 +115,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel |
 | ------------- | ------------- |
+| Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin)
 | Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech)
 
 ### Jamaica
