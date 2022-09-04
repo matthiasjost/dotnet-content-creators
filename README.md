@@ -254,7 +254,7 @@ All creators under this section must have published something in 2022.
 | Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall)
 
 
-### UK
+### United Kingdom
 <img src="4x3/gb.svg" height="35">
 
 | Name  | Main Channel |
@@ -268,6 +268,7 @@ All creators under this section must have published something in 2022.
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/)
 | Jamie Maguire | [Blog](https://jamiemaguire.net/)
 | Jamie Taylor | [Podcast](https://dotnetcore.show)
+| John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly)
 | Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io)
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net)
 | Jon Skeet | [Blog](https://codeblog.jonskeet.uk/)
