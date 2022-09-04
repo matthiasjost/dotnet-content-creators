@@ -24,6 +24,14 @@ All creators under this section must have published something in 2022.
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath)
 | Rahul Rai | [Blog](https://thecloudblog.net)
 
+### Austria 
+<img src="4x3/at.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel)
+
+
 ### Belgium
 
 <img src="4x3/be.svg" height="35">
