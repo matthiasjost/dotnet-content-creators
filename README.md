@@ -161,6 +161,14 @@ All creators under this section must have published something in 2022.
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)
 | Fanie Reynders | [Twitch](https://twitch.tv/faniereynders), [YouTube](https://YouTube.com/faniereynders)
 
+
+### New Zealand
+<img src="4x3/nz.svg" height="35">
+
+| Name  | Main Channel |
+| ------------- | ------------- |
+| Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield)
+
 ### Norway
 <img src="4x3/no.svg" height="35">
 
