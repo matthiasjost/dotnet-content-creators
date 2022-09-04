@@ -156,6 +156,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel |
 | ------------- | ------------- |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)
+| Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl)
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog)
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)
