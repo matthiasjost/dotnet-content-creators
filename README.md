@@ -1,18 +1,26 @@
 # :zap: My Favourite .NET Content Creators
 
-By creators, I mean enthusiasts creating content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight).
+#### What are creators? 
+By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid. We only list creators and channels with English content.
 
-* 🗣️ All creators listed here also create or only create content in English.
-* ✍️ Bloggers
-* 📽️ YouTubers
-* 📖 Book authors
-* 🧾 Free or paid content
-* 🗺️ The country doesn't matter either, but I thought it is an excellent way to divide the list into sections and challenge everyone to find good creators from all countries.
-* 🧭 What I call the "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best. 
-* 🔗 Please add 3 links or less as the main channel (add channels with English content only).
+#### Why does the country sort it?
+
+The country doesn't matter, but it is a way to divide the list into sections and challenge everyone to find good creators from all countries.
+
+#### What is the "main" channel?
+
+The "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best. 
+
+#### How to contribute?
+
+* Add three links or less as the "main" channel (add channels with English content only)
+* Add four tags or less to make browsing the list more comfortable
+* No matter if huge or a small following: The quality matters
+* Add your favourite creators!
 
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
+
 
 ### Australia 
 <img src="4x3/au.svg" height="35">
@@ -344,10 +352,6 @@ All creators under this section must have published something in 2022.
 | .NET Ketchup | [Site](https://dotnetketchup.com) |  |
 | The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/) |  |
 | The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/) |  |
-
-## 🪴 Contribute
-* No matter if huge or a small following: The quality matters. 
-* Please add your favourite creators!
 
 ## 🙏Credits
 * Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
