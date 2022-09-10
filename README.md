@@ -123,8 +123,8 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) |  |
-| Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) |  |
+| Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | Windows Desktop (WinUI 3) |
+| Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | General .NET, C# |
 
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
