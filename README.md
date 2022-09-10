@@ -19,10 +19,10 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Christian Findlay | [Blog](https://christianfindlay.com) |  |
-| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle) |  |
-| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath) |  |
-| Rahul Rai | [Blog](https://thecloudblog.net) |  |
+| Christian Findlay | [Blog](https://christianfindlay.com) | General .NET, C# |
+| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
+| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath) | ASP.NET Core, .NET on AWS  |
+| Rahul Rai | [Blog](https://thecloudblog.net) | Azure, Kurbernetes |
 
 ### Austria 
 <img src="4x3/at.svg" height="35">
