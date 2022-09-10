@@ -306,7 +306,7 @@ All creators under this section must have published something in 2022.
   | Jimmy Bogard | [Blog](https://jimmybogard.com/) |  |
   | Julie Lerman | [Twitter](https://twitter.com/julielerman) |  |
   | Kendra Havens | [Twitter](https://twitter.com/gotheap) |  |
-  | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost) |  |
+  | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost) | General .NET, C#, WPF |
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/) |  |
   | Niels Swimberghe | [Blog](https://swimburger.net) |  |
   | Richard Campbell | [Podcast](https://www.dotnetrocks.com) |  |
