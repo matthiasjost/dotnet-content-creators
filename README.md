@@ -315,7 +315,7 @@ All creators under this section must have published something in 2022.
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) |  |
   | Sean Killeen | [Blog](https://seankilleen.com/) |  |
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) |  |
-  | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) |  |
+  | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | General .NET, C#, WPF |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  |
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast) |  |
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) |  |
