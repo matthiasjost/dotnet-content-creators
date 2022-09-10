@@ -131,7 +131,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | Windows Desktop (WinUI 3) |
+| Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | WinAppSDK, WinUI 3 |
 | Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | General .NET, C# |
 
 ### Jamaica
@@ -306,7 +306,7 @@ All creators under this section must have published something in 2022.
   | Jimmy Bogard | [Blog](https://jimmybogard.com/) |  |
   | Julie Lerman | [Twitter](https://twitter.com/julielerman) |  |
   | Kendra Havens | [Twitter](https://twitter.com/gotheap) |  |
-  | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost) |  |
+  | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost) | WPF |
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/) |  |
   | Niels Swimberghe | [Blog](https://swimburger.net) |  |
   | Richard Campbell | [Podcast](https://www.dotnetrocks.com) |  |
@@ -315,7 +315,7 @@ All creators under this section must have published something in 2022.
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) |  |
   | Sean Killeen | [Blog](https://seankilleen.com/) |  |
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) |  |
-  | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) |  |
+  | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  |
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast) |  |
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) |  |
