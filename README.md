@@ -126,6 +126,14 @@ All creators under this section must have published something in 2022.
 | Fabio Ramoni | [Twitter](https://twitter.com/developer_fabio), [Twitter Threads (GitHub)](https://github.com/FabioDeveloper92/developer_fabio_twitter_threads) |  |
 
 
+### Jamaica
+<img src="4x3/jm.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) |  |
+
+
 ### Japan
 <img src="4x3/jp.svg" height="35">
 
@@ -133,13 +141,6 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | WinAppSDK, WinUI 3 |
 | Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | General .NET, C# |
-
-### Jamaica
-<img src="4x3/jm.svg" height="35">
-
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) |  |
 
 
 ### Lebanon
