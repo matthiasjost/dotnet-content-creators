@@ -172,7 +172,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) |  |
+| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C#  |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd) |  |
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) |  |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog) |  |
