@@ -286,7 +286,7 @@ All creators under this section must have published something in 2022.
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand) |  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash) |  |
 | Paul Michaels | [Site](https://pmichaels.net) |  |
-| Peter Morris | [Site](https://blazor-university.com) |  |
+| Peter Morris | [Site](https://blazor-university.com) | Blazor |
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com) |  |
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon) |  |
 | Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/) |  |
@@ -300,6 +300,7 @@ All creators under this section must have published something in 2022.
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG) |  |
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) |  |
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) |  |
+  | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](oreilly.com/library/view/learning-blazor/9781098113230/)
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) |  |
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) |  |
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/) |  |
