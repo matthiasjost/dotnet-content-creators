@@ -271,6 +271,7 @@ All creators under this section must have published something in 2022.
 | Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella) |  |
 | Andrew Lock | [Blog](https://andrewlock.net/) |  |
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding) |  |
+| Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction) | Blazor
 | Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/) |  |
 | Dave Murray | [Blog](https://blog.taranissoftware.com/) |  |
 | David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) |  |
