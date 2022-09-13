@@ -300,7 +300,7 @@ All creators under this section must have published something in 2022.
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG) |  |
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) |  |
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) |  |
-  | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](oreilly.com/library/view/learning-blazor/9781098113230/)
+  | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](https://oreilly.com/library/view/learning-blazor/9781098113230/) | Blazor
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) |  |
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) |  |
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/) |  |
