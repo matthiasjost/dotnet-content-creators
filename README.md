@@ -172,14 +172,14 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
+| Fanie Reynders | [Twitch](https://twitch.tv/faniereynders), [YouTube](https://YouTube.com/faniereynders) |  |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C#  |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd) |  |
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog) |  |
-| Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) |  |
-| Fanie Reynders | [Twitch](https://twitch.tv/faniereynders), [YouTube](https://YouTube.com/faniereynders) |  |
-| Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
 | Michiel van Oudheusden | [Blog](https://mindbyte.nl/) | Azure, GitHub, ALM |
+| Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
+| Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) |  |
 
 
 ### New Zealand
