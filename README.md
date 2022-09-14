@@ -53,9 +53,9 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [Blog](https://codeopinion.com)| Architecture, General .NET  |
+| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com)| Architecture, General .NET  |
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com) | Blazor, ASP.NET Core |
-| Richard Campbell | [Podcast](https://www.dotnetrocks.com/) |  |
+| Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/) | Podcast, General .NET  |
 
 
 ### Dominican Republic 
