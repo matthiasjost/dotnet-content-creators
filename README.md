@@ -63,24 +63,24 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Steven Checo | [Blog](https://checox.com) |  |
+| Steven Checo | [Blog](https://checox.com) | .NET MAUI  |
 
 ### Egypt
 <img src="4x3/eg.svg" height="35">
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Shady Nagy | [Blog](https://shadynagy.com/) |  |
+| Shady Nagy | [Blog](https://shadynagy.com/) | .NET General, ASP.NET Core |
 
 ### France
 <img src="4x3/fr.svg" height="35">
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Alexis Chân GRIDEL | [Blog](https://agdl.dev) |  |
-| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads) |  |
-| Martin Finkel | [Blog](https://mfkl.github.io) |  |
-| Laurent Egbakou | [Blog](https://lioncoding.com) |  |
+| Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET General |
+| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
+| Martin Finkel | [Blog](https://mfkl.github.io) | .NET General, C# |
+| Laurent Egbakou | [Blog](https://lioncoding.com) | .NET General, Azure  |
 
 
 ### Germany
