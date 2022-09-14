@@ -37,7 +37,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel) |  |
+| Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel) | General .NET, C# |
 
 
 ### Belgium
@@ -46,15 +46,15 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/) |  |
+| Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/) | General .NET, C#, ASP.NET Core |
 
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) |  |
-| Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/) |  |
+| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) [Blog](https://codeopinion.com)| Architecture, General .NET  |
+| Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com) | Blazor, ASP.NET Core |
 | Richard Campbell | [Podcast](https://www.dotnetrocks.com/) |  |
 
 
