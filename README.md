@@ -315,13 +315,14 @@ All creators under this section must have published something in 2022.
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/) |  |
   | Niels Swimberghe | [Blog](https://swimburger.net) |  |
   | Richard Campbell | [Podcast](https://www.dotnetrocks.com) |  |
+  | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | General .NET, C#, Markdown |
   | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Twitter](https://www.twitter.com/rockylhotka) |  |
   | Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) |  |
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) |  |
   | Sean Killeen | [Blog](https://seankilleen.com/) |  |
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) |  |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF |
-  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  |
+  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  Domain-Driven Design, Clean Architecture, General .NET |
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast) |  |
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) |  |
 
