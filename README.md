@@ -86,11 +86,11 @@ All creators under this section must have published something in 2022.
 ### Germany
 <img src="4x3/de.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR) |  |
-| Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber) |  |
-| Tim Cadenbach | [Blog](https://www.tcdev.de/blog) |  |
+| Name  | Main Channel | Tags                              |
+| ------------- | ------------- |-----------------------------------|
+| Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR) | .NET General, C#                  |
+| Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber) | .NET General, C#, Blazor, WinUI 3 |
+| Tim Cadenbach | [Blog](https://www.tcdev.de/blog) | .NET Core, ASP.NET Core  |
 
 ### India
 <img src="4x3/in.svg" height="35">
