@@ -112,9 +112,9 @@ All creators under this section must have published something in 2022.
 ### Israel
 <img src="4x3/il.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) |  |
+| Name  | Main Channel | Tags                       |
+| ------------- | ------------- |----------------------------|
+| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET General, ASP.NET Core |
 
 
 ### Italy
@@ -129,9 +129,9 @@ All creators under this section must have published something in 2022.
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) |  |
+| Name  | Main Channel | Tags                                         |
+| ------------- | ------------- |----------------------------------------------|
+| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) | .NET General, ASP.NET Core, Azure, .NET MAUI |
 
 
 ### Japan
@@ -146,10 +146,10 @@ All creators under this section must have published something in 2022.
 ### Lebanon
 <img src="4x3/lb.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) |  |
-| Hasan Aboul | [Blog](https://learnwithhasan.com) |  |
+| Name  | Main Channel                                                                                         | Tags         |
+| ------------- |------------------------------------------------------------------------------------------------------|--------------|
+| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA)                                  | .General .NET, Azure |
+| Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [Blog](https://learnwithhasan.com) | .General .NET|
 
 
 ### Malawi
@@ -157,55 +157,55 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg) |  |
+| Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg) | General .NET, ASP.NET Core |
 
 
 ### Mauritius
 <img src="4x3/mu.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Patrick Smacchia | [Blog](https://blog.ndepend.com) |  |
+| Name  | Main Channel | Tags                           |
+| ------------- | ------------- |--------------------------------|
+| Patrick Smacchia | [Blog](https://blog.ndepend.com) | .NET General, C#, Architecture |
 
 ### Netherlands
 <img src="4x3/nl.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Fanie Reynders | [Twitch](https://twitch.tv/faniereynders), [YouTube](https://YouTube.com/faniereynders) |  |
-| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C#  |
-| Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd) |  |
+| Name  | Main Channel                                                                                   | Tags                        |
+| ------------- |------------------------------------------------------------------------------------------------|-----------------------------|
+| Fanie Reynders | [YouTube](https://YouTube.com/faniereynders), [Twitch](https://twitch.tv/faniereynders) | General .NET, Azure         |
+| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis)                                            | .NET MAUI, Blazor, C#       |
+| Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)      | General .NET, Azure         |
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
-| Max Hamulyák | [Blog](https://kaylumah.nl/blog) |  |
-| Michiel van Oudheusden | [Blog](https://mindbyte.nl/) | Azure, GitHub, ALM |
-| Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
-| Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) |  |
+| Max Hamulyák | [Blog](https://kaylumah.nl/blog)                                                               | .NET General, C#            |
+| Michiel van Oudheusden | [Blog](https://mindbyte.nl/)                                                                   | Azure, GitHub, ALM          |
+| Rob Bos | [Blog](https://devopsjournal.io/)                                                              | DevOps, GitHub              |
+| Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt)                         | General .NET, ASP.NET Core  |
 
 
 ### New Zealand
 <img src="4x3/nz.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield) |  |
+| Name  | Main Channel                                                                                              | Tags         |
+| ------------- |-----------------------------------------------------------------------------------------------------------|--------------|
+| Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield)  | General .NET |
 
 ### Norway
 <img src="4x3/no.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/) |  |
+| Name  | Main Channel | Tags              |
+| ------------- | ------------- |-------------------|
+| Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/) | Azure, Kubernetes |
 
 
 
 ### Poland
 <img src="4x3/pl.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Szymon Kulec  | [Blog](https://blog.scooletz.com/) |  |
-| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/) |  |
-| Oskar Dudycz  | [Blog](https://event-driven.io/en/) |  |
+| Name  | Main Channel | Tags                         |
+| ------------- | ------------- |------------------------------|
+| Szymon Kulec  | [Blog](https://blog.scooletz.com/) | General .NET                 |
+| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/) | General .NET, C#             |
+| Oskar Dudycz  | [Blog](https://event-driven.io/en/) | General .NET, Event-Driven Architecture |
 
 
 ### Portugal
