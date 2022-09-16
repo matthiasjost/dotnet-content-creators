@@ -95,18 +95,18 @@ All creators under this section must have published something in 2022.
 ### India
 <img src="4x3/in.svg" height="35">
 
-| Name  | Main Channel | Tags |
-| ------------- | ------------- | ------------- |
-| Abdul Rahman | [Site](https://www.ilovedotnet.org) |  |
-| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com) |  |
-| Anurag Sinha  | [Blog](https://techncodetools.com/blog/) |  |
-| Bhrugen Patel | [YouTube](https://www.youtube.com/user/bhrugen1990), [Courses](https://www.dotnetmastery.com/) |  |
-| Mukesh Murugan | [Blog](https://codewithmukesh.com/blog) |  |
-| Nouman Rahman  | [Blog](https://programmingfire.com) |  |
-| Saineshwar Bageri | [Blog](https://tutexchange.com) |  |
-| Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA) |  |
-| Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos) |  |
-| Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) |  |
+| Name  | Main Channel | Tags                                |
+| ------------- | ------------- |-------------------------------------|
+| Abdul Rahman | [Site](https://www.ilovedotnet.org) | .NET General                        |
+| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com) | .NET General, Docker, ABP Framework |
+| Anurag Sinha  | [Blog](https://techncodetools.com/blog/) | .NET General                        |
+| Bhrugen Patel | [YouTube](https://www.youtube.com/user/bhrugen1990), [Courses](https://www.dotnetmastery.com/) | .NET General, ASP.NET Core, Blazor  |
+| Mukesh Murugan | [Blog](https://codewithmukesh.com/blog) | .NET General, AWS                   |
+| Nouman Rahman  | [Blog](https://programmingfire.com) | .NET General, C#                    |
+| Saineshwar Bageri | [Blog](https://tutexchange.com) | .NET General, ASP.NET Core          |
+| Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA) | .NET General, ASP.NET Core          |
+| Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos) | .NET General                        |
+| Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET General, ASP.NET Core          |
 
 
 ### Israel
