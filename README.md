@@ -30,7 +30,7 @@ All creators under this section must have published something in 2022.
 | Christian Findlay | [Blog](https://christianfindlay.com) | General .NET, C# |
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath) | ASP.NET Core, .NET on AWS  |
-| Rahul Rai | [Blog](https://thecloudblog.net) | Azure, Kurbernetes |
+| Rahul Rai | [Blog](https://thecloudblog.net) | Azure, Kubernetes |
 
 ### Austria 
 <img src="4x3/at.svg" height="35">
