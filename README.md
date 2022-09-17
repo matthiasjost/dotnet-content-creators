@@ -240,13 +240,13 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi) |  |
-| Damien Bowden  | [Blog](https://damienbod.com) |  |
-| Emanuele Bartolesi | [Blog](https://dev.to/kasuken) |  |
-| Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) |  |
-| Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks) |  |
-| Steven Giesel |  [Blog](https://steven-giesel.com) |  |
-| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/) |  |
+| Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi), [Twitter](https://twitter.com/CHBernasconiC),  [Blog](https://www.claudiobernasconi.ch/) | .NET General, .NET MAUI  |
+| Damien Bowden  | [Blog](https://damienbod.com), [Twitter](https://twitter.com/damien_bod) | ASP.NET Core, OpenID Connect, OAuth |
+| Emanuele Bartolesi | [Blog](https://www.emanuelebartolesi.com/blog), [Twitter](https://twitter.com/kasuken) | General .NET, Blazor, Azure |
+| Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) | Azure, ASP.NET Core  |
+| Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks), [Twitter](https://twitter.com/sharpcms/) | ASP.NET Core  |
+| Steven Giesel |  [Blog](https://steven-giesel.com), [LinkedIn](https://www.linkedin.com/in/steven-giesel/) | General .NET, C#, Blazor  |
+| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/) | Azure, Kubernetes  |
 
 
 ### Turkey
