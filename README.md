@@ -27,10 +27,11 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Christian Findlay | [Blog](https://christianfindlay.com) | General .NET, C# |
+| Christian Findlay | [Blog](https://christianfindlay.com), [Twitter](https://twitter.com/cfdevelop) | General .NET, C# |
+| Jason Taylor | [Blog](https://jasontaylor.dev/), [LinkedIn](https://www.linkedin.com/in/jasontaylordev/), [Twitter](https://twitter.com/jasontaylordev) | General .NET
 | Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
-| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath) | ASP.NET Core, .NET on AWS  |
-| Rahul Rai | [Blog](https://thecloudblog.net) | Azure, Kubernetes |
+| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath), [Twitter](https://twitter.com/rahulpnath) | ASP.NET Core, .NET on AWS  |
+| Rahul Rai | [Blog](https://thecloudblog.net), [LinkedIn](https://www.linkedin.com/in/rahulrai-in/), [Twitter](https://twitter.com/rahulrai_in) | Azure, Kubernetes |
 
 ### Austria 
 <img src="4x3/at.svg" height="35">
@@ -246,7 +247,7 @@ All creators under this section must have published something in 2022.
 | Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) | Azure, ASP.NET Core  |
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks), [Twitter](https://twitter.com/sharpcms/) | ASP.NET Core  |
 | Steven Giesel |  [Blog](https://steven-giesel.com), [LinkedIn](https://www.linkedin.com/in/steven-giesel/) | General .NET, C#, Blazor  |
-| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/) | Azure, Kubernetes  |
+| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/) | Azure, Kubernetes |
 
 
 ### Turkey
@@ -254,8 +255,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Sabit Kondakçı | [LinkedIn](https://www.linkedin.com/in/sabit-kondak%C3%A7%C4%B1/) |  |
-| Engincan Veske | [Blog](https://engincanv.github.io/) |  |
+| Engincan Veske | [Blog](https://engincanv.github.io/) | ABP Framework, .NET General |
 
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
