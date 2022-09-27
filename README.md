@@ -262,7 +262,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall) |  |
+| Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall) | General .NET, C#, ASP.NET |
 
 
 ### United Kingdom
@@ -270,29 +270,29 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Andrea Angella | [YouTube](https://www.youtube.com/c/AndreaAngella) |  |
-| Andrew Lock | [Blog](https://andrewlock.net/) |  |
-| Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding) |  |
+| Andrea Angella | [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | General .NET, C# |
+| Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/) | General .NET, C#, ASP.NET Core  |
+| Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik) | General .NET, C#, ASP.NET Core |
 | Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction) | Blazor
-| Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/) |  |
-| Dave Murray | [Blog](https://blog.taranissoftware.com/) |  |
-| David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) |  |
-| Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) |  |
-| Jamie Maguire | [Blog](https://jamiemaguire.net/) |  |
-| Jamie Taylor | [Podcast](https://dotnetcore.show) |  |
-| John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly) |  |
-| Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io) |  |
-| Jon P Smith | [Blog](https://www.thereformedprogrammer.net) |  |
-| Jon Skeet | [Blog](https://codeblog.jonskeet.uk/) |  |
-| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit) |  |
-| Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net) |  |
-| Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand) |  |
-| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash) |  |
-| Paul Michaels | [Site](https://pmichaels.net) |  |
-| Peter Morris | [Site](https://blazor-university.com) | Blazor |
-| Scott Wlaschin | [Site](https://fsharpforfunandprofit.com) |  |
-| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon) |  |
-| Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/) |  |
+| Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan) | Podcast, General .NET |
+| Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/) | Xamarin |
+| David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) | General .NET, C#, ASP.NET Core  |
+| Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) | General .NET, Blazor |
+| Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1) | Azure AI, General .NET |
+| Jamie Taylor | [Podcast](https://dotnetcore.show), [Twitter](https://twitter.com/dotnetcoreshow/), [YouTube](https://www.youtube.com/c/JamieTaylorDotNetCore/videos) | Podcast, General .NET |
+| John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly) | General .NET |
+| Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io), [Twitter](https://twitter.com/jonhilt) | Blazor, General .NET  |
+| Jon P Smith | [Blog](https://www.thereformedprogrammer.net), [Twitter](https://twitter.com/thereformedprog) |  ASP.NET Core, EF Core |
+| Jon Skeet | [Blog](https://codeblog.jonskeet.uk/), [Twitter](https://twitter.com/jonskeet), [Book](https://csharpindepth.com/), [StackOverflow](https://stackoverflow.com/users/22656/jon-skeet) | General .NET, C# |
+| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter) |  General .NET  |
+| Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | General .NET, ASP.NET Core, Azure |
+| Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET General  |
+| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas) | .NET General, C#  |
+| Paul Michaels | [Site](https://pmichaels.net), [Twitter](https://twitter.com/paul_michaels) | .NET General, C#, Architecture  |
+| Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris) | Blazor |
+| Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
+| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/) | .NET General, C#  |
+| Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/) | General .NET, C# |
 
 ### USA
 <img src="4x3/us.svg" height="35">
