@@ -195,7 +195,8 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags      |
 | ------------- | ------------- |-------------------|
-| Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/) | Azure, Kubernetes |
+| Andreas Nesheim | [Blog](https://www.andreasnesheim.no/), [Twitter](https://twitter.com/AndreasNesheim), [LinkedIn](https://www.linkedin.com/in/andreas-nesheim/) | .NET MAUI
+| Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/), [Twitter](https://twitter.com/kristhecodingu1), [LinkedIn](https://www.linkedin.com/in/krisde/) | Azure, Kubernetes |
 
 
 
@@ -299,8 +300,8 @@ All creators under this section must have published something in 2022.
 
   | Name  | Main Channel | Tags |
   | ------------- | ------------- | ------------- |
-  | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/) |  |
-  | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG) |  |
+  | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET General, Podcast |
+  | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) | Blazor |
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) |  |
   | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
