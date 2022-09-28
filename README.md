@@ -195,7 +195,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags      |
 | ------------- | ------------- |-------------------|
-| Andreas Nesheim | [Blog](https://www.andreasnesheim.no/), [Twitter](https://twitter.com/AndreasNesheim), [LinkedIn](https://www.linkedin.com/in/andreas-nesheim/) | .NET MAUI
+| Andreas Nesheim | [Blog](https://www.andreasnesheim.no/), [Twitter](https://twitter.com/AndreasNesheim), [LinkedIn](https://www.linkedin.com/in/andreas-nesheim/) | .NET MAUI, Xamarin
 | Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/), [Twitter](https://twitter.com/kristhecodingu1), [LinkedIn](https://www.linkedin.com/in/krisde/) | Azure, Kubernetes |
 
 
