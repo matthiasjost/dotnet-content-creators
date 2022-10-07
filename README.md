@@ -79,9 +79,11 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
+| Cyril Canovas & Pierre Belin (GoatReview) | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
 | Martin Finkel | [Blog](https://mfkl.github.io) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
+
 
 
 ### Germany
