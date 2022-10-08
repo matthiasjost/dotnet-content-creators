@@ -247,8 +247,11 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
+| Alan Smith | [YouTube](https://www.youtube.com/c/CloudCastsAlanSmith), [Twitter](https://twitter.com/alansmith) | Azure AI
+| Daniel Hindrikes | [Twitter](https://twitter.com/hindrikes), [YouTube](https://www.youtube.com/c/DanielHindrikes), [Blog](https://danielhindrikes.se/) | .NET MAUI, Blazor, Azure
 | Jessica Engstrom  |  [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/engstromjess), [Twitch](https://www.twitch.tv/codingafterwork)         |  .NET, Blazor, Podcast         |
 | Jimmy Engström  |    [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/EngstromJimmy), [Blog](https://engstromjimmy.com/)        |   .NET, Blazor, Podcast             |
+| Simon Wåhlin | [Twitter](https://twitter.com/SimonWahlin), [YouTube](https://www.youtube.com/c/SimonAutomates), [Blog](https://blog.simonw.se/) | PowerShell, Azure
 
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
