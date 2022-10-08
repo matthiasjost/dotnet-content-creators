@@ -241,6 +241,15 @@ All creators under this section must have published something in 2022.
 | Stefan Djokic  | [LinkedIn](https://www.linkedin.com/in/djokic-stefan/), [Twitter](https://twitter.com/TheCodeMan__), [Blog](https://www.exlrt.com/blog?a=stefan-djokic) | .NET, C#, Architecture, EntityFramework |
 | Zoran Horvat | [Twitter](https://twitter.com/zoranh75), [Blog](https://codinghelmet.com/articles), [YouTube](https://www.youtube.com/c/zh-code) | .NET, C#, Architecture |
 
+
+### Sweden
+<img src="4x3/se.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Jessica Engstrom  |  [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/engstromjess), [Twitch](https://www.twitch.tv/codingafterwork)         |  .NET, Blazor, Podcast         |
+| Jimmy Engström  |    [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/EngstromJimmy), [Blog](https://engstromjimmy.com/)        |   .NET, Blazor, Podcast             |
+
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
 
@@ -347,6 +356,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
 | Code Maze | [Blog](https://www.code-maze.com) | .NET, C#, ASP.NET Core  |
+| Coding After Work |  [Podcast](https://www.codingafterwork.com/), [Twitch](https://www.twitch.tv/codingafterwork), [Twitter](https://twitter.com/CodingAfterWork) | .NET, Blazor, Podcast
 | Coding Blocks| [Podcast](https://www.codingblocks.net/) | .NET Podcast |
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive) | .NET, Blazor, ASP.NET Core  |
 | C# Corner | [Blog](https://www.c-sharpcorner.com/) | .NET, C# |
