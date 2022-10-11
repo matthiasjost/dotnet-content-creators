@@ -119,6 +119,13 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- |----------------------------|
 | Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
 
+### Ireland
+<img src="4x3/ie.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- |----------------------------|
+| Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
+
 ### Israel
 <img src="4x3/il.svg" height="35">
 
