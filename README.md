@@ -49,6 +49,14 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/) | .NET, C#, ASP.NET Core |
 
+### Brazil
+
+<img src="4x3/br.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Ivan Paulovich | [Blog](https://paulovich.net/), [YouTube](https://www.youtube.com/c/IvanPaulovichDotNet) | .NET, Architecture |
+
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
