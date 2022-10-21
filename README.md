@@ -340,6 +340,7 @@ All creators under this section must have published something in 2022.
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz) | .NET, ASP.NET Core  |
+  | Jesse Liberty | [Blog](https://jesseliberty.com), [Twitter](https://twitter.com/jesseliberty) | .NET MAUI, C#
   | Jimmy Bogard | [Blog](https://jimmybogard.com/), [LinkedIn](https://www.linkedin.com/in/jimmybogard/), [Twitter](https://twitter.com/jbogard) | AutoMapper, .NET  |
   | Julie Lerman | [Twitter](https://twitter.com/julielerman) | EF Core, .NET |
   | Kendra Havens | [Twitter](https://twitter.com/gotheap) | .NET  |
