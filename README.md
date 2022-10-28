@@ -346,6 +346,7 @@ All creators under this section must have published something in 2022.
   | Kendra Havens | [Twitter](https://twitter.com/gotheap) | .NET  |
   | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost), [Twitter](https://twitter.com/kitokeboo) | WPF, .NET |
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/) | .NET, C# |
+  | Matt Eland | [Coding Blog](https://NewDevsGuide.com/), [AI/ML Blog](https://AccessibleAI.dev/), [Twitter](https://twitter.com/IntegerMan)  | .NET, C#, ML.NET |
   | Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger) | .NET  |
   | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
   | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
