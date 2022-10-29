@@ -117,7 +117,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- |----------------------------|
-| Mehdi Hadeli | [GitHub](github.com/mehdihadeli), [Blog](https://www.mehdihadeli.com/), [YouTube](https://www.youtube.com/mehdihadeli) | Architecture, .NET, ASP.NET Core |
+| Mehdi Hadeli | [GitHub](github.com/mehdihadeli), [Blog](https://www.mehdihadeli.com/) Architecture, .NET, ASP.NET Core |
 | Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
 
 ### Ireland
