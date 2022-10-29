@@ -340,7 +340,7 @@ All creators under this section must have published something in 2022.
   | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
-  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
+  | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz) | .NET, ASP.NET Core  |
   | Jesse Liberty | [Blog](https://jesseliberty.com), [Twitter](https://twitter.com/jesseliberty) | .NET MAUI, C#
   | Jimmy Bogard | [Blog](https://jimmybogard.com/), [LinkedIn](https://www.linkedin.com/in/jimmybogard/), [Twitter](https://twitter.com/jbogard) | AutoMapper, .NET  |
@@ -367,7 +367,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/en-us/dotnet) | .NET, C#, ASP.NET Core, .NET MAUI |
+| .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/dotnet), [Twitter](https://twitter.com/dotnet) | .NET, C#, ASP.NET Core, .NET MAUI |
 | .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation) | .NET  |
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio),  [Blog](https://devblogs.microsoft.com/visualstudio/) | .NET, Visual Studio |
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers) | .NET, Xamarin |
