@@ -166,8 +166,8 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel  | Tags |
 | ------------- |------------------------------------------------------------------------------------------------------|--------------|
-| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) | ..NET, Azure |
-| Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [Blog](https://learnwithhasan.com) | ..NET|
+| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) | .NET, Azure |
+| Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [Blog](https://learnwithhasan.com) | .NET|
 
 
 ### Malawi
