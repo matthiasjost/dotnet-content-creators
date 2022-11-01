@@ -93,6 +93,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags  |
 | ------------- | ------------- |-----------------------------------|
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR) | .NET, C# |
+| Patrick God | [Twitter](https://twitter.com/_PatrickGod), [YouTube](https://www.youtube.com/c/PatrickGod) | .NET, C#, ASP.NET Core, Blazor, EF Core |
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber) | .NET, C#, Blazor, WinUI 3 |
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog) | .NET Core, ASP.NET Core  |
 
