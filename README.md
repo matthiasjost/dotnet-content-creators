@@ -92,7 +92,9 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags  |
 | ------------- | ------------- |-----------------------------------|
+| Andrei Misiukevich | [GitHub](https://github.com/AndreiMisiukevich), [Twitter](https://twitter.com/Andrik_Just4Fun) | .NET, C#, .NET MAUI, Xamarin |
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR) | .NET, C# |
+| Patrick God | [Twitter](https://twitter.com/_PatrickGod), [YouTube](https://www.youtube.com/c/PatrickGod) | .NET, C#, ASP.NET Core, Blazor, EF Core |
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber) | .NET, C#, Blazor, WinUI 3 |
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog) | .NET Core, ASP.NET Core  |
 
@@ -111,6 +113,7 @@ All creators under this section must have published something in 2022.
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA) | .NET, ASP.NET Core |
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos) | .NET |
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET, ASP.NET Core |
+| Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE) | .NET, ASP.NET Core |
 
 ### Iran
 <img src="4x3/ir.svg" height="35">
@@ -192,6 +195,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- |------------------------------------------------------------------------------------------------|-----------------------------|
 | Fanie Reynders | [YouTube](https://YouTube.com/faniereynders), [Twitch](https://twitch.tv/faniereynders) | .NET, Azure |
+| Fons Sonnemans | [Blog](https://reflectionit.nl/blog), [GitHub](https://github.com/sonnemaf) | C#, .NET, ASP.NET, WinUI |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C# |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)  | .NET, Azure |
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
