@@ -113,6 +113,7 @@ All creators under this section must have published something in 2022.
 | Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA) | .NET, ASP.NET Core |
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos) | .NET |
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET, ASP.NET Core |
+| Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE) | .NET, ASP.NET Core |
 
 ### Iran
 <img src="4x3/ir.svg" height="35">
