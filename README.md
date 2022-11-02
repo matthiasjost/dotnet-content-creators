@@ -13,10 +13,11 @@ The "main channel" is just what seems to be the most updated and well-known chan
 
 #### How to contribute?
 
-* Add three links or less as the "main" channel (add channels with English content only)
+* Add four links or less as the "main" channel (add channels with English content only)
 * Add four tags or less to make browsing the list more comfortable
 * No matter if huge or a small following: The quality matters
 * Add your favourite creators!
+* PRs ae welcome!
 
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
@@ -341,6 +342,7 @@ All creators under this section must have published something in 2022.
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) | Blazor |
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) | .NET, C# |
   | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
+  | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET, C#
   | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
