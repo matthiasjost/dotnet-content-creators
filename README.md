@@ -22,7 +22,6 @@ The "main channel" is just what seems to be the most updated and well-known chan
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
 
-
 ### Australia 
 <img src="4x3/au.svg" height="35">
 
@@ -408,3 +407,8 @@ All creators under this section must have published something in 2022.
 * Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: https://flagicons.lipis.dev / https://github.com/lipis/flag-icons
+
+## Links to this List
+* [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912): Does not include all creators as some have deactivated to be addable to Twitter lists
+* URL to this repository: [github.com/matthiasjost/dotnet-content-creators](github.com/matthiasjost/dotnet-content-creators) 
+* Alternative link with redirection: [content-creators.net](https://www.content-creators.net)
