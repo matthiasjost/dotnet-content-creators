@@ -410,5 +410,5 @@ All creators under this section must have published something in 2022.
 
 ## Links to this List
 * [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912): Does not include all creators as some have deactivated to be addable to Twitter lists
-* URL to this repository: [github.com/matthiasjost/dotnet-content-creators](github.com/matthiasjost/dotnet-content-creators) 
+* URL to this repository: [github.com/matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) 
 * Alternative link with redirection: [content-creators.net](https://www.content-creators.net)
