@@ -13,7 +13,7 @@ The "main channel" is just what seems to be the most updated and well-known chan
 
 #### How to contribute?
 
-* Add four links or less as the "main" channel (add channels with English content only)
+* Add five links or less as the "main" channel (add channels with English content only)
 * Add four tags or less to make browsing the list more comfortable
 * No matter if huge or a small following: The quality matters
 * Add your favourite creators!
