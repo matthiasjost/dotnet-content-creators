@@ -47,6 +47,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
+| Kevin Dockx | [Blog](https://www.kevindockx.com/), [GitHub](https://github.com/kevindockx), [Pluralsight](https://www.pluralsight.com/authors/kevin-dockx), [Twitter](https://twitter.com/kevindockx) | .NET, Architecture, C#, ASP.NET Core, EF Core |
 | Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/) | .NET, C#, ASP.NET Core |
 
 ### Canada
