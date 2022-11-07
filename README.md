@@ -1,23 +1,24 @@
 # :zap: My Favourite .NET Content Creators
 
-#### What are creators? 
+## What Are Creators? 
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid. We only list creators and channels with English content.
 
-#### Why does the country sort it?
+## Why Is The List Sorted By Country?
 
 The country doesn't matter, but it is a way to divide the list into sections and challenge everyone to find good creators from all countries.
 
-#### What is the "main" channel?
 
-The "main channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best. 
+## What Is The Main Channel?
 
-#### How to contribute?
+The "Main Channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best. 
 
-* Add five links or less as the "main" channel (add channels with English content only)
-* Add four tags or less to make browsing the list more comfortable
-* No matter if huge or a small following: The quality matters
-* Add your favourite creators!
-* PRs ae welcome!
+
+## How To Contribute?
+
+Add your favourite creators via creating a PR. 
+
+* Main Channel: Max. 5 links
+* Tags: Max. 5 tags
 
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
