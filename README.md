@@ -386,7 +386,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
-| Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net)
+| Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET
 | Code Maze | [Blog](https://www.code-maze.com) | .NET, C#, ASP.NET Core  |
 | Coding After Work |  [Podcast](https://www.codingafterwork.com/), [Twitch](https://www.twitch.tv/codingafterwork), [Twitter](https://twitter.com/CodingAfterWork) | .NET, Blazor, Podcast
 | Coding Blocks| [Podcast](https://www.codingblocks.net/) | .NET Podcast |
