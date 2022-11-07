@@ -365,7 +365,7 @@ All creators under this section must have published something in 2022.
   | Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) | .NET, C#  |
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
   | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen) | .NET |
-  | Shawn Clabough | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
+  | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) | .NET, ASP.NET Core |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF, .NET, C# |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  Domain-Driven Design, Clean Architecture, .NET|
