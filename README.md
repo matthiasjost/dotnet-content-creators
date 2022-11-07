@@ -341,6 +341,7 @@ All creators under this section must have published something in 2022.
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) | Blazor |
+  | Caleb Wells | [Twiter](https://twitter.com/calebwellscodes), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
   | David McCarter | [Blog](https://dotNetTips.com), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) | .NET, C# |
   | David Pine | [Twitter](https://twitter.com/davidpine7), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
   | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
@@ -363,6 +364,7 @@ All creators under this section must have published something in 2022.
   | Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) | .NET, C#  |
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
   | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen) | .NET |
+  | Shawn Clabough | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) |.NET, C#
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) | .NET, ASP.NET Core |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF, .NET, C# |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  Domain-Driven Design, Clean Architecture, .NET|
@@ -383,6 +385,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
+| Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net)
 | Code Maze | [Blog](https://www.code-maze.com) | .NET, C#, ASP.NET Core  |
 | Coding After Work |  [Podcast](https://www.codingafterwork.com/), [Twitch](https://www.twitch.tv/codingafterwork), [Twitter](https://twitter.com/CodingAfterWork) | .NET, Blazor, Podcast
 | Coding Blocks| [Podcast](https://www.codingblocks.net/) | .NET Podcast |
