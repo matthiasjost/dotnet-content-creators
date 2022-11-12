@@ -66,6 +66,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
+| Leomaris Reyes | [Blog](https://askxammy.com/), [LinkedIn](https://www.linkedin.com/in/leomaris-reyes-1b598661), [Telerik](https://www.telerik.com/blogs/author/leomaris-reyes), [Twitter](https://twitter.com/leomarisreyes11) | .NET MAUI, Xamarin  |
 | Steven Checo | [Blog](https://checox.com) | .NET MAUI  |
 
 ### Egypt
