@@ -207,7 +207,7 @@ All creators under this section must have published something in 2022.
 | Michiel van Oudheusden | [Blog](https://mindbyte.nl/)  | Azure, GitHub, ALM |
 | Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
-| Stacy Cashmore | [Twitter](https://twitter.com/Stacy_Cash), [Mastodon](https://tech.lgbt/@StacyClouds), [Beginning Static Web Apps with Blazor (book)](https://link.springer.com/book/10.1007/978-1-4842-8146-8) | .Net, Azure Static Web Apps |
+| Stacy Cashmore | [Twitter](https://twitter.com/Stacy_Cash), [Mastodon](https://tech.lgbt/@StacyClouds), [Beginning Static Web Apps with Blazor (book)](https://link.springer.com/book/10.1007/978-1-4842-8146-8) | .NET, Azure Static Web Apps |
 
 ### New Zealand
 <img src="4x3/nz.svg" height="35">
