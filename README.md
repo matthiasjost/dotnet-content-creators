@@ -340,6 +340,7 @@ All creators under this section must have published something in 2022.
 
   | Name  | Main Channel | Tags |
   | ------------- | ------------- | ------------- |
+  | Brendan Enrick | [YouTube](https://www.youtube.com/c/DevChatter/), [Blog](https://brendoneus.com/), [Twitch](https://www.twitch.tv/DevChatter), [Twitter](https://twitter.com/brendoneus) | .NET, C#, ASP.NET Core |
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
   | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
   | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) | Blazor |
