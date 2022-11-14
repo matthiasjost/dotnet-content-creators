@@ -266,6 +266,14 @@ All creators under this section must have published something in 2022.
 | Zoran Horvat | [Twitter](https://twitter.com/zoranh75), [Blog](https://codinghelmet.com/articles), [YouTube](https://www.youtube.com/c/zh-code) | .NET, C#, Architecture |
 
 
+### Spain
+<img src="4x3/es.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Jorge Serrano | [Blog](https://geeks.ms/jorge/), [Twitter](https://twitter.com/J0rgeSerran0) | Architecture, .NET, ASP.NET Core, C#, Go, Microsoft Azure |
+
+
 ### Sweden
 <img src="4x3/se.svg" height="35">
 
