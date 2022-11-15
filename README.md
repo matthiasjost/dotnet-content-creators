@@ -198,6 +198,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- |------------------------------------------------------------------------------------------------|-----------------------------|
+| Albert Starreveld | [Blog](https://medium.com/@abstarreveld) | .NET, Azure, C# |
 | Fanie Reynders | [YouTube](https://YouTube.com/faniereynders), [Twitch](https://twitch.tv/faniereynders) | .NET, Azure |
 | Fons Sonnemans | [Blog](https://reflectionit.nl/blog), [Twitter](https://twitter.com/fonssonnemans), [GitHub](https://github.com/sonnemaf) | C#, .NET, ASP.NET, WinUI |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C# |
