@@ -23,6 +23,13 @@ Add your favourite creators via creating a PR.
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
 
+## Argentina
+<img src="4x3/ar.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Daniel Cazzulino | [Blog](https://www.cazzulino.com/), [Twitter](https://twitter.com/kzu), [LinkedIn](https://www.linkedin.com/in/danielcazzulino/) | .NET, C# |
+
 ### Australia 
 <img src="4x3/au.svg" height="35">
 
