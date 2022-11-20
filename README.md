@@ -61,6 +61,13 @@ All creators under this section must have published something in 2022.
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/) | Podcast, .NET |
 
+### Denmark 
+<img src="4x3/dk.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Mark Seemann | [Blog](https://blog.ploeh.dk/), [Twitter](https://twitter.com/ploeh) | Architecutre, .NET, F#
+
 
 ### Dominican Republic 
 <img src="4x3/do.svg" height="35">
