@@ -23,7 +23,7 @@ Add your favourite creators via creating a PR.
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
 
-## Argentina
+### Argentina
 <img src="4x3/ar.svg" height="35">
 
 | Name  | Main Channel | Tags |
