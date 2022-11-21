@@ -48,6 +48,12 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel) | .NET, C# |
 
+### Bahrain 
+<img src="4x3/bh.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Naweed Akram | [Blog](https://blogs.xgenoapps.com/), [Twitter](https://twitter.com/xgeno), [YouTube](https://www.youtube.com/@naweedakram) | .NET MAUI |
 
 ### Belgium
 
