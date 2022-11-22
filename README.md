@@ -393,7 +393,7 @@ All creators under this section must have published something in 2022.
   | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
   | Shawn Wildermuth | [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth) | .NET, ASP.NET Core |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF, .NET, C# |
-  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog) |  Domain-Driven Design, Clean Architecture, .NET|
+  | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog), [Twitter](https://twitter.com/ardalis), [LinkedIn](https://www.linkedin.com/in/stevenandrewsmith/), [Mastodon](https://fosstodon.org/@ardalis) |  Domain-Driven Design, Clean Architecture, .NET|
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast) | .NET, C#, ASP.NET Core  |
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) | .NET, AWS |
 
