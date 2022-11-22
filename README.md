@@ -225,7 +225,7 @@ All creators under this section must have published something in 2022.
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)  | .NET, Azure |
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
-| Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah) | .NET, C# |
+| Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah), [LinkedIn](https://www.linkedin.com/in/maxhamulyak/) | .NET, C# |
 | Michiel van Oudheusden | [Blog](https://mindbyte.nl/)  | Azure, GitHub, ALM |
 | Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
