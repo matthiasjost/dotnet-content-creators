@@ -221,7 +221,7 @@ All creators under this section must have published something in 2022.
 | Albert Starreveld | [Blog](https://medium.com/@abstarreveld) | .NET, Azure, C# |
 | Fanie Reynders | [YouTube](https://YouTube.com/faniereynders), [Twitch](https://twitch.tv/faniereynders), [Blog](https://reynders.co/blog/) | .NET, Azure |
 | Fons Sonnemans | [Blog](https://reflectionit.nl/blog), [Twitter](https://twitter.com/fonssonnemans), [GitHub](https://github.com/sonnemaf) | C#, .NET, ASP.NET, WinUI |
-| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis) | .NET MAUI, Blazor, C# |
+| Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis), [Blog](https://blog.verslu.is/), [Twitter](https://twitter.com/jfversluis) | .NET MAUI, Blazor, C# |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)  | .NET, Azure |
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
