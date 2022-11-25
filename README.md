@@ -95,7 +95,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Shady Nagy | [Blog](https://shadynagy.com/) | .NET, ASP.NET Core |
+| Shady Nagy | [Blog](https://shadynagy.com/), [Twitter](https://twitter.com/ShadyNagy_) | .NET, ASP.NET Core |
 
 ### France
 <img src="4x3/fr.svg" height="35">
