@@ -37,7 +37,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Christian Findlay | [Blog](https://christianfindlay.com), [Twitter](https://twitter.com/cfdevelop), [Mastodon](https://fosstodon.org/@cfdevelop) | .NET, C# |
 | Jason Taylor | [Blog](https://jasontaylor.dev/), [LinkedIn](https://www.linkedin.com/in/jasontaylordev/), [Twitter](https://twitter.com/jasontaylordev) | .NET
-| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
+| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle), [Blog](https://dotnetplaybook.com/), [Twitter](https://twitter.com/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
 | Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath), [Twitter](https://twitter.com/rahulpnath) | ASP.NET Core, .NET on AWS  |
 | Rahul Rai | [Blog](https://thecloudblog.net), [LinkedIn](https://www.linkedin.com/in/rahulrai-in/), [Twitter](https://twitter.com/rahulrai_in) | Azure, Kubernetes |
 
