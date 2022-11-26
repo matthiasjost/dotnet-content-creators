@@ -371,7 +371,7 @@ All creators under this section must have published something in 2022.
   | David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) | .NET, C# |
   | David Pine | [Blog](https://davidpine.net/blog), [Twitter](https://twitter.com/davidpine7), [Mastodon](https://fosstodon.org/@davidpine@dotnet.social), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
   | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
-  | Hassan Rezk Habib | [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
+  | Hassan Rezk Habib | [Blog](https://hassanhabib.com/blog/), [Twitter](https://twitter.com/HassanRezkHabib), [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
   | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
   | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
   | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz) | .NET, ASP.NET Core  |
