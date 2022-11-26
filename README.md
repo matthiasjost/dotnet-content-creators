@@ -438,7 +438,8 @@ All creators under this section must have published something in 2022.
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: https://flagicons.lipis.dev / https://github.com/lipis/flag-icons
 
-## Links To This List
+## Links
 * [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912)
 * URL to this repository: [github.com/matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) 
 * Alternative link with redirection: [content-creators.net](https://www.content-creators.net)
+* OPML file with all RSS feeds: [dotnet-creators-opml](https://github.com/matthiasjost/dotnet-creators-opml)
