@@ -391,7 +391,7 @@ All creators under this section must have published something in 2022.
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
   | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen) | .NET |
   | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
-  | Shawn Wildermuth | [Blog](https://wildermuth.com/), [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth), [Twitter](https://twitter.com/shawnwildermuth), [LinkedIn](https://www.linkedin.com/in/shawnwildermuth/) | .NET, ASP.NET Core |
+  | Shawn Wildermuth | [Blog](https://wildermuth.com/), [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth), [Twitter](https://twitter.com/shawnwildermuth), [LinkedIn](https://www.linkedin.com/in/shawnwildermuth/), [YouTube](https://www.youtube.com/c/swildermuth) | .NET, ASP.NET Core |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean) | WPF, .NET, C# |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog), [Twitter](https://twitter.com/ardalis), [LinkedIn](https://www.linkedin.com/in/stevenandrewsmith/), [Mastodon](https://fosstodon.org/@ardalis) |  Domain-Driven Design, Clean Architecture, .NET|
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast) | .NET, C#, ASP.NET Core  |
