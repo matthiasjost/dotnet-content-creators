@@ -154,6 +154,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- |----------------------------|
 | Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
+| Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto) | C#, ASP.NET Core, Azure, Pyhon |
 
 ### Israel
 <img src="4x3/il.svg" height="35">
