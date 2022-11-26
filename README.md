@@ -334,11 +334,11 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Andrea Angella | [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | .NET, C# |
+| Andrea Angella | [Blog](https://www.productivecsharp.com/blog/), [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | .NET, C# |
 | Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/) | .NET, C#, ASP.NET Core  |
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik) | .NET, C#, ASP.NET Core |
 | Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction) | Blazor
-| Dan Clarke | [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
+| Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
 | Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/) | Xamarin |
 | David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) | .NET, C#, ASP.NET Core  |
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) | .NET, Blazor |
@@ -352,7 +352,7 @@ All creators under this section must have published something in 2022.
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas) | .NET, C#  |
-| Paul Michaels | [Site](https://pmichaels.net), [Twitter](https://twitter.com/paul_michaels) | .NET, C#, Architecture  |
+| Paul Michaels | [Twitter](https://twitter.com/paul_michaels) | .NET, C#, Architecture  |
 | Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris) | Blazor |
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/) | .NET, C#  |
