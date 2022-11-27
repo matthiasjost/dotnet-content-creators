@@ -71,6 +71,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com)| Architecture, .NET |
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com), [Blog](https://frankliucs.com/blog/) | Blazor, ASP.NET Core |
+| Gérald Barré | [Blog](https://www.meziantou.net/), [Twitter](https://twitter.com/meziantou), [Mastodon](https://hachyderm.io/@meziantou), [GitHub](https://github.com/meziantou), [LinkedIn](https://www.linkedin.com/in/meziantou/) | .NET, ASP.NET Core, Blazor, C# |
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/) | Podcast, .NET |
 
