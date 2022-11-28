@@ -349,6 +349,7 @@ All creators under this section must have published something in 2022.
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) | .NET, Blazor |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1) | Azure AI, .NET|
 | Jamie Taylor | [Podcast](https://dotnetcore.show), [Twitter](https://twitter.com/dotnetcoreshow/), [YouTube](https://www.youtube.com/c/JamieTaylorDotNetCore/videos) | Podcast, .NET|
+| Jasper Kent | [YouTube](https://www.youtube.com/@CodingTutorialsAreGo), [Twitter](https://twitter.com/LastOprichnik), [LinkedIn](https://www.linkedin.com/in/jasper-kent-48a976104/)
 | John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly) | .NET|
 | Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io), [Twitter](https://twitter.com/jonhilt) | Blazor, .NET |
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net), [Twitter](https://twitter.com/thereformedprog) |  ASP.NET Core, EF Core |
