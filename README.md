@@ -110,6 +110,7 @@ All creators under this section must have published something in 2022.
 | Martin Finkel | [Blog](https://mfkl.github.io) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
 | Pierre Belin | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
+| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
 
 
 
