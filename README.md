@@ -352,6 +352,7 @@ All creators under this section must have published something in 2022.
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net), [Twitter](https://twitter.com/thereformedprog) |  ASP.NET Core, EF Core |
 | Jon Skeet | [Blog](https://codeblog.jonskeet.uk/), [Twitter](https://twitter.com/jonskeet), [Book](https://csharpindepth.com/), [StackOverflow](https://stackoverflow.com/users/22656/jon-skeet) | .NET, C# |
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter) |  .NET |
+| Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix) | .NET, C#, Avalonia UI, WPF |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
 | Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
