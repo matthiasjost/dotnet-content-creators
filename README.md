@@ -354,6 +354,7 @@ All creators under this section must have published something in 2022.
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter) |  .NET |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
 | Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
+| Mike Irving | [Blog](https://www.mike-irving.co.uk), [GitHub](https://github.com/mikeirvingweb), [Twitter](https://twitter.com/mikeirvingweb) | .NET, C#, Mobile  |
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas) | .NET, C#  |
 | Paul Michaels | [Twitter](https://twitter.com/paul_michaels) | .NET, C#, Architecture  |
