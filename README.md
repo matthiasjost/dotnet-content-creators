@@ -146,7 +146,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- |----------------------------|
 | Meysam Hadeli | [GitHub](https://github.com/meysamhadeli), [Twitter](https://twitter.com/meysamhadeli), [Blog](https://meysamhadeli.com) | Microservices, .NET, ASP.NET Core |
-| Mehdi Hadeli | [GitHub](https://github.com/mehdihadeli), [Twitter](https://twitter.com/mehdi_hadeli), [Blog](https://www.mehdihadeli.com/) | Architecture, .NET, ASP.NET Core |
+| Mehdi Hadeli | [GitHub](https://github.com/mehdihadeli), [Twitter](https://twitter.com/mehdi_hadeli), [Blog](https://www.mehdihadeli.com/), [Blog RSS](https://www.mehdihadeli.com/rss) | Architecture, .NET, ASP.NET Core |
 | Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
 
 ### Ireland
