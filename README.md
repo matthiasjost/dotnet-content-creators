@@ -103,6 +103,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
+| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
 | Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
 | Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
@@ -110,7 +111,7 @@ All creators under this section must have published something in 2022.
 | Martin Finkel | [Blog](https://mfkl.github.io) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
 | Pierre Belin | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
-| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
+
 
 
 
