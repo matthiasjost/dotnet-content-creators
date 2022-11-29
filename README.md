@@ -347,6 +347,7 @@ All creators under this section must have published something in 2022.
 | Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
 | Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/) | Xamarin |
 | David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) | .NET, C#, ASP.NET Core  |
+| Dustin Moris Gorski | [Blog](https://dusted.codes/), [Twitter](https://twitter.com/dustinmoris), [LinkedIn](https://www.linkedin.com/in/dustinmoris/) | .NET, C#, ASP.NET Core |
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) | .NET, Blazor |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1) | Azure AI, .NET|
 | Jamie Taylor | [Podcast](https://dotnetcore.show), [Twitter](https://twitter.com/dotnetcoreshow/), [YouTube](https://www.youtube.com/c/JamieTaylorDotNetCore/videos) | Podcast, .NET|
