@@ -359,6 +359,7 @@ All creators under this section must have published something in 2022.
 | Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix) | .NET, C#, Avalonia UI, WPF |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
 | Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
+| Mike Brind | [Twitter](https://twitter.com/mikesdotnetting), [Blog](https://www.mikesdotnetting.com/), [LinkedIn](https://www.linkedin.com/in/mike-brind/) | C#, .NET |
 | Mike Irving | [Blog](https://www.mike-irving.co.uk), [GitHub](https://github.com/mikeirvingweb), [Twitter](https://twitter.com/mikeirvingweb) | .NET, C#, Mobile  |
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas) | .NET, C#  |
