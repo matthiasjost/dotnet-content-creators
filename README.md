@@ -324,7 +324,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | Berkan Sasmaz | [Blog](https://berkansasmaz.com/) | ABP Framework, .NET, Architecture |
-| Engincan Veske | [Blog](https://engincanv.github.io/) | ABP Framework, .NET |
+| Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
 
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
