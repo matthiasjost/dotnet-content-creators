@@ -398,7 +398,7 @@ All creators under this section must have published something in 2022.
   | Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger) | .NET  |
   | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
   | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
-  | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
+  | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Mastodon](https://fosstodon.org/@rockylhotka), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
   | Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) | .NET, C#  |
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
   | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen) | .NET |
