@@ -323,7 +323,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Berkan Sasmaz | [Blog](https://berkansasmaz.com/), [Twitter](https://twitter.com/berkansasmazz), [LInkedIn](https://www.linkedin.com/in/berkansasmaz/) | ABP Framework, .NET, Architecture |
+| Berkan Sasmaz | [Blog](https://berkansasmaz.com/), [Twitter](https://twitter.com/berkansasmazz), [LinkedIn](https://www.linkedin.com/in/berkansasmaz/) | ABP Framework, .NET, Architecture |
 | Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
 | Furkan Gözükara | [YouTube](https://www.youtube.com/SECourses), [Twitter](https://twitter.com/gozukarafurkan), [LinkedIn](https://www.linkedin.com/in/furkangozukara/) | .NET, C#
 
