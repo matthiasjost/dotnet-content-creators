@@ -401,7 +401,7 @@ All creators under this section must have published something in 2022.
   | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Mastodon](https://fosstodon.org/@rockylhotka), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
   | Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) | .NET, C#  |
   | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
-  | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen), [Mastodon](https://mastodon.social/@sjkilleen), [YouTube](https://www.youtube.com/SeanKilleen), [Twitch](https://twitch.tv/sjkilleen), [LinkedIn](https://linkedin.com/in/SeanKilleen) | .NET, C#, NUnit, xUnit, SpecFlow, Azure, Terraform, OSS |
+  | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen), [Mastodon](https://mastodon.social/@sjkilleen), [YouTube](https://www.youtube.com/SeanKilleen), [LinkedIn](https://linkedin.com/in/SeanKilleen) | .NET, C#, Automated Testing, Azure, Terraform |
   | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
   | Shawn Wildermuth | [Blog](https://wildermuth.com/), [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth), [Twitter](https://twitter.com/shawnwildermuth), [LinkedIn](https://www.linkedin.com/in/shawnwildermuth/), [YouTube](https://www.youtube.com/c/swildermuth) | .NET, ASP.NET Core |
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean), [Blog](https://seandodson.com/) | WPF, .NET, C# |
