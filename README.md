@@ -224,21 +224,25 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- |------------------------------------------------------------------------------------------------|-----------------------------|
 | Albert Starreveld | [Blog](https://medium.com/@abstarreveld) | .NET, Azure, C# |
+| Erwin Staal | [Blog](https://erwinstaal.nl/), [Twitter](https://twitter.com/erwin_staal) | DevOps, Azure |
 | Fanie Reynders | [YouTube](https://YouTube.com/faniereynders), [Twitch](https://twitch.tv/faniereynders), [Blog](https://reynders.co/blog/) | .NET, Azure |
 | Fons Sonnemans | [Blog](https://reflectionit.nl/blog), [Twitter](https://twitter.com/fonssonnemans), [GitHub](https://github.com/sonnemaf) | C#, .NET, ASP.NET, WinUI |
+| Geert van der Cruijsen | [Blog](https://fullcycledeveloper.com/), [Twitter](https://twitter.com/geertvdc) | DevOps, Azure |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis), [Blog](https://blog.verslu.is/), [Twitter](https://twitter.com/jfversluis) | .NET MAUI, Blazor, C# |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)  | .NET, Azure |
+| Loek Duys | [Blog](https://loekd.wordpress.com/), [Twitter](https://twitter.com/lduys) | Cloud Architectures |
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah), [LinkedIn](https://www.linkedin.com/in/maxhamulyak/) | .NET, C# |
 | Michiel van Oudheusden | [Blog](https://mindbyte.nl/), [Mastodon](https://mastodon.social/@mivano), [Twitter](https://www.twitter.com/mivano), [LinkedIn](https://www.linkedin.com/in/michielvanoudheusden), [GitHub](https://github.com/mivano), [Newsletter](https://digest.mindbyte.nl) | Azure, GitHub, ALM, Remote Work |
+| René van Osnabrugge | [Blog](https://roadtoalm.com/), [Twitter](https://mobile.twitter.com/renevo) | DevOps |
 | Rob Bos | [Blog](https://devopsjournal.io/), [Twitter](https://www.twitter.com/robbos81), [GitHub](https://github.com/rajbos) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
 | Stacy Cashmore | [Twitter](https://twitter.com/Stacy_Cash), [Mastodon](https://tech.lgbt/@StacyClouds), [Beginning Static Web Apps with Blazor (Book)](https://link.springer.com/book/10.1007/978-1-4842-8146-8), [Blog](https://www.stacy-clouds.net/blog-posts) | .NET, Azure Static Web Apps |
-| René van Osnabrugge | [Blog](https://roadtoalm.com/), [Twitter](https://mobile.twitter.com/renevo) | DevOps |
-| Loek Duys | [Blog](https://loekd.wordpress.com/), [Twitter](https://twitter.com/lduys) | Cloud Architectures |
-| Erwin Staal | [Blog](https://erwinstaal.nl/), [Twitter](https://twitter.com/erwin_staal) | DevOps, Azure |
-| Geert van der Cruijsen | [Blog](https://fullcycledeveloper.com/), [Twitter](https://twitter.com/geertvdc) | DevOps, Azure |
+
+
+
+
 
 ### New Zealand
 <img src="4x3/nz.svg" height="35">
