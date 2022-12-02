@@ -234,7 +234,7 @@ All creators under this section must have published something in 2022.
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah), [LinkedIn](https://www.linkedin.com/in/maxhamulyak/) | .NET, C# |
-| Michiel van Oudheusden | [Blog](https://mindbyte.nl/), [Mastodon](https://mastodon.social/@mivano), [Twitter](https://www.twitter.com/mivano), [LinkedIn](https://www.linkedin.com/in/michielvanoudheusden), [GitHub](https://github.com/mivano), [Newsletter](https://digest.mindbyte.nl) | Azure, GitHub, ALM, Remote Work |
+| Michiel van Oudheusden | [Blog](https://mindbyte.nl/), [Mastodon](https://mastodon.social/@mivano), [Twitter](https://www.twitter.com/mivano), [LinkedIn](https://www.linkedin.com/in/michielvanoudheusden),  [Newsletter](https://digest.mindbyte.nl) | Azure, GitHub, ALM, Remote Work |
 | René van Osnabrugge | [Blog](https://roadtoalm.com/), [Twitter](https://mobile.twitter.com/renevo) | DevOps |
 | Rob Bos | [Blog](https://devopsjournal.io/), [Twitter](https://www.twitter.com/robbos81), [GitHub](https://github.com/rajbos) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
