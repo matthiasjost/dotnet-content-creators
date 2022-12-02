@@ -230,18 +230,13 @@ All creators under this section must have published something in 2022.
 | Geert van der Cruijsen | [Blog](https://fullcycledeveloper.com/), [Twitter](https://twitter.com/geertvdc) | DevOps, Azure |
 | Gerald Versluis | [YouTube](https://www.youtube.com/c/GeraldVersluis), [Blog](https://blog.verslu.is/), [Twitter](https://twitter.com/jfversluis) | .NET MAUI, Blazor, C# |
 | Henrique Siebert Domareski | [Blog](https://henriquesd.medium.com), [LinkedIn](https://www.linkedin.com/in/henriquesd)  | .NET, Azure |
-| Loek Duys | [Blog](https://loekd.wordpress.com/), [Twitter](https://twitter.com/lduys) | Cloud Architectures |
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah), [LinkedIn](https://www.linkedin.com/in/maxhamulyak/) | .NET, C# |
 | Michiel van Oudheusden | [Blog](https://mindbyte.nl/), [Mastodon](https://mastodon.social/@mivano), [Twitter](https://www.twitter.com/mivano), [LinkedIn](https://www.linkedin.com/in/michielvanoudheusden),  [Newsletter](https://digest.mindbyte.nl) | Azure, GitHub, ALM, Remote Work |
-| René van Osnabrugge | [Blog](https://roadtoalm.com/), [Twitter](https://mobile.twitter.com/renevo) | DevOps |
 | Rob Bos | [Blog](https://devopsjournal.io/), [Mastodon](https://fosstodon.org/@Rob_Bos@mstdn.social), [LinkedIn](https://www.linkedin.com/in/bosrob/), [GitHub](https://github.com/rajbos) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
 | Stacy Cashmore | [Twitter](https://twitter.com/Stacy_Cash), [Mastodon](https://tech.lgbt/@StacyClouds), [Beginning Static Web Apps with Blazor (Book)](https://link.springer.com/book/10.1007/978-1-4842-8146-8), [Blog](https://www.stacy-clouds.net/blog-posts) | .NET, Azure Static Web Apps |
-
-
-
 
 
 ### New Zealand
