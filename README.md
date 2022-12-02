@@ -231,10 +231,14 @@ All creators under this section must have published something in 2022.
 | Louëlla Creemers | [Blog](https://lovelacecoding.hashnode.dev/), [Twitter](https://twitter.com/lovelacecoding), [bio.link](https://bio.link/lovelacecoding) | .NET, C#, Architecture
 | Marc Duiker | [YouTube](https://www.youtube.com/c/marcduiker-serverless), [Blog](https://blog.marcduiker.nl) | Azure Functions, Serverless |
 | Max Hamulyák | [Blog](https://kaylumah.nl/blog), [Mastodon](https://fosstodon.org/@kaylumah@mastodon.nl), [Twitter](https://twitter.com/kaylumah), [LinkedIn](https://www.linkedin.com/in/maxhamulyak/) | .NET, C# |
-| Michiel van Oudheusden | [Blog](https://mindbyte.nl/)  | Azure, GitHub, ALM |
-| Rob Bos | [Blog](https://devopsjournal.io/) | DevOps, GitHub |
+| Michiel van Oudheusden | [Blog](https://mindbyte.nl/), [Mastodon](https://mastodon.social/@mivano), [Twitter](https://www.twitter.com/mivano), [LinkedIn](https://www.linkedin.com/in/michielvanoudheusden), [GitHub](https://github.com/mivano), [Newsletter](https://digest.mindbyte.nl) | Azure, GitHub, ALM, Remote Work |
+| Rob Bos | [Blog](https://devopsjournal.io/), [Twitter](https://www.twitter.com/robbos81), [GitHub](https://github.com/rajbos) | DevOps, GitHub |
 | Roland Guijt | [Pluralsight](https://app.pluralsight.com/profile/author/roland-guijt) | .NET, ASP.NET Core |
 | Stacy Cashmore | [Twitter](https://twitter.com/Stacy_Cash), [Mastodon](https://tech.lgbt/@StacyClouds), [Beginning Static Web Apps with Blazor (Book)](https://link.springer.com/book/10.1007/978-1-4842-8146-8), [Blog](https://www.stacy-clouds.net/blog-posts) | .NET, Azure Static Web Apps |
+| René van Osnabrugge | [Blog](https://roadtoalm.com/), [Twitter](https://mobile.twitter.com/renevo) | DevOps |
+| Loek Duys | [Blog](https://loekd.wordpress.com/), [Twitter](https://twitter.com/lduys) | Cloud Architectures |
+| Erwin Staal | [Blog](https://erwinstaal.nl/), [Twitter](https://twitter.com/erwin_staal) | DevOps, Azure |
+| Geert van der Cruijsen | [Blog](https://fullcycledeveloper.com/), [Twitter](https://twitter.com/geertvdc) | DevOps, Azure |
 
 ### New Zealand
 <img src="4x3/nz.svg" height="35">
