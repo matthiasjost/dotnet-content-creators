@@ -47,6 +47,7 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel) | .NET, C# |
+| Wolfgang Ziegler | [Blog](https://wolfgang-ziegler.com/), [Mastodon](https://fosstodon.org/@wolfgang@hachyderm.io), [LinkedIn](https://www.linkedin.com/in/wolfgangz/) | .NET MAUI, C# |
 
 ### Bahrain 
 <img src="4x3/bh.svg" height="35">
