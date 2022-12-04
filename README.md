@@ -193,6 +193,12 @@ All creators under this section must have published something in 2022.
 | Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | WinAppSDK, WinUI 3 |
 | Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | .NET, C# |
 
+### Kosovo
+<img src="4x3/xk.svg" height="35">
+
+| Name  | Main Channel | Tags |
+| ------------- | ------------- | ------------- |
+| Ledjon Behluli | [Blog](https://www.ledjonbehluli.com/), [Twitter](https://twitter.com/BehluliLedjon), [LinkedIn](https://www.linkedin.com/in/msc-ledjon-behluli-06b523155/) | .NET, C#, Architecture |
 
 ### Lebanon
 <img src="4x3/lb.svg" height="35">
