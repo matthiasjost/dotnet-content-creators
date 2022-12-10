@@ -405,6 +405,7 @@ All creators under this section must have published something in 2022.
   | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/), [Twitter](https://twitter.com/buhakmeh), [Mastodon](https://fosstodon.org/@khalidabuhakmeh@mastodon.social) | .NET, C# |
   | Maclain Wiltzer (Mak) and Yasmin Rodriguez | [Blog](https://makolyte.com/), [Twitter](https://twitter.com/makolyte), [LinkedIn Page](https://www.linkedin.com/company/makolyte/) | .NET, C#, ASP.NET Core
   | Matt Eland | [Blog](https://NewDevsGuide.com/) (Coding), [Blog](https://AccessibleAI.dev/) (AI/ML), [YouTube](https://MattOnDataScience.com), [Twitter](https://twitter.com/IntegerMan)  | .NET, C#, ML.NET |
+  | Michael Eaton | [Blog](https://samestuffdifferentday.net/), [Mastodon](https://fosstodon.org/@mjeaton@our.devchatter.com), [GitHub](https://github.com/mjeaton), [LinkedIn](https://www.linkedin.com/in/mjeaton/) | .NET, C#
   | Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger) | .NET  |
   | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
   | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
