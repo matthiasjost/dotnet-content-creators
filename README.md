@@ -418,6 +418,7 @@ All creators under this section must have published something in 2022.
   | SingletonSean | [YouTube](https://www.youtube.com/c/SingletonSean), [Blog](https://seandodson.com/) | WPF, .NET, C# |
   | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog), [Twitter](https://twitter.com/ardalis), [LinkedIn](https://www.linkedin.com/in/stevenandrewsmith/), [Mastodon](https://fosstodon.org/@ardalis) |  Domain-Driven Design, Clean Architecture, .NET|
   | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast), [Blog](https://blog.iamtimcorey.com/), [Twitter](https://twitter.com/IAmTimCorey) | .NET, C#, ASP.NET Core  |
+  | Travis Illig | [Blog](https://www.paraesthesia.com/), [Twitter](https://twitter.com/tillig), [LinkedIn](https://www.linkedin.com/in/tillig/), [GitHub](https://github.com/tillig) | .NET, C#
   | Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) | .NET, AWS |
 
 ### Official MSFT / .NET Foundation content resources / Xamarin
