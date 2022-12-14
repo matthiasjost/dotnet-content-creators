@@ -271,6 +271,7 @@ All creators under this section must have published something in 2022.
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/) | .NET        |
 | Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/), [Twitter](https://twitter.com/okyrylchuk) | .NET, C#     |
 | Oskar Dudycz  | [Blog](https://event-driven.io/en/) | .NET, Event-Driven Architecture |
+| Kajetan Duszyński | [Youtube](https://www.youtube.com/@kajetanduszynski-szkoadotn1463), [Discord](https://szkoladotneta.pl/discord) | .NET, C#  |
 
 
 ### Portugal
