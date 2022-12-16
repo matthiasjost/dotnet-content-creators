@@ -369,7 +369,7 @@ All creators under this section must have published something in 2022.
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter) |  .NET |
 | Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix) | .NET, C#, Avalonia UI, WPF |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
-| Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
+| Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [Blog RSS](https://blog.markoliver.website/rss.xml), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
 | Micheal Colhoun | [Blog](https://colhountech.com/blog/), [Twitter](https://twitter.com/colhountech), [YouTube](https://www.youtube.com/channel/UC-mHR47cULEfJHvk49t1zQA/videos) | .NET, C#, Azure
 | Mike Brind | [Twitter](https://twitter.com/mikesdotnetting), [Blog](https://www.mikesdotnetting.com/), [LinkedIn](https://www.linkedin.com/in/mike-brind/) | C#, .NET |
 | Mike Irving | [Blog](https://www.mike-irving.co.uk), [GitHub](https://github.com/mikeirvingweb), [Twitter](https://twitter.com/mikeirvingweb) | .NET, C#, Mobile  |
