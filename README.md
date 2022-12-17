@@ -63,18 +63,18 @@ All creators under this section must have published something in 2022.
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
 | Kevin Dockx | [Blog](https://www.kevindockx.com/), [GitHub](https://github.com/kevindockx), [Pluralsight](https://www.pluralsight.com/authors/kevin-dockx), [Twitter](https://twitter.com/kevindockx) | .NET, Architecture, C#, ASP.NET Core, EF Core |
-| Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/) | .NET, C#, ASP.NET Core |
+| Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/), [LinkedIn](https://www.linkedin.com/in/maartenballiauw/), [Mastodon](https://mastodon.online/@maartenballiauw), [Twitter](https://twitter.com/maartenballiauw) | .NET, C#, ASP.NET Core |
 
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
 | Name  | Main Channel | Tags |
 | ------------- | ------------- | ------------- |
-| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com)| Architecture, .NET |
-| Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com), [Blog](https://frankliucs.com/blog/) | Blazor, ASP.NET Core |
+| Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com), [LinkedIn](https://www.linkedin.com/in/dcomartin/), [Twitter](https://twitter.com/codeopinion) | Architecture, .NET |
+| Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com), [Blog](https://frankliucs.com/blog/), [Twitter](https://twitter.com/frankliucs) | Blazor, ASP.NET Core |
 | Gérald Barré | [Blog](https://www.meziantou.net/), [Twitter](https://twitter.com/meziantou), [Mastodon](https://hachyderm.io/@meziantou), [GitHub](https://github.com/meziantou), [LinkedIn](https://www.linkedin.com/in/meziantou/) | .NET, ASP.NET Core, Blazor, C# |
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
-| Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/) | Podcast, .NET |
+| Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/), [LinkedIn](https://www.linkedin.com/in/richjcampbell/), [Twitter](https://twitter.com/richcampbell) | Podcast, .NET |
 
 ### Denmark 
 <img src="4x3/dk.svg" height="35">
