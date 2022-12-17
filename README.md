@@ -352,7 +352,7 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Andrea Angella | [Blog](https://www.productivecsharp.com/blog/), [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | .NET, C# |
 | Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/) | .NET, C#, ASP.NET Core  |
-| Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik) | .NET, C#, ASP.NET Core |
+| Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik), [GitHub](https://github.com/T0shik) | .NET, C#, ASP.NET Core |
 | Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction) | Blazor
 | Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
 | Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/) | Xamarin |
@@ -374,7 +374,7 @@ All creators under this section must have published something in 2022.
 | Mike Brind | [Twitter](https://twitter.com/mikesdotnetting), [Blog](https://www.mikesdotnetting.com/), [LinkedIn](https://www.linkedin.com/in/mike-brind/) | C#, .NET |
 | Mike Irving | [Blog](https://www.mike-irving.co.uk), [GitHub](https://github.com/mikeirvingweb), [Twitter](https://twitter.com/mikeirvingweb) | .NET, C#, Mobile  |
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
-| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas) | .NET, C#  |
+| Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas), [GitHub](https://github.com/Elfocrash) | .NET, C#  |
 | Paul Michaels | [Twitter](https://twitter.com/paul_michaels) | .NET, C#, Architecture  |
 | Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris) | Blazor |
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
