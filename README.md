@@ -307,11 +307,11 @@ All creators under this section must have published something in 2022.
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi), [Twitter](https://twitter.com/CHBernasconiC),  [Blog](https://www.claudiobernasconi.ch/) | .NET, .NET MAUI  |
 | Damien Bowden  | [Blog](https://damienbod.com), [Twitter](https://twitter.com/damien_bod) | ASP.NET Core, OpenID Connect, OAuth |
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken), [Blog RSS](https://dev.to/feed/kasuken), [Twitter](https://twitter.com/kasuken) | .NET, Blazor, Azure |
-| Marco Siccardi | [Blog](https://msicc.net/), [Twitter](https://twitter.com/msicc), [LinkedIn](https://www.linkedin.com/in/msicc/) | .NET, C#, Xamarin
+| Marco Siccardi | [Blog](https://msicc.net/), [Mastodon](https://mastodon.social/@msicc), [LinkedIn](https://www.linkedin.com/in/msicc/) | .NET, C#, Xamarin
 | Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) | Azure, ASP.NET Core  |
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks), [Twitter](https://twitter.com/sharpcms/) | ASP.NET Core  |
 | Steven Giesel |  [Blog](https://steven-giesel.com), [LinkedIn](https://www.linkedin.com/in/steven-giesel/) | .NET, C#, Blazor  |
-| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/) | Azure, Kubernetes |
+| Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/), [LinkedIn](https://www.linkedin.com/in/wolfgangofner/), [Twitter](https://twitter.com/wolfgang_ofner) | Azure, Kubernetes |
 
 ### Turkey
 <img src="4x3/tr.svg" height="35">
