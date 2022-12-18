@@ -1,18 +1,18 @@
 # :zap: My Favourite .NET Content Creators
 
-## What Are Creators?
+## ✍️ What Are Creators?
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
 
-## Language
+## 🗣️ Language
 We only list creators and channels with English content.
 
-## Why Does The Country Sort The List?
+## 🌎 Why Does The Country Sort The List?
 The country doesn't matter, but it is a way to divide the List into sections and challenge everyone to find good creators from all countries.
 
-## What Are Channels?
+## 📺 What Are Channels?
 Channels contain the links on which the creator is most active.
 
-## How To Contribute?
+## ☘️ How To Contribute?
 Add your favourite creators by creating a PR.
 
 - Channels: Max. 5 links
@@ -423,18 +423,18 @@ All creators under this section must have published something in 2022.
 | Steve Ardalis Smith  | [Blog](https://ardalis.com/blog), [Twitter](https://twitter.com/ardalis), [LinkedIn](https://www.linkedin.com/in/stevenandrewsmith/), [Mastodon](https://fosstodon.org/@ardalis) |  Domain-Driven Design, Clean Architecture, .NET|
 | Tim Corey | [YouTube](https://youtube.com/user/IAmTimCorey), [Podcast](https://iamtimcorey.com/p/podcast), [Blog](https://blog.iamtimcorey.com/), [Twitter](https://twitter.com/IAmTimCorey) | .NET, C#, ASP.NET Core  |
 | Travis Illig | [Blog](https://www.paraesthesia.com/), [Twitter](https://twitter.com/tillig), [LinkedIn](https://www.linkedin.com/in/tillig/), [GitHub](https://github.com/tillig) | .NET, C#
-| Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle) | .NET, AWS |
+| Wes Doyle | [YouTube](https://youtube.com/c/WesDoyle), [LinkedIn](https://www.linkedin.com/in/wes-doyle/) | .NET, AWS |
 
-### Official MSFT / .NET Foundation content resources / Xamarin
+### 👔 Official MSFT / .NET Foundation Content Resources / Xamarin
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/dotnet), [Twitter](https://twitter.com/dotnet) | .NET, C#, ASP.NET Core, .NET MAUI |
-| .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation) | .NET  |
+| .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation), [Site](https://twitter.com/dotnetfdn) | .NET  |
 | Microsoft Visual Studio | [YouTube](https://www.youtube.com/c/visualstudio),  [Blog](https://devblogs.microsoft.com/visualstudio/) | .NET, Visual Studio |
 | Xamarin Developers | [YouTube](https://www.youtube.com/c/XamarinDevelopers) | .NET, Xamarin |
 
-### Multi-Creator Channels / Creator Name Unkown
+### 🤹 Multi-Creator Channels, Creator Name Unkown
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
@@ -453,7 +453,7 @@ All creators under this section must have published something in 2022.
 | tutorials.EU | [YouTube](https://www.youtube.com/c/tutorialsEU), [Courses](https://tutorials.eu/) | .NET  |
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot) | .NET, ASP.NET Core  |
 
-### Aggregator Sites
+### 🐙 Aggregator Sites
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Discover.NET | [Site](https://discoverdot.net) | .NET, Aggregator Site |
@@ -464,9 +464,10 @@ All creators under this section must have published something in 2022.
 ## 🙏Credits
 * Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
-* Flags copied from: https://flagicons.lipis.dev / https://github.com/lipis/flag-icons
+* Flags copied from: [Free Country Flags in SVG](https://flagicons.lipis.dev) 
+* This list is maintained by [Matthias Jost](https://matthiasjost.bio.link)
 
-## Links
+## 🔗 Other Project Links
 * [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912)
 * URL to this repository: [github.com/matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) 
 * Alternative link with redirection: [content-creators.net](https://www.content-creators.net)
