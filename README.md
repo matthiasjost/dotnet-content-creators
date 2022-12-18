@@ -35,8 +35,8 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Christian Findlay | [Blog](https://christianfindlay.com), [Twitter](https://twitter.com/cfdevelop), [Mastodon](https://fosstodon.org/@cfdevelop) | .NET, C# |
 | Jason Taylor | [Blog](https://jasontaylor.dev/), [LinkedIn](https://www.linkedin.com/in/jasontaylordev/), [Twitter](https://twitter.com/jasontaylordev) | .NET
-| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle), [Blog](https://dotnetplaybook.com/), [Twitter](https://twitter.com/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
-| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath), [Twitter](https://twitter.com/rahulpnath) | ASP.NET Core, .NET on AWS  |
+| Les Jackson | [YouTube](https://www.youtube.com/c/binarythistle), [Blog](https://dotnetplaybook.com/), [Twitter](https://twitter.com/binarythistle), [Linktree](https://linktr.ee/binarythistle) | .NET MAUI, ASP.NET Core, Blazor  |
+| Rahul Nath | [YouTube](https://www.youtube.com/c/RahulNath), [Twitter](https://twitter.com/rahulpnath), [LinkedIn](https://www.linkedin.com/in/rahulpnath/) | ASP.NET Core, .NET on AWS  |
 | Rahul Rai | [Blog](https://thecloudblog.net), [LinkedIn](https://www.linkedin.com/in/rahulrai-in/), [Twitter](https://twitter.com/rahulrai_in) | Azure, Kubernetes |
 
 ### Austria 
@@ -52,7 +52,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
-| Naweed Akram | [Blog](https://blogs.xgenoapps.com/), [Twitter](https://twitter.com/xgeno), [YouTube](https://www.youtube.com/@naweedakram) | .NET MAUI |
+| Naweed Akram | [Blog](https://blogs.xgenoapps.com/), [Twitter](https://twitter.com/xgeno), [YouTube](https://www.youtube.com/@naweedakram), [LinkedIn](https://www.linkedin.com/in/naweed/) | .NET MAUI |
 
 ### Belgium
 
@@ -97,6 +97,18 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Shady Nagy | [Blog](https://shadynagy.com/), [Twitter](https://twitter.com/ShadyNagy_) | .NET, ASP.NET Core |
 
+
+| Name  | Channels | Tags |
+| ------------- | ------------- | ------------- |
+| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
+| Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
+| Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
+| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
+| Kevin Gosse | [Twitter](https://twitter.com/o) | .NET, C# |
+| Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
+| Pierre Belin | [Blog](https://goatreview.com/), [Blog](https://minidump.net/)  | .NET, Akka.NET |
+| Martin Finkel | [Blog](https://mfkl.github.io) | NET, Architecture |
+
 ### France
 <img src="4x3/fr.svg" height="35">
 
@@ -110,9 +122,6 @@ All creators under this section must have published something in 2022.
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
 | Pierre Belin | [Blog](https://goatreview.com/), [Blog](https://minidump.net/)  | .NET, Akka.NET |
 | Martin Finkel | [Blog](https://mfkl.github.io) | NET, Architecture |
-
-
-
 
 ### Germany
 <img src="4x3/de.svg" height="35">
