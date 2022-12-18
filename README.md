@@ -371,7 +371,7 @@ All creators under this section must have published something in 2022.
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/), [Mastodon](https://fosstodon.org/@stevejgordon) | .NET, C#  |
 | Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/), [Twitter](https://twitter.com/CodeWithStu) | .NET, C# |
 
-### USA
+### USA (A-F)
 <img src="4x3/us.svg" height="35">
 
 | Name  | Channels | Tags |
@@ -384,6 +384,13 @@ All creators under this section must have published something in 2022.
 | David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) | .NET, C# |
 | David Pine | [Blog](https://davidpine.net/blog), [Twitter](https://twitter.com/davidpine7), [Mastodon](https://fosstodon.org/@davidpine@dotnet.social), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
 | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
+
+
+### USA (G-L)
+<img src="4x3/us.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
 | Hassan Rezk Habib | [Blog](https://hassanhabib.com/blog/), [Twitter](https://twitter.com/HassanRezkHabib), [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
 | John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
 | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
@@ -394,6 +401,12 @@ All creators under this section must have published something in 2022.
 | Kendra Havens | [Twitter](https://twitter.com/gotheap) | .NET  |
 | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost), [Twitter](https://twitter.com/kitokeboo) | WPF, .NET |
 | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/), [Twitter](https://twitter.com/buhakmeh), [Mastodon](https://fosstodon.org/@khalidabuhakmeh@mastodon.social) | .NET, C# |
+
+### USA (M-Z)
+<img src="4x3/us.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
 | Maclain Wiltzer (Mak) and Yasmin Rodriguez | [Blog](https://makolyte.com/), [Twitter](https://twitter.com/makolyte), [LinkedIn Page](https://www.linkedin.com/company/makolyte/) | .NET, C#, ASP.NET Core
 | Matt Eland | [Blog](https://NewDevsGuide.com/) (Coding), [Blog](https://AccessibleAI.dev/) (AI/ML), [YouTube](https://MattOnDataScience.com), [Twitter](https://twitter.com/IntegerMan)  | .NET, C#, ML.NET |
 | Michael Eaton | [Blog](https://samestuffdifferentday.net/), [Mastodon](https://fosstodon.org/@mjeaton@our.devchatter.com), [GitHub](https://github.com/mjeaton), [LinkedIn](https://www.linkedin.com/in/mjeaton/) | .NET, C#
