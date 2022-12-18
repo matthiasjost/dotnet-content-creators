@@ -275,7 +275,8 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc), [LinkedIn](https://www.linkedin.com/in/dan-patrascu-baba-08b78523/) | .NET, C# |
+| Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc), [LinkedIn](https://www.linkedin.com/in/dan-patrascu-baba-08b78523/) | .NET, C# |
+| Irina Scurtu | [Blog](https://irina.codes/), [Twitter](https://twitter.com/irina_scurtu), [GitHub](https://github.com/irinascurtu), [LinkedIn](https://www.linkedin.com/in/irinascurtu/) | .NET, C# |
 
 ### Serbia
 <img src="4x3/rs.svg" height="35">
