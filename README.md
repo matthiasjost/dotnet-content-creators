@@ -108,8 +108,8 @@ All creators under this section must have published something in 2022.
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
 | Kevin Gosse | [Twitter](https://twitter.com/o) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
-| Pierre Belin | [Blog](https://goatreview.com/) | .NET, Akka.NKooKiz), [Blog](https://minidump.net/) | .NET, C#
-| Martin Finkel | [Blog](https://mfkl.github.iET, Architecture |
+| Pierre Belin | [Blog](https://goatreview.com/), [Blog](https://minidump.net/)  | .NET, Akka.NET |
+| Martin Finkel | [Blog](https://mfkl.github.io) | NET, Architecture |
 
 
 
