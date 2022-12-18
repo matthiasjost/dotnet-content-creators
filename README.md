@@ -367,6 +367,7 @@ All creators under this section must have published something in 2022.
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas), [GitHub](https://github.com/Elfocrash) | .NET, C#  |
 | Paul Michaels | [Twitter](https://twitter.com/paul_michaels), [Blog](https://pmichaels.net/) | .NET, C#, Architecture  |
 | Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris), [GitHub](https://github.com/mrpmorris/) | Blazor |
+Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter.com/PoornimaNayar), [GitHub](https://github.com/poornimanayar) | .NET, C#
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
 | Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/), [Mastodon](https://fosstodon.org/@stevejgordon) | .NET, C#  |
 | Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/), [Twitter](https://twitter.com/CodeWithStu) | .NET, C# |
@@ -465,10 +466,12 @@ All creators under this section must have published something in 2022.
 * Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: [Free Country Flags in SVG](https://flagicons.lipis.dev) 
-* This list is maintained by [Matthias Jost](https://matthiasjost.bio.link)
+* Thanks to all contributors!
+
 
 ## 🔗 Other Project Links
 * [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912)
 * URL to this repository: [github.com/matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) 
 * Alternative link with redirection: [content-creators.net](https://www.content-creators.net)
 * OPML file with all RSS feeds: [dotnet-creators-opml](https://github.com/matthiasjost/dotnet-creators-opml)
+* This list is maintained by [Matthias Jost](https://matthiasjost.bio.link)
