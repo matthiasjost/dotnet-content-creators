@@ -187,7 +187,7 @@ All creators under this section must have published something in 2022.
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | WinAppSDK, WinUI 3 |
-| Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | .NET, C# |
+| Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech), [Twitter](https://twitter.com/TedsTechTed) | .NET, C# |
 
 ### Kosovo
 <img src="4x3/xk.svg" height="35">
@@ -201,8 +201,8 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels  | Tags |
 | --- | --- | --- |
-| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) | .NET, Azure |
-| Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [Blog](https://learnwithhasan.com) | .NET|
+| Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA), [Twitter](https://twitter.com/ahmadmozaffar99) | .NET, Azure |
+| Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [YouTube](https://www.youtube.com/c/heducate) [Blog](https://learnwithhasan.com), [Twitter](https://twitter.com/h_educate) | .NET |
 
 ### Malawi
 <img src="4x3/mw.svg" height="35">
