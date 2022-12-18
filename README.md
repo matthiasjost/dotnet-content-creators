@@ -97,18 +97,6 @@ All creators under this section must have published something in 2022.
 | ------------- | ------------- | ------------- |
 | Shady Nagy | [Blog](https://shadynagy.com/), [Twitter](https://twitter.com/ShadyNagy_) | .NET, ASP.NET Core |
 
-
-| Name  | Channels | Tags |
-| ------------- | ------------- | ------------- |
-| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
-| Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
-| Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
-| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
-| Kevin Gosse | [Twitter](https://twitter.com/o) | .NET, C# |
-| Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
-| Pierre Belin | [Blog](https://goatreview.com/), [Blog](https://minidump.net/)  | .NET, Akka.NET |
-| Martin Finkel | [Blog](https://mfkl.github.io) | NET, Architecture |
-
 ### France
 <img src="4x3/fr.svg" height="35">
 
