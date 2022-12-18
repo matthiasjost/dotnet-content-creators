@@ -243,7 +243,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield) | .NET|
+| Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield), [Blog](https://chodounsky.com/) | .NET|
 
 ### Norway
 <img src="4x3/no.svg" height="35">
@@ -258,9 +258,9 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Szymon Kulec  | [Blog](https://blog.scooletz.com/) | .NET        |
-| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/), [Twitter](https://twitter.com/okyrylchuk) | .NET, C#     |
-| Oskar Dudycz  | [Blog](https://event-driven.io/en/) | .NET, Event-Driven Architecture |
+| Szymon Kulec  | [Blog](https://blog.scooletz.com/), [Twitter](https://twitter.com/Scooletz), [LinkedIn](https://www.linkedin.com/in/szymon-kulec/) | .NET, C# |
+| Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/), [Twitter](https://twitter.com/okyrylchuk), [LinkedIn](https://www.linkedin.com/in/okyrylchuk/) | .NET, C# |
+| Oskar Dudycz  | [Blog](https://event-driven.io/en/), [Twitter](https://twitter.com/oskar_at_net), [LinkedIn](https://www.linkedin.com/in/oskardudycz/), [Mastodon](https://hachyderm.io/@oskardudycz) | .NET, Event-Driven Architecture |
 
 ### Portugal
 <img src="4x3/pt.svg" height="35">
