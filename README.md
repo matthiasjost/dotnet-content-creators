@@ -178,7 +178,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | ------------- | ------------- |----------------------------------------------|
-| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) | .NET, ASP.NET Core, Azure, .NET MAUI |
+| Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams), [LinkedIn](https://www.linkedin.com/in/trevoirwilliams/), [Blog](https://www.trevoirwilliams.com/) | .NET, ASP.NET Core, Azure, .NET MAUI |
 
 
 ### Japan
