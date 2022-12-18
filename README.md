@@ -126,17 +126,17 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | ------------- | ------------- |-------------------------------------|
-| Abdul Rahman | [Site](https://www.ilovedotnet.org) | .NET |
-| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com) | .NET, Docker, ABP Framework |
-| Anurag Sinha  | [Blog](https://techncodetools.com/blog/) | .NET |
+| Abdul Rahman | [Site](https://www.ilovedotnet.org), [LinkedIn](https://www.linkedin.com/in/fingers10/) | C#, .NET |
+| Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com), [Twitter](https://twitter.com/antosubash) | .NET, Docker, ABP Framework |
+| Anurag Sinha  | [Blog](https://techncodetools.com/blog/), [Twitter](https://twitter.com/awesomeanurag) | C#, .NET |
 | Bhrugen Patel | [YouTube](https://www.youtube.com/user/bhrugen1990), [Courses](https://www.dotnetmastery.com/) | .NET, ASP.NET Core, Blazor  |
-| Mukesh Murugan | [Blog](https://codewithmukesh.com/blog) | .NET, AWS |
-| Nouman Rahman  | [Blog](https://programmingfire.com) | .NET, C# |
-| Saineshwar Bageri | [Blog](https://tutexchange.com) | .NET, ASP.NET Core |
-| Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA) | .NET, ASP.NET Core |
-| Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos) | .NET |
+| Mukesh Murugan | [Blog](https://codewithmukesh.com/blog), [Twitter](https://twitter.com/iammukeshm), [LinkedIn](https://www.linkedin.com/in/iammukeshm/) | .NET, AWS |
+| Nouman Rahman  | [Blog](https://programmingfire.com), [Twitter](https://twitter.com/programmingfire) | .NET, C# |
+| Saineshwar Bageri | [Blog](https://tutexchange.com), [Twitter](https://twitter.com/saihacksoft) | .NET, ASP.NET Core |
+| Shailendra Chauhan | [YouTube](https://www.youtube.com/channel/UCuYuSB7JzDslrwwh8EM-4JA), [Twitter](https://twitter.com/proshailendra) | .NET, ASP.NET Core |
+| Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos), [Twitter](https://twitter.com/questpond) | C#, .NET |
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET, ASP.NET Core |
-| Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE) | .NET, ASP.NET Core |
+| Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE), [Twitter](https://twitter.com/onetarun) | .NET, ASP.NET Core |
 
 ### Iran
 <img src="4x3/ir.svg" height="35">
