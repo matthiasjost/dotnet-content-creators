@@ -209,14 +209,14 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg) | .NET, ASP.NET Core |
+| Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg), [Twitter](https://twitter.com/simuzeche) | .NET, ASP.NET Core |
 
 ### Mauritius
 <img src="4x3/mu.svg" height="35">
 
 | Name  | Channels | Tags   |
 | --- | --- | --- |
-| Patrick Smacchia | [Blog](https://blog.ndepend.com) | .NET, C#, Architecture |
+| Patrick Smacchia | [Blog](https://blog.ndepend.com), [Twitter](https://twitter.com/ndepend), [LinkedIn](https://www.linkedin.com/in/patrick-smacchia-b0123110/) | .NET, C#, Architecture, ndepend |
 
 ### Netherlands
 <img src="4x3/nl.svg" height="35">
