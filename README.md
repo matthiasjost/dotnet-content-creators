@@ -327,7 +327,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall) | .NET, C#, ASP.NET |
+| Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall), [LinkedIn](https://www.linkedin.com/in/nikiforov-oleksii/) | .NET, C#, ASP.NET |
 
 ### United Kingdom
 <img src="4x3/gb.svg" height="35">
