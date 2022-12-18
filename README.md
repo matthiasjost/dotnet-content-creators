@@ -298,6 +298,7 @@ All creators under this section must have published something in 2022.
 | Daniel Hindrikes | [Twitter](https://twitter.com/hindrikes), [YouTube](https://www.youtube.com/c/DanielHindrikes), [Blog](https://danielhindrikes.se/) | .NET MAUI, Blazor, Azure
 | Jessica Engstrom  |  [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/engstromjess), [Twitch](https://www.twitch.tv/codingafterwork)         |  .NET, Blazor, Podcast         |
 | Jimmy Engström  |    [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/EngstromJimmy), [Blog](https://engstromjimmy.com/)        |   .NET, Blazor, Podcast             |
+| Jonah Andersson | [Twitter](https://twitter.com/cjkodare), [Linktree](https://linktr.ee/jonahandersson), [Blog](https://jonahandersson.tech/blog/) | .NET, C#
 | Simon Wåhlin | [Twitter](https://twitter.com/SimonWahlin), [YouTube](https://www.youtube.com/c/SimonAutomates), [Blog](https://blog.simonw.se/) | PowerShell, Azure
 
 ### Switzerland
