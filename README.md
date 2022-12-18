@@ -102,13 +102,13 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
-| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
-| Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
+| Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching), [LinkedIn](https://www.linkedin.com/in/alexandre-n%C3%A9d%C3%A9lec-24565549/) | .NET, C#, Azure |
+| Alexis Chân GRIDEL | [Blog](https://agdl.dev), [Twitter](https://twitter.com/alexiscgridel), [LinkedIn](https://www.linkedin.com/in/alexisgridel/) | C#, .NET |
 | Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
-| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
-| Kevin Gosse | [Twitter](https://twitter.com/o) | .NET, C# |
+| Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws), [GitHub](https://github.com/danylaws) | C#, AWS |
+| Kevin Gosse | [Twitter](https://twitter.com/KooKiz), [Blog](https://minidump.net/) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
-| Pierre Belin | [Blog](https://goatreview.com/), [Blog](https://minidump.net/)  | .NET, Akka.NET |
+| Pierre Belin | [Blog](https://goatreview.com/)  | .NET, Akka.NET |
 | Martin Finkel | [Blog](https://mfkl.github.io) | NET, Architecture |
 
 ### Germany
