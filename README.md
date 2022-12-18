@@ -267,15 +267,15 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Guilherme Ferreira  | [Blog](https://gsferreira.com), [YouTube](https://www.youtube.com/user/guilhermeasferreira), [Twitter](https://twitter.com/gsferreira) | .NET, C#, Architecture  |
-| João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia), [Twitter](https://twitter.com/joaofbantunes), [Blog](https://blog.codingmilitia.com) | .NET, C#  |
+| Guilherme Ferreira  | [Blog](https://gsferreira.com), [YouTube](https://www.youtube.com/user/guilhermeasferreira), [Twitter](https://twitter.com/gsferreira), [LinkedIn](https://www.linkedin.com/in/gferreira/) | .NET, C#, Architecture  |
+| João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia), [Twitter](https://twitter.com/joaofbantunes), [Blog](https://blog.codingmilitia.com), [LinkedIn](https://www.linkedin.com/in/joaofbantunes/), [Mastodon](https://mastodon.social/@joaofbantunes) | .NET, C#  |
 
 ### Romania
 <img src="4x3/ro.svg" height="35">
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc) | .NET |
+|  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc), [LinkedIn](https://www.linkedin.com/in/dan-patrascu-baba-08b78523/) | .NET, C# |
 
 ### Serbia
 <img src="4x3/rs.svg" height="35">
