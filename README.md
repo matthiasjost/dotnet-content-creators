@@ -329,29 +329,35 @@ All creators under this section must have published something in 2022.
 | --- | --- | --- |
 | Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall), [LinkedIn](https://www.linkedin.com/in/nikiforov-oleksii/) | .NET, C#, ASP.NET |
 
-### United Kingdom
+### United Kingdom (A-J)
 <img src="4x3/gb.svg" height="35">
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Andrea Angella | [Blog](https://www.productivecsharp.com/blog/), [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | .NET, C# |
-| Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/) | .NET, C#, ASP.NET Core  |
+| Andrea Angella | [Blog](https://www.productivecsharp.com/blog/), [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella), [Twitter](https://twitter.com/angella_andrea) | .NET, C# |
+| Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/), [Mastodon](https://hachyderm.io/@andrewlock) | .NET, C#, ASP.NET Core  |
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik), [GitHub](https://github.com/T0shik) | .NET, C#, ASP.NET Core |
-| Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction) | Blazor
+| Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction), [Mastodon](https://mstdn.social/@chrissainty) | Blazor
 | Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
-| Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/) | Xamarin |
-| David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode) | .NET, C#, ASP.NET Core  |
+| Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/), [Mastodon](https://mastodon.scot/@irongut) | Xamarin |
+| David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode), [Twitter](https://twitter.com/roundthecode) | .NET, C#, ASP.NET Core  |
 | Dustin Moris Gorski | [Blog](https://dusted.codes/), [Twitter](https://twitter.com/dustinmoris), [LinkedIn](https://www.linkedin.com/in/dustinmoris/) | .NET, C#, ASP.NET Core |
-| Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/) | .NET, Blazor |
-| Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1) | Azure AI, .NET|
+| Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/), [GitHub](https://github.com/gavinlondigital) | .NET, Blazor |
+| Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1), [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jamie-maguire), [LinkedIn](https://www.linkedin.com/in/jamiemaguiredotnet/) | Azure AI, .NET|
 | Jamie Taylor | [Podcast](https://dotnetcore.show), [Twitter](https://twitter.com/dotnetcoreshow/), [YouTube](https://www.youtube.com/c/JamieTaylorDotNetCore/videos) | Podcast, .NET|
 | Jasper Kent | [YouTube](https://www.youtube.com/@CodingTutorialsAreGo), [Twitter](https://twitter.com/LastOprichnik), [LinkedIn](https://www.linkedin.com/in/jasper-kent-48a976104/) | .NET, C#
-| John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly) | .NET|
+| John Reilly | [Blog](https://blog.johnnyreilly.com), [Twitter](https://twitter.com/johnny_reilly), [Mastodon](https://fosstodon.org/@johnny_reilly) | .NET|
 | Jon Hilton | [Blog](https://jonhilton.net/), [Courses](https://practicaldotnet.io), [Twitter](https://twitter.com/jonhilt) | Blazor, .NET |
 | Jon P Smith | [Blog](https://www.thereformedprogrammer.net), [Twitter](https://twitter.com/thereformedprog) |  ASP.NET Core, EF Core |
 | Jon Skeet | [Blog](https://codeblog.jonskeet.uk/), [Twitter](https://twitter.com/jonskeet), [Book](https://csharpindepth.com/), [StackOverflow](https://stackoverflow.com/users/22656/jon-skeet) | .NET, C# |
-| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter) |  .NET |
-| Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix) | .NET, C#, Avalonia UI, WPF |
+
+### United Kingdom (K-Z)
+<img src="4x3/gb.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter), [Site](https://www.layla.dev/) | .NET, C# |
+| Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix), [Twitter](https://twitter.com/angelsixuk) | .NET, C#, Avalonia UI, WPF |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
 | Mark Oliver | [Twitter](https://twitter.com/MicbOliver), [Blog](https://blog.markoliver.website/), [Blog RSS](https://blog.markoliver.website/rss.xml), [LinkedIn](https://www.linkedin.com/in/profileformarkoliver/) | C#, .NET
 | Micheal Colhoun | [Blog](https://colhountech.com/blog/), [Twitter](https://twitter.com/colhountech), [YouTube](https://www.youtube.com/channel/UC-mHR47cULEfJHvk49t1zQA/videos) | .NET, C#, Azure
@@ -359,11 +365,11 @@ All creators under this section must have published something in 2022.
 | Mike Irving | [Blog](https://www.mike-irving.co.uk), [GitHub](https://github.com/mikeirvingweb), [Twitter](https://twitter.com/mikeirvingweb) | .NET, C#, Mobile  |
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas), [GitHub](https://github.com/Elfocrash) | .NET, C#  |
-| Paul Michaels | [Twitter](https://twitter.com/paul_michaels) | .NET, C#, Architecture  |
-| Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris) | Blazor |
+| Paul Michaels | [Twitter](https://twitter.com/paul_michaels), [Blog](https://pmichaels.net/) | .NET, C#, Architecture  |
+| Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris), [GitHub](https://github.com/mrpmorris/) | Blazor |
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
-| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/) | .NET, C#  |
-| Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/) | .NET, C# |
+| Steve Gordon | [Pluralsight](https://app.pluralsight.com/profile/author/steve-gordon), [Twitter](https://twitter.com/stevejgordon), [Blog](https://www.stevejgordon.co.uk/), [Mastodon](https://fosstodon.org/@stevejgordon) | .NET, C#  |
+| Stuart Blackler | [YouTube](https://www.youtube.com/c/CodeWithStu/videos), [LinkedIn](https://www.linkedin.com/in/im5tu/), [Blog](https://im5tu.io/article/), [Twitter](https://twitter.com/CodeWithStu) | .NET, C# |
 
 ### USA
 <img src="4x3/us.svg" height="35">
