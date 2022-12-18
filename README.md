@@ -379,9 +379,9 @@ All creators under this section must have published something in 2022.
 | Brendan Enrick | [YouTube](https://www.youtube.com/c/DevChatter/), [Blog](https://brendoneus.com/), [Twitch](https://www.twitch.tv/DevChatter), [Twitter](https://twitter.com/brendoneus) | .NET, C#, ASP.NET Core |
 | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
 | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
-| Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz) | Blazor |
+| Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz), [Twitter](https://twitter.com/carlfranklin) | Blazor |
 | Caleb Wells | [Twiter](https://twitter.com/calebwellscodes), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
-| David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave) | .NET, C# |
+| David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave), [Twitter](https://twitter.com/realDotNetDave) | .NET, C# |
 | David Pine | [Blog](https://davidpine.net/blog), [Twitter](https://twitter.com/davidpine7), [Mastodon](https://fosstodon.org/@davidpine@dotnet.social), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
 | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
 
@@ -392,7 +392,7 @@ All creators under this section must have published something in 2022.
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Hassan Rezk Habib | [Blog](https://hassanhabib.com/blog/), [Twitter](https://twitter.com/HassanRezkHabib), [LinkedIn](https://www.linkedin.com/in/hassanrezkhabib/recent-activity/shares/), [linktree](https://linktr.ee/hassanrezkhabib) | .NET  |
-| John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy) | Azure  |
+| John Savill | [YouTube](https://www.youtube.com/c/NTFAQGuy), [Twitter](https://twitter.com/NTFAQGuy), [LinkedIn](https://www.linkedin.com/in/john-savill/) | Azure  |
 | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
 | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz) | .NET, ASP.NET Core  |
 | Jesse Liberty | [Blog](https://jesseliberty.com/), [Twitter](https://twitter.com/jesseliberty), [Blog RSS](http://feeds.feedburner.com/JesseLiberty), [Mastodon](https://hachyderm.io/@jesseliberty), [Podcast](https://jesseliberty.com/podcast), [Other](https://jesseliberty.com/find-me) | .NET, C#, .NET MAUI, git |
@@ -410,12 +410,12 @@ All creators under this section must have published something in 2022.
 | Maclain Wiltzer (Mak) and Yasmin Rodriguez | [Blog](https://makolyte.com/), [Twitter](https://twitter.com/makolyte), [LinkedIn Page](https://www.linkedin.com/company/makolyte/) | .NET, C#, ASP.NET Core
 | Matt Eland | [Blog](https://NewDevsGuide.com/) (Coding), [Blog](https://AccessibleAI.dev/) (AI/ML), [YouTube](https://MattOnDataScience.com), [Twitter](https://twitter.com/IntegerMan)  | .NET, C#, ML.NET |
 | Michael Eaton | [Blog](https://samestuffdifferentday.net/), [Mastodon](https://fosstodon.org/@mjeaton@our.devchatter.com), [GitHub](https://github.com/mjeaton), [LinkedIn](https://www.linkedin.com/in/mjeaton/) | .NET, C#
-| Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger) | .NET  |
+| Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger), [LinkedIn](https://www.linkedin.com/in/nielsswimberghe/) | .NET  |
 | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
 | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
 | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Mastodon](https://fosstodon.org/@rockylhotka), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
-| Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar) | .NET, C#  |
-| Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/) | .NET  |
+| Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar), [Twitter](https://twitter.com/SaarShen) | .NET, C#  |
+| Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/), [Mastodon](https://hachyderm.io/@shanselman) | .NET  |
 | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen), [Mastodon](https://mastodon.social/@sjkilleen), [YouTube](https://www.youtube.com/SeanKilleen), [LinkedIn](https://linkedin.com/in/SeanKilleen) | .NET, C#, Automated Testing, Azure, Terraform |
 | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
 | Shawn Wildermuth | [Blog](https://wildermuth.com/), [Pluralsight](https://app.pluralsight.com/profile/author/shawn-wildermuth), [Twitter](https://twitter.com/shawnwildermuth), [LinkedIn](https://www.linkedin.com/in/shawnwildermuth/), [YouTube](https://www.youtube.com/c/swildermuth) | .NET, ASP.NET Core |
