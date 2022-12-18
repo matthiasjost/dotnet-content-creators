@@ -1,24 +1,22 @@
 # :zap: My Favourite .NET Content Creators
 
-## What Are Creators? 
-By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid. We only list creators and channels with English content.
+## What Are Creators?
+By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
 
-## Why Is The List Sorted By Country?
+## Language
+We only list creators and channels with English content.
 
-The country doesn't matter, but it is a way to divide the list into sections and challenge everyone to find good creators from all countries.
+## Why Does The Country Sort The List?
+The country doesn't matter, but it is a way to divide the List into sections and challenge everyone to find good creators from all countries.
 
-
-## What Is The Main Channel?
-
-The "Main Channel" is just what seems to be the most updated and well-known channel from where you would find all the other work from your creator best. 
-
+## What Are Channels?
+Channels contain the links on which the creator is most active.
 
 ## How To Contribute?
+Add your favourite creators by creating a PR.
 
-Add your favourite creators via creating a PR. 
-
-* Main Channel: Max. 5 links
-* Tags: Max. 5 tags
+- Channels: Max. 5 links
+- Tags: Max. 5 tags
 
 ## :calendar: 2022
 All creators under this section must have published something in 2022.
@@ -26,14 +24,14 @@ All creators under this section must have published something in 2022.
 ### Argentina
 <img src="4x3/ar.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Daniel Cazzulino | [Blog](https://www.cazzulino.com/), [Twitter](https://twitter.com/kzu), [LinkedIn](https://www.linkedin.com/in/danielcazzulino/) | .NET, C# |
 
 ### Australia 
 <img src="4x3/au.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Christian Findlay | [Blog](https://christianfindlay.com), [Twitter](https://twitter.com/cfdevelop), [Mastodon](https://fosstodon.org/@cfdevelop) | .NET, C# |
 | Jason Taylor | [Blog](https://jasontaylor.dev/), [LinkedIn](https://www.linkedin.com/in/jasontaylordev/), [Twitter](https://twitter.com/jasontaylordev) | .NET
@@ -44,7 +42,7 @@ All creators under this section must have published something in 2022.
 ### Austria 
 <img src="4x3/at.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Christian Nagel | [Blog](https://csharp.christiannagel.com), [Twitter](https://twitter.com/ChristianNagel) | .NET, C# |
 | Wolfgang Ziegler | [Blog](https://wolfgang-ziegler.com/), [Mastodon](https://fosstodon.org/@wolfgang@hachyderm.io), [LinkedIn](https://www.linkedin.com/in/wolfgangz/) | .NET MAUI, C# |
@@ -52,7 +50,7 @@ All creators under this section must have published something in 2022.
 ### Bahrain 
 <img src="4x3/bh.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Naweed Akram | [Blog](https://blogs.xgenoapps.com/), [Twitter](https://twitter.com/xgeno), [YouTube](https://www.youtube.com/@naweedakram) | .NET MAUI |
 
@@ -60,7 +58,7 @@ All creators under this section must have published something in 2022.
 
 <img src="4x3/be.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Kevin Dockx | [Blog](https://www.kevindockx.com/), [GitHub](https://github.com/kevindockx), [Pluralsight](https://www.pluralsight.com/authors/kevin-dockx), [Twitter](https://twitter.com/kevindockx) | .NET, Architecture, C#, ASP.NET Core, EF Core |
 | Maarten Balliauw | [Blog](https://blog.maartenballiauw.be/), [LinkedIn](https://www.linkedin.com/in/maartenballiauw/), [Mastodon](https://mastodon.online/@maartenballiauw), [Twitter](https://twitter.com/maartenballiauw) | .NET, C#, ASP.NET Core |
@@ -68,7 +66,7 @@ All creators under this section must have published something in 2022.
 ### Canada
 <img src="4x3/ca.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com), [LinkedIn](https://www.linkedin.com/in/dcomartin/), [Twitter](https://twitter.com/codeopinion) | Architecture, .NET |
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com), [Blog](https://frankliucs.com/blog/), [Twitter](https://twitter.com/frankliucs) | Blazor, ASP.NET Core |
@@ -79,7 +77,7 @@ All creators under this section must have published something in 2022.
 ### Denmark 
 <img src="4x3/dk.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Mark Seemann | [Blog](https://blog.ploeh.dk/), [Twitter](https://twitter.com/ploeh) | Architecutre, .NET, F#
 
@@ -87,7 +85,7 @@ All creators under this section must have published something in 2022.
 ### Dominican Republic 
 <img src="4x3/do.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Leomaris Reyes | [Blog](https://askxammy.com/), [LinkedIn](https://www.linkedin.com/in/leomaris-reyes-1b598661), [Telerik](https://www.telerik.com/blogs/author/leomaris-reyes), [Twitter](https://twitter.com/leomarisreyes11) | .NET MAUI, Xamarin  |
 | Steven Checo | [Blog](https://checox.com) | .NET MAUI  |
@@ -95,23 +93,23 @@ All creators under this section must have published something in 2022.
 ### Egypt
 <img src="4x3/eg.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Shady Nagy | [Blog](https://shadynagy.com/), [Twitter](https://twitter.com/ShadyNagy_) | .NET, ASP.NET Core |
 
 ### France
 <img src="4x3/fr.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Alexandre Nedelec | [Blog](https://www.techwatching.dev/), [Twitter](https://twitter.com/TechWatching) | .NET, C#, Azure |
 | Alexis Chân GRIDEL | [Blog](https://agdl.dev) | .NET |
 | Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws) | C#, AWS |
-| Kevin Gosse | [Twitter](https://twitter.com/KooKiz), [Blog](https://minidump.net/) | .NET, C#
-| Martin Finkel | [Blog](https://mfkl.github.io) | .NET, C# |
+| Kevin Gosse | [Twitter](https://twitter.com/o) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com) | .NET, Azure  |
-| Pierre Belin | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
+| Pierre Belin | [Blog](https://goatreview.com/) | .NET, Akka.NKooKiz), [Blog](https://minidump.net/) | .NET, C#
+| Martin Finkel | [Blog](https://mfkl.github.iET, Architecture |
 
 
 
@@ -119,7 +117,7 @@ All creators under this section must have published something in 2022.
 ### Germany
 <img src="4x3/de.svg" height="35">
 
-| Name  | Main Channel | Tags  |
+| Name  | Channels | Tags  |
 | ------------- | ------------- |-----------------------------------|
 | Holger Schwichtenberg | [Twitter](https://twitter.com/DOTNETDOKTOR) | .NET, C# |
 | Patrick God | [Twitter](https://twitter.com/_PatrickGod), [YouTube](https://www.youtube.com/c/PatrickGod) | .NET, C#, ASP.NET Core, Blazor, EF Core |
@@ -129,7 +127,7 @@ All creators under this section must have published something in 2022.
 ### India
 <img src="4x3/in.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- |-------------------------------------|
 | Abdul Rahman | [Site](https://www.ilovedotnet.org) | .NET |
 | Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com) | .NET, Docker, ABP Framework |
@@ -146,7 +144,7 @@ All creators under this section must have published something in 2022.
 ### Iran
 <img src="4x3/ir.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- |----------------------------|
 | Meysam Hadeli | [GitHub](https://github.com/meysamhadeli), [Twitter](https://twitter.com/meysamhadeli), [Blog](https://meysamhadeli.com) | Microservices, .NET, ASP.NET Core |
 | Mehdi Hadeli | [GitHub](https://github.com/mehdihadeli), [Twitter](https://twitter.com/mehdi_hadeli), [Blog](https://www.mehdihadeli.com/), [Blog RSS](https://www.mehdihadeli.com/rss) | Architecture, .NET, ASP.NET Core |
@@ -155,7 +153,7 @@ All creators under this section must have published something in 2022.
 ### Ireland
 <img src="4x3/ie.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- |----------------------------|
 | Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto) | C#, ASP.NET Core, Azure |
 | Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
@@ -164,7 +162,7 @@ All creators under this section must have published something in 2022.
 ### Israel
 <img src="4x3/il.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- |----------------------------|
 | Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
 
@@ -172,7 +170,7 @@ All creators under this section must have published something in 2022.
 ### Italy
 <img src="4x3/it.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Davide Bellone | [Blog](https://www.code4it.dev), [Twitter](https://twitter.com/BelloneDavide), [LinkedIn](https://www.linkedin.com/in/bellonedavide/) | .NET |
 | Fabio Ramoni | [Twitter](https://twitter.com/developer_fabio), [Twitter Threads (GitHub)](https://github.com/FabioDeveloper92/developer_fabio_twitter_threads) | .NET, SQL |
@@ -181,7 +179,7 @@ All creators under this section must have published something in 2022.
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- |----------------------------------------------|
 | Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams) | .NET, ASP.NET Core, Azure, .NET MAUI |
 
@@ -189,7 +187,7 @@ All creators under this section must have published something in 2022.
 ### Japan
 <img src="4x3/jp.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Andrew KeepCoding | [YouTube](https://www.youtube.com/c/AndrewKeepCoding/), [Twitter](https://twitter.com/AndrewKeepCodin) | WinAppSDK, WinUI 3 |
 | Ted Andersen | [YouTube](https://www.youtube.com/c/TedsTech) | .NET, C# |
@@ -197,14 +195,14 @@ All creators under this section must have published something in 2022.
 ### Kosovo
 <img src="4x3/xk.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Ledjon Behluli | [Blog](https://www.ledjonbehluli.com/), [Twitter](https://twitter.com/BehluliLedjon), [LinkedIn](https://www.linkedin.com/in/msc-ledjon-behluli-06b523155/) | .NET, C#, Architecture |
 
 ### Lebanon
 <img src="4x3/lb.svg" height="35">
 
-| Name  | Main Channel  | Tags |
+| Name  | Channels  | Tags |
 | ------------- |------------------------------------------------------------------------------------------------------|--------------|
 | Ahmad Mozaffar | [YouTube](https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA) | .NET, Azure |
 | Hasan Aboul | [YouTube](https://www.youtube.com/channel/UCiLmLn593TxhOLpvbOfJFRg/featured), [Blog](https://learnwithhasan.com) | .NET|
@@ -213,7 +211,7 @@ All creators under this section must have published something in 2022.
 ### Malawi
 <img src="4x3/mw.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Simuzeche Kaluwa  | [YouTube](https://www.youtube.com/channel/UCQw4zDb735eezImafcyYlWg) | .NET, ASP.NET Core |
 
@@ -221,14 +219,14 @@ All creators under this section must have published something in 2022.
 ### Mauritius
 <img src="4x3/mu.svg" height="35">
 
-| Name  | Main Channel | Tags   |
+| Name  | Channels | Tags   |
 | ------------- | ------------- |--------------------------------|
 | Patrick Smacchia | [Blog](https://blog.ndepend.com) | .NET, C#, Architecture |
 
 ### Netherlands
 <img src="4x3/nl.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- |------------------------------------------------------------------------------------------------|-----------------------------|
 | Albert Starreveld | [Blog](https://medium.com/@abstarreveld) | .NET, Azure, C# |
 | Erwin Staal | [Blog](https://erwinstaal.nl/), [Twitter](https://twitter.com/erwin_staal) | DevOps, Azure |
@@ -249,14 +247,14 @@ All creators under this section must have published something in 2022.
 ### New Zealand
 <img src="4x3/nz.svg" height="35">
 
-| Name  | Main Channel              | Tags |
+| Name  | Channels              | Tags |
 | ------------- |-----------------------------------------------------------------------------------------------------------|--------------|
 | Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield) | .NET|
 
 ### Norway
 <img src="4x3/no.svg" height="35">
 
-| Name  | Main Channel | Tags      |
+| Name  | Channels | Tags      |
 | ------------- | ------------- |-------------------|
 | Andreas Nesheim | [Blog](https://www.andreasnesheim.no/), [Twitter](https://twitter.com/AndreasNesheim), [LinkedIn](https://www.linkedin.com/in/andreas-nesheim/) | .NET MAUI, Xamarin
 | Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/), [Twitter](https://twitter.com/kristhecodingu1), [LinkedIn](https://www.linkedin.com/in/krisde/) | Azure, Kubernetes |
@@ -266,7 +264,7 @@ All creators under this section must have published something in 2022.
 ### Poland
 <img src="4x3/pl.svg" height="35">
 
-| Name  | Main Channel | Tags         |
+| Name  | Channels | Tags         |
 | ------------- | ------------- |------------------------------|
 | Szymon Kulec  | [Blog](https://blog.scooletz.com/) | .NET        |
 | Oleg Kyrylchuk | [Blog](https://blog.okyrylchuk.dev/), [Twitter](https://twitter.com/okyrylchuk) | .NET, C#     |
@@ -276,7 +274,7 @@ All creators under this section must have published something in 2022.
 ### Portugal
 <img src="4x3/pt.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Guilherme Ferreira  | [Blog](https://gsferreira.com), [YouTube](https://www.youtube.com/user/guilhermeasferreira), [Twitter](https://twitter.com/gsferreira) | .NET, C#, Architecture  |
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia), [Twitter](https://twitter.com/joaofbantunes), [Blog](https://blog.codingmilitia.com) | .NET, C#  |
@@ -285,7 +283,7 @@ All creators under this section must have published something in 2022.
 ### Romania
 <img src="4x3/ro.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 |  Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc) | .NET |
 
@@ -293,7 +291,7 @@ All creators under this section must have published something in 2022.
 ### Serbia
 <img src="4x3/rs.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/) | .NET, ASP.NET Core, Blazor, C# |
 | Milan Milanović | [LinkedIn](https://www.linkedin.com/in/milanmilanovic/), [Blog](https://milan.milanovic.org/post/), [Twitter](https://twitter.com/milan_milanovic) | .NET, C#, Azure Architecture |
@@ -305,7 +303,7 @@ All creators under this section must have published something in 2022.
 ### Sweden
 <img src="4x3/se.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Alan Smith | [YouTube](https://www.youtube.com/c/CloudCastsAlanSmith), [Twitter](https://twitter.com/alansmith) | Azure AI
 | Daniel Hindrikes | [Twitter](https://twitter.com/hindrikes), [YouTube](https://www.youtube.com/c/DanielHindrikes), [Blog](https://danielhindrikes.se/) | .NET MAUI, Blazor, Azure
@@ -316,7 +314,7 @@ All creators under this section must have published something in 2022.
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi), [Twitter](https://twitter.com/CHBernasconiC),  [Blog](https://www.claudiobernasconi.ch/) | .NET, .NET MAUI  |
 | Damien Bowden  | [Blog](https://damienbod.com), [Twitter](https://twitter.com/damien_bod) | ASP.NET Core, OpenID Connect, OAuth |
@@ -331,7 +329,7 @@ All creators under this section must have published something in 2022.
 ### Turkey
 <img src="4x3/tr.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Berkan Sasmaz | [Blog](https://berkansasmaz.com/), [Twitter](https://twitter.com/berkansasmazz), [LinkedIn](https://www.linkedin.com/in/berkansasmaz/) | ABP Framework, .NET, Architecture |
 | Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
@@ -340,7 +338,7 @@ All creators under this section must have published something in 2022.
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall) | .NET, C#, ASP.NET |
 
@@ -348,7 +346,7 @@ All creators under this section must have published something in 2022.
 ### United Kingdom
 <img src="4x3/gb.svg" height="35">
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Andrea Angella | [Blog](https://www.productivecsharp.com/blog/), [Site](https://www.productivecsharp.com/), [LinkedIn](https://www.linkedin.com/in/andreaangella/), [YouTube](https://www.youtube.com/c/AndreaAngella) | .NET, C# |
 | Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/) | .NET, C#, ASP.NET Core  |
@@ -384,7 +382,7 @@ All creators under this section must have published something in 2022.
 ### USA
 <img src="4x3/us.svg" height="35">
 
-  | Name  | Main Channel | Tags |
+  | Name  | Channels | Tags |
   | ------------- | ------------- | ------------- |
   | Brendan Enrick | [YouTube](https://www.youtube.com/c/DevChatter/), [Blog](https://brendoneus.com/), [Twitch](https://www.twitch.tv/DevChatter), [Twitter](https://twitter.com/brendoneus) | .NET, C#, ASP.NET Core |
   | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
@@ -424,7 +422,7 @@ All creators under this section must have published something in 2022.
 
 ### Official MSFT / .NET Foundation content resources / Xamarin
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | .NET Microsoft Channels | [Blog](https://devblogs.microsoft.com/dotnet), [YouTube](https://www.youtube.com/c/dotNET), [Documentation](https://docs.microsoft.com/dotnet), [Twitter](https://twitter.com/dotnet) | .NET, C#, ASP.NET Core, .NET MAUI |
 | .NET Foundation | [YouTube](https://www.youtube.com/c/NETFoundation) | .NET  |
@@ -433,7 +431,7 @@ All creators under this section must have published something in 2022.
 
 ### Multi-Creator Channels / Creator Name Unkown
 
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
 | Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET
@@ -451,7 +449,7 @@ All creators under this section must have published something in 2022.
 | Kudvenkat/Pragim | [YouTube](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot) | .NET, ASP.NET Core  |
 
 ### Aggregator Sites
-| Name  | Main Channel | Tags |
+| Name  | Channels | Tags |
 | ------------- | ------------- | ------------- |
 | Discover.NET | [Site](https://discoverdot.net) | .NET, Aggregator Site |
 | .NET Ketchup | [Site](https://dotnetketchup.com) | .NET, Aggregator Site |
