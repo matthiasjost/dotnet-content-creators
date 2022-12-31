@@ -352,6 +352,7 @@ All creators under this section must have published something in 2022.
 | David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode), [Twitter](https://twitter.com/roundthecode) | .NET, C#, ASP.NET Core  |
 | Dustin Moris Gorski | [Blog](https://dusted.codes/), [Twitter](https://twitter.com/dustinmoris), [LinkedIn](https://www.linkedin.com/in/dustinmoris/) | .NET, C#, ASP.NET Core |
 | Gavin Lon | [YouTube](https://www.youtube.com/c/GavinLon/), [GitHub](https://github.com/gavinlondigital) | .NET, Blazor |
+| James Eastham | [YouTube](https://www.youtube.com/channel/UCutBMcgLfbSfRL-MB5Bskxg), [Site](https://serverlessdotnet.dev/), [Blog](https://jameseastham.co.uk/), [Mastodon](https://hachyderm.io/@plantpowerjames), [LinkedIn](https://www.linkedin.com/in/james-eastham/) | AWS, Serverless, .NET, C# |
 | Jamie Maguire | [Blog](https://jamiemaguire.net/), [Twitter](https://twitter.com/jamie_maguire1), [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jamie-maguire), [LinkedIn](https://www.linkedin.com/in/jamiemaguiredotnet/) | Azure AI, .NET|
 | Jamie Taylor | [Podcast](https://dotnetcore.show), [Twitter](https://twitter.com/dotnetcoreshow/), [YouTube](https://www.youtube.com/c/JamieTaylorDotNetCore/videos) | Podcast, .NET|
 | Jasper Kent | [YouTube](https://www.youtube.com/@CodingTutorialsAreGo), [Twitter](https://twitter.com/LastOprichnik), [LinkedIn](https://www.linkedin.com/in/jasper-kent-48a976104/) | .NET, C#
