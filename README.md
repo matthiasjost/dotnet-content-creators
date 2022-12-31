@@ -260,6 +260,14 @@ All creators under this section must have published something in 2022.
 | Andreas Nesheim | [Blog](https://www.andreasnesheim.no/), [Twitter](https://twitter.com/AndreasNesheim), [LinkedIn](https://www.linkedin.com/in/andreas-nesheim/) | .NET MAUI, Xamarin
 | Kris Devochko | [Blog](https://kristhecodingunicorn.com/post/), [Twitter](https://twitter.com/kristhecodingu1), [LinkedIn](https://www.linkedin.com/in/krisde/) | Azure, Kubernetes |
 
+### Pakistan
+<img src="4x3/pk.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Muhammad Waseem  | [Twitter](https://twitter.com/mwaseemzakir), [LinkedIn](https://www.linkedin.com/in/mwaseemzakir/) , [Facebook](https://web.facebook.com/IamMuhammadWaseemZakir),[Medium](https://medium.com/@mwaseemzakir)| .NET, C# , Entity Framework|
+
+
 ### Poland
 <img src="4x3/pl.svg" height="35">
 
