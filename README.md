@@ -74,6 +74,13 @@ All creators under this section must have published something in 2022.
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/), [LinkedIn](https://www.linkedin.com/in/richjcampbell/), [Twitter](https://twitter.com/richcampbell) | Podcast, .NET |
 
+### Costa Rica
+<img src="4x3/cr.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| José Pablo Ramírez Vargas | [Blog](https://webjose.hashnode.dev), [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/), [Mastodon](https://dotnet.social/@webJose), [GitHub](https://github.com/webJose) | Architecture, .Net, ASP.Net Core, C# |
+
 ### Denmark 
 <img src="4x3/dk.svg" height="35">
 
