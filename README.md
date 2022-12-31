@@ -407,7 +407,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | James Montemagno | [YouTube](https://www.youtube.com/c/JamesMontemagno), [Twitter](https://twitter.com/jamesmontemagno), [LinkedIn](https://linkedin.com/in/jamesmontemagno), [Blog](https://montemagno.com), [Podcast](https://www.mergeconflict.fm/) | .NET MAUI, .NET, Podcast |
 | Jeffrey T. Fritz | [YouTube](https://www.youtube.com/c/csharpfritz/), [Twitch](https://www.twitch.tv/csharpfritz), [linktree](https://linktr.ee/csharpfritz) | .NET, ASP.NET Core  |
 | Jeremy Sinclair | [Blog](https://sinclairinat0r.com/), [Twitter](https://twitter.com/sinclairinat0r), [LinkedIn](https://www.linkedin.com/in/jeremy-sinclair-39b6256/) | .NET, C# |
-| Jesse Liberty | [Blog](https://jesseliberty.com/), [Twitter](https://twitter.com/jesseliberty), [Blog RSS](http://feeds.feedburner.com/JesseLiberty), [Mastodon](https://hachyderm.io/@jesseliberty), [Podcast](https://jesseliberty.com/podcast), [Other](https://jesseliberty.com/find-me) | .NET, C#, .NET MAUI, git |
+| Jesse Liberty | [Blog](https://jesseliberty.com/), [Blog RSS](http://feeds.feedburner.com/JesseLiberty), [Mastodon](https://hachyderm.io/@jesseliberty), [Podcast](https://jesseliberty.com/podcast), [Other](https://jesseliberty.com/find-me) | .NET, C#, .NET MAUI, git |
 | Jimmy Bogard | [Blog](https://jimmybogard.com/), [LinkedIn](https://www.linkedin.com/in/jimmybogard/), [Twitter](https://twitter.com/jbogard) | AutoMapper, .NET  |
 | Julie Lerman | [Twitter](https://twitter.com/julielerman) | EF Core, .NET |
 | Kendra Havens | [Twitter](https://twitter.com/gotheap) | .NET  |
