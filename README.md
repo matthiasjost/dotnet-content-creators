@@ -79,7 +79,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| José Pablo Ramírez Vargas | [Blog](https://webjose.hashnode.dev), [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/), [Mastodon](https://dotnet.social/@webJose), [GitHub](https://github.com/webJose) | Architecture, .Net, ASP.Net Core, C# |
+| José Pablo Ramírez Vargas | [Blog](https://webjose.hashnode.dev), [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/), [Mastodon](https://dotnet.social/@webJose), [GitHub](https://github.com/webJose) | Architecture, .NET, ASP.NET Core, C# |
 
 ### Denmark 
 <img src="4x3/dk.svg" height="35">
