@@ -265,7 +265,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Muhammad Waseem  | [Twitter](https://twitter.com/mwaseemzakir), [LinkedIn](https://www.linkedin.com/in/mwaseemzakir/) , [Facebook](https://web.facebook.com/IamMuhammadWaseemZakir),[Medium](https://medium.com/@mwaseemzakir)| .NET, C# , Entity Framework|
+| Muhammad Waseem | [Twitter](https://twitter.com/mwaseemzakir), [LinkedIn](https://www.linkedin.com/in/mwaseemzakir/) , [Facebook](https://web.facebook.com/IamMuhammadWaseemZakir), [Medium](https://medium.com/@mwaseemzakir)| .NET, C# , Entity Framework |
 
 
 ### Poland
