@@ -71,6 +71,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Derek Comartin | [YouTube](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw), [Blog](https://codeopinion.com), [LinkedIn](https://www.linkedin.com/in/dcomartin/), [Twitter](https://twitter.com/codeopinion) | Architecture, .NET |
 | Frank Liu | [YouTube](https://www.youtube.com/c/FrankLiuSoftware/), [Site](https://frankliucs.com), [Blog](https://frankliucs.com/blog/), [Twitter](https://twitter.com/frankliucs) | Blazor, ASP.NET Core |
 | Gérald Barré | [Blog](https://www.meziantou.net/), [Twitter](https://twitter.com/meziantou), [Mastodon](https://hachyderm.io/@meziantou), [GitHub](https://github.com/meziantou), [LinkedIn](https://www.linkedin.com/in/meziantou/) | .NET, ASP.NET Core, Blazor, C# |
+| Jhonatan Oliveira | [Blog](https://blog.jhonatanoliveira.dev/), [GitHub](https://github.com/jhonatanfernando), [Twitter](https://twitter.com/jhonatanfoliv), [LinkedIn](https://www.linkedin.com/in/jhonatanfernando/) | .NET, C#, ASP.NET Core, .NET MAUI
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/), [LinkedIn](https://www.linkedin.com/in/richjcampbell/), [Twitter](https://twitter.com/richcampbell) | Podcast, .NET |
 
