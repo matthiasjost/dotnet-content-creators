@@ -323,7 +323,7 @@ All creators under this section must have published something in 2022.
 | --- | --- | --- |
 | Claudio Bernasconi | [YouTube](https://youtube.com/claudiobernasconi), [Twitter](https://twitter.com/CHBernasconiC),  [Blog](https://www.claudiobernasconi.ch/) | .NET, .NET MAUI  |
 | Damien Bowden  | [Blog](https://damienbod.com), [Twitter](https://twitter.com/damien_bod) | ASP.NET Core, OpenID Connect, OAuth |
-| Emanuele Bartolesi | [Blog](https://dev.to/kasuken), [Blog RSS](https://dev.to/feed/kasuken), [Twitter](https://twitter.com/kasuken) | .NET, Blazor, Azure |
+| Emanuele Bartolesi | [Blog](https://dev.to/kasuken), [Blog RSS](https://dev.to/feed/kasuken), [Twitter](https://twitter.com/kasuken), [Mastering Minimal APIs in ASP.NET Core (Book)](https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824)] | .NET, Blazor, Azure |
 | Marco Siccardi | [Blog](https://msicc.net/), [Mastodon](https://mastodon.social/@msicc), [LinkedIn](https://www.linkedin.com/in/msicc/) | .NET, C#, Xamarin
 | Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) | Azure, ASP.NET Core  |
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks), [Twitter](https://twitter.com/sharpcms/) | ASP.NET Core  |
