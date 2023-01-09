@@ -18,8 +18,8 @@ Add your favourite creators by creating a PR.
 - Channels: Max. 5 links
 - Tags: Max. 5 tags
 
-## :calendar: 2022
-All creators under this section must have published something in 2022.
+## :calendar: 2022/23
+All creators under this section must have published something in 2022 or 2023.
 
 ### Argentina
 <img src="4x3/ar.svg" height="35">
