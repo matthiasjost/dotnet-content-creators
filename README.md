@@ -168,7 +168,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
+| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/),Ivan Kahl [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
 
 
 ### Italy
@@ -305,6 +305,13 @@ All creators under this section must have published something in 2022.
 | Milan Jovanović | [Blog](https://www.milanjovanovic.tech/blog), [LinkedIn](https://www.linkedin.com/in/milan-jovanovic), [YouTube](https://www.youtube.com/c/MilanJovanovicTech), [Twitter](https://twitter.com/mjovanovictech) | .NET, C#, Architecture  |
 | Stefan Djokic  | [LinkedIn](https://www.linkedin.com/in/djokic-stefan/), [Twitter](https://twitter.com/TheCodeMan__), [Blog](https://www.exlrt.com/blog?a=stefan-djokic) | .NET, C#, Architecture, EntityFramework |
 | Zoran Horvat | [Twitter](https://twitter.com/zoranh75), [Blog](https://codinghelmet.com/articles), [YouTube](https://www.youtube.com/c/zh-code) | .NET, C#, Architecture |
+
+## South Africa
+<img src="4x3/za.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Ivan Kahl | [Site](https://ivankahl.com/), [Blog](https://blog.ivankahl.com/), [YouTube](https://www.youtube.com/c/IvanKahl), [Twitter](https://twitter.com/IvanKahl) | .NET, C#
 
 ### Sweden
 <img src="4x3/se.svg" height="35">
