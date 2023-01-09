@@ -168,7 +168,7 @@ All creators under this section must have published something in 2022.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/),Ivan Kahl [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
+| Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
 
 
 ### Italy
