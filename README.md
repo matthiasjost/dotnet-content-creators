@@ -349,6 +349,14 @@ All creators under this section must have published something in 2022 or 2023.
 | Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
 | Furkan Gözükara | [YouTube](https://www.youtube.com/SECourses), [Twitter](https://twitter.com/gozukarafurkan), [LinkedIn](https://www.linkedin.com/in/furkangozukara/) | .NET, C#
 
+## Czechia 
+<img src="4x3/cz.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Martin Zikmund | [Blog](https://blog.mzikmund.com/), [Twitter](https://twitter.com/mzikmunddev) | .NET, C#, Uno Platform |
+
+
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
 
