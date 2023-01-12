@@ -82,6 +82,13 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | José Pablo Ramírez Vargas | [Blog](https://webjose.hashnode.dev), [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pablo-ram%C3%ADrez-vargas-308b6180/), [Mastodon](https://dotnet.social/@webJose), [GitHub](https://github.com/webJose) | Architecture, .NET, ASP.NET Core, C# |
 
+### Czechia Republic
+<img src="4x3/cz.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Martin Zikmund | [Blog](https://blog.mzikmund.com/), [Twitter](https://twitter.com/mzikmunddev) | .NET, C#, Uno Platform |
+
 ### Denmark 
 <img src="4x3/dk.svg" height="35">
 
@@ -348,14 +355,6 @@ All creators under this section must have published something in 2022 or 2023.
 | Berkan Sasmaz | [Blog](https://berkansasmaz.com/), [Twitter](https://twitter.com/berkansasmazz), [LinkedIn](https://www.linkedin.com/in/berkansasmaz/) | ABP Framework, .NET, Architecture |
 | Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
 | Furkan Gözükara | [YouTube](https://www.youtube.com/SECourses), [Twitter](https://twitter.com/gozukarafurkan), [LinkedIn](https://www.linkedin.com/in/furkangozukara/) | .NET, C#
-
-### Czechia 
-<img src="4x3/cz.svg" height="35">
-
-| Name  | Channels | Tags |
-| --- | --- | --- |
-| Martin Zikmund | [Blog](https://blog.mzikmund.com/), [Twitter](https://twitter.com/mzikmunddev) | .NET, C#, Uno Platform |
-
 
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
