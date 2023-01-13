@@ -489,6 +489,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
 | Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET
 | Code Maze | [Blog](https://www.code-maze.com) | .NET, C#, ASP.NET Core  |
+| Code w/ Saar | [Blog](https://codewithsaar.com/), [Twitter](https://twitter.com/CodeWithSaar), [Twitter](https://twitter.com/SaarShen), [YouTube](https://www.youtube.com/CodeWithSaar) | .NET, C# |
 | Coding After Work |  [Podcast](https://www.codingafterwork.com/), [Twitch](https://www.twitch.tv/codingafterwork), [Twitter](https://twitter.com/CodingAfterWork) | .NET, Blazor, Podcast
 | Coding Blocks| [Podcast](https://www.codingblocks.net/) | .NET Podcast |
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive) | .NET, Blazor, ASP.NET Core  |
