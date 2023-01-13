@@ -389,7 +389,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Andrew Lock | [Blog](https://andrewlock.net/), [Twitter](https://twitter.com/andrewlocknet), [LinkedIn](https://www.linkedin.com/in/andrewdlock/), [Mastodon](https://hachyderm.io/@andrewlock) | .NET, C#, ASP.NET Core  |
 | Anton Wieslander | [YouTube](https://www.youtube.com/c/RawCoding), [Twitter](https://twitter.com/anton_t0shik), [GitHub](https://github.com/T0shik) | .NET, C#, ASP.NET Core |
 | Chris Sainty | [Twitter](https://twitter.com/chris_sainty), [Blog](https://chrissainty.com/), [Blazor in Action (Book)](https://bit.ly/blazorinaction), [Mastodon](https://mstdn.social/@chrissainty) | Blazor
-| Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
+| Dan Clarke | [Blog](https://www.danclarke.com/), [Podcast](https://unhandledexceptionpodcast.com/), [YouTube](https://www.youtube.com/@danclarkeuk), [Twitter](https://twitter.com/dracan), [Mastodon](https://mstdn.social/@danclarke) | Podcast, .NET|
 | Dave Murray | [Blog](https://blog.taranissoftware.com/), [LinkedIn](https://www.linkedin.com/in/dave-murray-glasgow/), [Mastodon](https://mastodon.scot/@irongut) | Xamarin |
 | David Grace | [Blog](https://www.roundthecode.com/), [YouTube](https://www.youtube.com/roundthecode), [Twitter](https://twitter.com/roundthecode) | .NET, C#, ASP.NET Core  |
 | Dustin Moris Gorski | [Blog](https://dusted.codes/), [Twitter](https://twitter.com/dustinmoris), [LinkedIn](https://www.linkedin.com/in/dustinmoris/) | .NET, C#, ASP.NET Core |
