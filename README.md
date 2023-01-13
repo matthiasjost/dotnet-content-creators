@@ -430,6 +430,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Caleb Wells | [Twiter](https://twitter.com/calebwellscodes), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
 | David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave), [Twitter](https://twitter.com/realDotNetDave) | .NET, C# |
 | David Pine | [Blog](https://davidpine.net/blog), [Twitter](https://twitter.com/davidpine7), [Mastodon](https://fosstodon.org/@davidpine@dotnet.social), [Learning Blazor (Book)](https://bit.ly/learning-blazor) | Blazor
+| Eric Sink | [Twitter](https://twitter.com/eric_sink), [Blog](https://ericsink.com/) | .NET, C#|
 | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
 
 
