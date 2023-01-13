@@ -160,6 +160,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos), [Twitter](https://twitter.com/questpond) | C#, .NET |
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET, ASP.NET Core |
 | Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE), [Twitter](https://twitter.com/onetarun) | .NET, ASP.NET Core |
+| Zahiruddin Tavargere | [Twitter](https://twitter.com/zahiruddin_t), [Blog](https://zahere.com/) || .NET, C#
 
 ### Iran
 <img src="4x3/ir.svg" height="35">
@@ -421,6 +422,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
+| Adnan Rafiq | [Blog](https://adnanrafiq.com/blog/), [Mastodon](https://hachyderm.io/@adnanrafiq) | .NET, C#, SQL |
 | Brendan Enrick | [YouTube](https://www.youtube.com/c/DevChatter/), [Blog](https://brendoneus.com/), [Twitch](https://www.twitch.tv/DevChatter), [Twitter](https://twitter.com/brendoneus) | .NET, C#, ASP.NET Core |
 | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
 | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
