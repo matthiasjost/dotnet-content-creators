@@ -462,7 +462,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
 | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
 | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Mastodon](https://fosstodon.org/@rockylhotka), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
-| Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar), [Twitter](https://twitter.com/SaarShen) | .NET, C#  |
+| Saar Shen | [Site](https://www.codewithsaar.net/), [YouTube](https://youtube.com/c/CodewithSaar), [Twitter](https://twitter.com/SaarShen), [Twitter](https://twitter.com/CodeWithSaar) | .NET, C#  |
 | Scott Hanselman | [YouTube](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og), [Podcast](https://www.hanselminutes.com/), [Mastodon](https://hachyderm.io/@shanselman) | .NET  |
 | Sean Killeen | [Blog](https://seankilleen.com/), [Twitter](https://twitter.com/sjkilleen), [Mastodon](https://mastodon.social/@sjkilleen), [YouTube](https://www.youtube.com/SeanKilleen), [LinkedIn](https://linkedin.com/in/SeanKilleen) | .NET, C#, Automated Testing, Azure, Terraform |
 | Shawn Clabough | [Twitter](https://twitter.com/DotNetSuperhero), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
@@ -489,7 +489,6 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | 6 Figure Developer Podcast | [Podcast](https://6figuredev.com/category/podcast/) | Podcast, .NET  |
 | Adventures in .NET | [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET
 | Code Maze | [Blog](https://www.code-maze.com) | .NET, C#, ASP.NET Core  |
-| Code w/ Saar | [Blog](https://codewithsaar.com/), [Twitter](https://twitter.com/CodeWithSaar), [Twitter](https://twitter.com/SaarShen), [YouTube](https://www.youtube.com/CodeWithSaar) | .NET, C# |
 | Coding After Work |  [Podcast](https://www.codingafterwork.com/), [Twitch](https://www.twitch.tv/codingafterwork), [Twitter](https://twitter.com/CodingAfterWork) | .NET, Blazor, Podcast
 | Coding Blocks| [Podcast](https://www.codingblocks.net/) | .NET Podcast |
 | Curious Drive | [YouTube](https://www.youtube.com/c/CuriousDrive) | .NET, Blazor, ASP.NET Core  |
