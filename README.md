@@ -286,6 +286,13 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Muhammad Waseem | [Twitter](https://twitter.com/mwaseemzakir), [LinkedIn](https://www.linkedin.com/in/mwaseemzakir/), [Facebook](https://facebook.com/IamMuhammadWaseemZakir), [Medium](https://medium.com/@mwaseemzakir)| .NET, C# , Entity Framework |
 
+### Philippines  
+<img src="4x3/ph.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Satya Karki | [Blog](https://rijsat.com/), [LinkedIn](https://www.linkedin.com/in/satya-karki-a506b473/), [YouTube](https://www.youtube.com/@RijSat) | .NET, C# |
+| Rijwan Ansari | [Blog](https://rijsat.com/), [LinkedIn](https://www.linkedin.com/in/rijwanansari/), [Twitter](https://twitter.com/rijsat), [YouTube](https://www.youtube.com/@RijSat) | .NET, C# |
 
 ### Poland
 <img src="4x3/pl.svg" height="35">
