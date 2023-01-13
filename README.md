@@ -136,6 +136,14 @@ All creators under this section must have published something in 2022 or 2023.
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber), [Twitter](https://twitter.com/thomasclaudiush) | .NET, C#, Blazor, WinUI 3 |
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog), [Twitter](https://twitter.com/timcadenbach) | .NET Core, ASP.NET Core  |
 
+### Greece
+<img src="4x3/gr.svg" height="35">
+
+| Name  | Channels | Tags  |
+| --- | --- | --- |
+| Spyros Katsios | [YouTube](https://www.youtube.com/@spyroskatsios) | .NET, C# |
+
+
 ### India
 <img src="4x3/in.svg" height="35">
 
@@ -302,6 +310,7 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Dan Patrascu-Baba  | [YouTube](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ), [Twitter](https://twitter.com/danpdc), [LinkedIn](https://www.linkedin.com/in/dan-patrascu-baba-08b78523/) | .NET, C# |
 | Irina Scurtu | [Blog](https://irina.codes/), [Twitter](https://twitter.com/irina_scurtu), [GitHub](https://github.com/irinascurtu), [LinkedIn](https://www.linkedin.com/in/irinascurtu/) | .NET, C# |
+| Valentin Anghel | [Blog](https://programmingcsharp.com/), [Twitter](https://twitter.com/sharpprograming) | .NET, C# |
 
 ### Serbia
 <img src="4x3/rs.svg" height="35">
