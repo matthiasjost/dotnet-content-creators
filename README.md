@@ -373,6 +373,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Berkan Sasmaz | [Blog](https://berkansasmaz.com/), [Twitter](https://twitter.com/berkansasmazz), [LinkedIn](https://www.linkedin.com/in/berkansasmaz/) | ABP Framework, .NET, Architecture |
 | Engincan Veske | [Blog](https://engincanv.github.io/), [Twitter](https://twitter.com/EngincanVeske), [LinkedIn](https://www.linkedin.com/in/engincanv/) | ABP Framework, .NET, C# |
 | Furkan Gözükara | [YouTube](https://www.youtube.com/SECourses), [Twitter](https://twitter.com/gozukarafurkan), [LinkedIn](https://www.linkedin.com/in/furkangozukara/) | .NET, C#
+| Okan Can Karadağ | [Blog](https://okankaradag.com/en/), [LinkedIn](https://www.linkedin.com/in/okancankaradag/) | .NET, C# |
 
 ### Ukraine
 <img src="4x3/ua.svg" height="35">
