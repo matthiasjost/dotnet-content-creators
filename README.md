@@ -309,6 +309,7 @@ All creators under this section must have published something in 2022 or 2023.
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
+| Antão Almada | [Blog](https://antao-almada.medium.com/), [LinkedIn](https://www.linkedin.com/in/antaoalmada/) | .NET, C# |
 | Guilherme Ferreira  | [Blog](https://gsferreira.com), [YouTube](https://www.youtube.com/user/guilhermeasferreira), [Twitter](https://twitter.com/gsferreira), [LinkedIn](https://www.linkedin.com/in/gferreira/) | .NET, C#, Architecture  |
 | João Antunes  | [YouTube](https://www.youtube.com/c/CodingMilitia), [Twitter](https://twitter.com/joaofbantunes), [Blog](https://blog.codingmilitia.com), [LinkedIn](https://www.linkedin.com/in/joaofbantunes/), [Mastodon](https://mastodon.social/@joaofbantunes) | .NET, C#  |
 
