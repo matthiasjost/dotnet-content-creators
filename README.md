@@ -459,6 +459,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Kendra Havens | [Twitter](https://twitter.com/gotheap) | .NET  |
 | Kevin Bost | [YouTube](https://www.youtube.com/c/KevinBost), [Twitter](https://twitter.com/kitokeboo) | WPF, .NET |
 | Khalid Abuhakmeh | [Blog](https://khalidabuhakmeh.com/), [Twitter](https://twitter.com/buhakmeh), [Mastodon](https://fosstodon.org/@khalidabuhakmeh@mastodon.social) | .NET, C# |
+| Lee Richardson | [Blog](http://www.leerichardson.com/), [Twitter](https://twitter.com/lprichar), [LinkedIn](https://www.linkedin.com/in/leerichardson/), [YouTube](https://www.youtube.com/@LeeRichardson200/) | .NET, C#, .NET MAUI |
 
 ### USA (M-Z)
 <img src="4x3/us.svg" height="35">
