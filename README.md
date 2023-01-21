@@ -161,7 +161,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Shivprasad Koirala | [YouTube](https://www.youtube.com/c/questpondvideos), [Twitter](https://twitter.com/questpond) | C#, .NET |
 | Shreyas Jejurkar  | [Blog](https://shreyasjejurkar.com) | .NET, ASP.NET Core |
 | Tarun Saini  | [YouTube](https://www.youtube.com/c/ASPNETMVCCORE), [Twitter](https://twitter.com/onetarun) | .NET, ASP.NET Core |
-| Zahiruddin Tavargere | [Twitter](https://twitter.com/zahiruddin_t), [Blog](https://zahere.com/) || .NET, C#
+| Zahiruddin Tavargere | [Twitter](https://twitter.com/zahiruddin_t), [Blog](https://zahere.com/) | .NET, C# |
 
 ### Iran
 <img src="4x3/ir.svg" height="35">
@@ -170,8 +170,9 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Meysam Hadeli | [GitHub](https://github.com/meysamhadeli), [Twitter](https://twitter.com/meysamhadeli), [Blog](https://meysamhadeli.com) | Microservices, .NET, ASP.NET Core |
 | Mehdi Hadeli | [GitHub](https://github.com/mehdihadeli), [Twitter](https://twitter.com/mehdi_hadeli), [Blog](https://www.mehdihadeli.com/), [Blog RSS](https://www.mehdihadeli.com/rss) | Architecture, .NET, ASP.NET Core |
-| Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
 | Mohsen Rajabi | [GitHub](https://github.com/EngRajabi), [Twitter](https://twitter.com/mohsen_rajabi72), [Blog](https://medium.com/@mohsen_rajabi) | Microservices, .NET, ASP.NET Core, C# |
+| Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
+
 
 ### Ireland
 <img src="4x3/ie.svg" height="35">
