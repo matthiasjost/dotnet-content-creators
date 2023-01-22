@@ -275,6 +275,13 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Jakub Chodounský | [Newsletter (csharpdigest.net)](https://csharpdigest.net/), [Twitter](https://twitter.com/jakubgarfield), [Blog](https://chodounsky.com/) | .NET|
 
+### North Macedonia
+<img src="4x3/mk.svg" height="35">
+
+| Name  | Channels | Tags |
+| --- | --- | --- |
+| Bojan Veljanovski | [Blog](https://bojanveljanovski.com/), [LinkedIn](https://www.linkedin.com/in/bojanv91/) | .NET, C#, SQL |
+
 ### Norway
 <img src="4x3/no.svg" height="35">
 
