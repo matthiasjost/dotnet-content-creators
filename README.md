@@ -128,6 +128,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Laurent Kempé | [Blog](https://laurentkempe.com/), [Twitter](https://twitter.com/laurentkempe) | .NET, C#, WebAssembly |
 | Pierre Belin | [Blog](https://goatreview.com/), [LinkedIn](https://www.linkedin.com/in/pierre-belin/)  | .NET, Akka.NET |
 | Martin Finkel | [Blog](https://mfkl.github.io), [Twitter](https://twitter.com/martz2804), [LinkedIn](https://www.linkedin.com/in/martin-finkel-a9368571/), [Bio.Link](https://bio.link/mfkl) | NET, Architecture |
+| Jérémy BRUN-PICARD | [Blog](https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/), [Twitter](https://twitter.com/jbrunpicard), [LinkedIn](https://www.linkedin.com/in/jeremybrunpicard/) | .NET, Xamarin/MAUI, Architecture |
 
 ### Germany
 <img src="4x3/de.svg" height="35">
