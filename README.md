@@ -123,12 +123,13 @@ All creators under this section must have published something in 2022 or 2023.
 | Alexis Chân GRIDEL | [Blog](https://agdl.dev), [Twitter](https://twitter.com/alexiscgridel), [LinkedIn](https://www.linkedin.com/in/alexisgridel/) | C#, .NET |
 | Cyril Canovas | [Blog](https://goatreview.com/) | .NET, Akka.NET, Architecture |
 | Daniel Lawson | [Twitter Threads](https://github.com/danylaws/my-twitter-threads), [Twitter](https://twitter.com/danylaws), [GitHub](https://github.com/danylaws) | C#, AWS |
+| Jérémy BRUN-PICARD | [Blog](https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/), [Twitter](https://twitter.com/jbrunpicard), [LinkedIn](https://www.linkedin.com/in/jeremybrunpicard/) | .NET, Xamarin/MAUI, Architecture |
 | Kevin Gosse | [Twitter](https://twitter.com/KooKiz), [Blog](https://minidump.net/) | .NET, C# |
 | Laurent Egbakou | [Blog](https://lioncoding.com), [Twitter](https://twitter.com/lioncoding) | .NET, Azure  |
 | Laurent Kempé | [Blog](https://laurentkempe.com/), [Twitter](https://twitter.com/laurentkempe) | .NET, C#, WebAssembly |
 | Pierre Belin | [Blog](https://goatreview.com/), [LinkedIn](https://www.linkedin.com/in/pierre-belin/)  | .NET, Akka.NET |
 | Martin Finkel | [Blog](https://mfkl.github.io), [Twitter](https://twitter.com/martz2804), [LinkedIn](https://www.linkedin.com/in/martin-finkel-a9368571/), [Bio.Link](https://bio.link/mfkl) | NET, Architecture |
-| Jérémy BRUN-PICARD | [Blog](https://www.respawnsive.com/en/author/jeremy-brunpicardrespawnsive-com/), [Twitter](https://twitter.com/jbrunpicard), [LinkedIn](https://www.linkedin.com/in/jeremybrunpicard/) | .NET, Xamarin/MAUI, Architecture |
+
 
 ### Germany
 <img src="4x3/de.svg" height="35">
