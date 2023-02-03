@@ -341,7 +341,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [Linkedin](https:/
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Marinko Spasojevic | [Blog](https://code-maze.com/), [LinkedIn](https://www.linkedin.com/in/marinko-spasojevic-95bb023b/) | .NET, ASP.NET Core, Blazor, C# |
-| Milan Milanović | [LinkedIn](https://www.linkedin.com/in/milanmilanovic/), [Blog](https://milan.milanovic.org/post/), [Twitter](https://twitter.com/milan_milanovic) | .NET, C#, Azure Architecture |
+| Dr. Milan Milanović | [LinkedIn](https://www.linkedin.com/in/milanmilanovic/), [Blog](https://milan.milanovic.org/post/), [Twitter](https://twitter.com/milan_milanovic), [Newsletter](https://newsletter.techworld-with-milan.com/) | .NET, C#, Azure, Architecture |
 | Milan Jovanović | [Blog](https://www.milanjovanovic.tech/blog), [LinkedIn](https://www.linkedin.com/in/milan-jovanovic), [YouTube](https://www.youtube.com/c/MilanJovanovicTech), [Twitter](https://twitter.com/mjovanovictech) | .NET, C#, Architecture  |
 | Stefan Djokic  | [LinkedIn](https://www.linkedin.com/in/djokic-stefan/), [Twitter](https://twitter.com/TheCodeMan__), [Blog](https://www.exlrt.com/blog?a=stefan-djokic) | .NET, C#, Architecture, EntityFramework |
 | Zoran Horvat | [Twitter](https://twitter.com/zoranh75), [Blog](https://codinghelmet.com/articles), [YouTube](https://www.youtube.com/c/zh-code) | .NET, C#, Architecture |
