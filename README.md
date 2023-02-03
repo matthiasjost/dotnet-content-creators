@@ -97,6 +97,7 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Erik Ejlskov Jensen | [Blog](https://erikej.github.io/), [Twitter](https://twitter.com/erikej) | EF Core, ADO.NET
 | Mark Seemann | [Blog](https://blog.ploeh.dk/), [Twitter](https://twitter.com/ploeh) | Architecutre, .NET, F#
+| Niels Pilgaard | [Blog](https://pilgaard-blog.azurewebsites.net/), [Twitter](https://twitter.com/Niels_Pilgaard) | Blazor, C#, Azure
 
 
 ### Dominican Republic 
