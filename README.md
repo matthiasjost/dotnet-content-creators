@@ -449,6 +449,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Brendan Enrick | [YouTube](https://www.youtube.com/c/DevChatter/), [Blog](https://brendoneus.com/), [Twitch](https://www.twitch.tv/DevChatter), [Twitter](https://twitter.com/brendoneus) | .NET, C#, ASP.NET Core |
 | Bryan Hogan | [Podcast](https://nodogmapodcast.bryanhogan.net/), [Blog](https://nodogmablog.bryanhogan.net/), [Twitter](https://twitter.com/bryanjhogan), [LinkedIn](https://www.linkedin.com/in/bryanjhogan/) | .NET, Podcast |
 | Chris Patterson | [YouTube](https://www.youtube.com/c/PhatBoyG), [Twitter](https://twitter.com/PhatBoyG), [LinkedIn](https://www.linkedin.com/in/chrispatterson/) | MassTransit |
+| Chris Woodruff | [Blog](https://woodruff.dev/), [LinkedIn](https://www.linkedin.com/in/chriswoodruff/), [Twitter](https://twitter.com/cwoodruff),  [Mastodon](https://mastodon.social/@cwoodruff) | .NET, C#, Web APIs, EFCore, MSSQL |
 | Carl Franklin | [Podcast](https://www.dotnetrocks.com/), [BlazorTrain YouTube](https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz), [Twitter](https://twitter.com/carlfranklin) | Blazor |
 | Caleb Wells | [Twiter](https://twitter.com/calebwellscodes), [Podcast](https://topenddevs.com/podcasts/adventures-in-net) | .NET, C#
 | David McCarter | [Blog](https://dotnettips.wordpress.com/), [Live Show](https://www.c-sharpcorner.com/live/rockin-the-code-world-with-dotnetdave), [Twitter](https://twitter.com/realDotNetDave) | .NET, C# |
