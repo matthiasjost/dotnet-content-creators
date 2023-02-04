@@ -141,6 +141,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Patrick God | [Twitter](https://twitter.com/_PatrickGod), [YouTube](https://www.youtube.com/c/PatrickGod) | .NET, C#, ASP.NET Core, Blazor, EF Core |
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber), [Twitter](https://twitter.com/thomasclaudiush) | .NET, C#, Blazor, WinUI 3 |
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog), [Twitter](https://twitter.com/timcadenbach) | .NET Core, ASP.NET Core  |
+| Julian Ewers-Peters | [Blog](https://ewerspej.hashnode.dev), [LinkedIn](https://linkedin.com/in/jewerspeters) | .NET, C#, MVVM, .NET MAUI, Xamarin.Forms |
 
 ### Greece
 <img src="4x3/gr.svg" height="35">
