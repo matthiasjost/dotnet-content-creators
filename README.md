@@ -99,7 +99,6 @@ All creators under this section must have published something in 2022 or 2023.
 | Mark Seemann | [Blog](https://blog.ploeh.dk/), [Twitter](https://twitter.com/ploeh) | Architecutre, .NET, F#
 | Niels Pilgaard | [Blog](https://pilgaard-blog.azurewebsites.net/), [Twitter](https://twitter.com/Niels_Pilgaard) | Blazor, C#, Azure
 
-
 ### Dominican Republic 
 <img src="4x3/do.svg" height="35">
 
@@ -143,14 +142,12 @@ All creators under this section must have published something in 2022 or 2023.
 | Thomas Claudius Huber | [Pluralsight](https://app.pluralsight.com/profile/author/thomas-huber), [Twitter](https://twitter.com/thomasclaudiush) | .NET, C#, Blazor, WinUI 3 |
 | Tim Cadenbach | [Blog](https://www.tcdev.de/blog), [Twitter](https://twitter.com/timcadenbach) | .NET Core, ASP.NET Core  |
 
-
 ### Greece
 <img src="4x3/gr.svg" height="35">
 
 | Name  | Channels | Tags  |
 | --- | --- | --- |
 | Spyros Katsios | [YouTube](https://www.youtube.com/@spyroskatsios) | .NET, C# |
-
 
 ### India
 <img src="4x3/in.svg" height="35">
@@ -189,7 +186,6 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto) | C#, ASP.NET Core, Azure |
 | Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
 
-
 ### Israel
 <img src="4x3/il.svg" height="35">
 
@@ -197,17 +193,16 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | --- | --- | --- |
 | Amichai Mantinband | [YouTube](https://www.youtube.com/c/AmichaiMantinband/), [Twitter](https://twitter.com/amantinband/), [LinkedIn](https://www.linkedin.com/in/amantinband/) | .NET, ASP.NET Core |
 
-
 ### Italy
 <img src="4x3/it.svg" height="35">
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
+| Andrea Chiarelli | [Blog](https://andreachiarelli.it/), [Twitter](https://twitter.com/andychiare), [LinkedIn](https://www.linkedin.com/in/andreachiarelli/) | .NET, C# |
 | Andrea Tosato | [Mastering Minimal APIs in ASP.NET Core (Book)](https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824), [LinkedIn](https://www.linkedin.com/in/andreatosato/), [Twitter](https://twitter.com/ATosato86) | .NET, C#, ASP.NET Core
 | Davide Bellone | [Blog](https://www.code4it.dev), [Twitter](https://twitter.com/BelloneDavide), [LinkedIn](https://www.linkedin.com/in/bellonedavide/) | .NET |
 | Fabio Ramoni | [Twitter](https://twitter.com/developer_fabio), [Twitter Threads (GitHub)](https://github.com/FabioDeveloper92/developer_fabio_twitter_threads) | .NET, SQL |
 | Marco Minerva | [Mastering Minimal APIs in ASP.NET Core (Book)](https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824), [LinkedIn](https://www.linkedin.com/in/marcominerva/), [Twitter](https://twitter.com/marcominerva) | .NET, C#, ASP.NET Core
-
 
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
@@ -215,7 +210,6 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Trevoir Williams | [YouTube](https://www.youtube.com/c/trevoirwilliams), [LinkedIn](https://www.linkedin.com/in/trevoirwilliams/), [Blog](https://www.trevoirwilliams.com/), [Udemy Profile](https://www.udemy.com/user/trevoirwilliams/) | .NET, ASP.NET Core, Azure, .NET MAUI |
-
 
 ### Japan
 <img src="4x3/jp.svg" height="35">
@@ -460,7 +454,6 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Eric Sink | [Twitter](https://twitter.com/eric_sink), [Blog](https://ericsink.com/) | .NET, C#|
 | Frank A. Krueger | [Twitter](https://twitter.com/praeclarum), [Podcast (Merge Conflict)](https://www.mergeconflict.fm/), [Blog](https://praeclarum.org/) | .NET MAUI, .NET, Podcast
 
-
 ### USA (G-L)
 <img src="4x3/us.svg" height="35">
 
@@ -543,7 +536,6 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: [Free Country Flags in SVG](https://flagicons.lipis.dev) 
 * Thanks to all contributors!
-
 
 ## 🔗 Other Project Links
 * [Twitter List to follow](https://twitter.com/i/lists/1567240908059430912)
