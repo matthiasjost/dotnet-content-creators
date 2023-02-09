@@ -392,6 +392,8 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Oleksii Nikiforov | [Blog](https://nikiforovall.github.io), [Twitter](https://twitter.com/nikiforovall), [LinkedIn](https://www.linkedin.com/in/nikiforov-oleksii/) | .NET, C#, ASP.NET |
+| Vladislav Antonyuk | [Blog](https://vladislavantonyuk.github.io), [LinkedIn](https://www.linkedin.com/in/vladislav-antonyuk) | .NET, C#, .NET MAUI, Blazor, Azure |
+
 
 ### United Kingdom (A-J)
 <img src="4x3/gb.svg" height="35">
