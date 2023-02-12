@@ -456,6 +456,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Mohamad Lawand | [YouTube](https://www.youtube.com/c/MohamadLawand), [Blog](https://dev.to/moe23), [Twitter](https://twitter.com/Moe23) |  ASP.NET Core, .NET  |
 | Nick Chapsas | [YouTube](https://www.youtube.com/c/Elfocrash), [Site](https://nickchapsas.com/), [Twitter](https://twitter.com/nickchapsas), [GitHub](https://github.com/Elfocrash) | .NET, C#  |
 | Paul Michaels | [Twitter](https://twitter.com/paul_michaels), [Blog](https://pmichaels.net/) | .NET, C#, Architecture  |
+| Peter Foot | [Blog](https://inthehand.com/blog), [GitHub](https://github.com/peterfoot), [Twitter](https://twitter.com/peterfoot) | .NET, C#, Mobile  |
 | Peter Morris | [Site](https://blazor-university.com), [Twitter](https://twitter.com/MrPeterLMorris), [GitHub](https://github.com/mrpmorris/) | Blazor |
 Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter.com/PoornimaNayar), [GitHub](https://github.com/poornimanayar) | .NET, C#
 | Scott Wlaschin | [Site](https://fsharpforfunandprofit.com), [Twitter](https://twitter.com/ScottWlaschin) | F# |
