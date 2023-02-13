@@ -206,7 +206,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto) | C#, ASP.NET Core, Azure |
+| Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto), [Blog RSS](https://www.camiloterevinto.com/rss.xml) | C#, ASP.NET Core, Azure |
 | Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
 
 ### Israel
