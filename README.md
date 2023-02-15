@@ -97,6 +97,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Gérald Barré | [Blog](https://www.meziantou.net/), [Twitter](https://twitter.com/meziantou), [Mastodon](https://hachyderm.io/@meziantou), [GitHub](https://github.com/meziantou), [LinkedIn](https://www.linkedin.com/in/meziantou/) | .NET, ASP.NET Core, Blazor, C# |
 | Jhonatan Oliveira | [Blog](https://blog.jhonatanoliveira.dev/), [GitHub](https://github.com/jhonatanfernando), [Twitter](https://twitter.com/jhonatanfoliv), [LinkedIn](https://www.linkedin.com/in/jhonatanfernando/) | .NET, C#, ASP.NET Core, .NET MAUI
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
+| Nick Cosentino (Dev Leader) | [Website](https://www.devleader.ca), [YouTube](https://www.youtube.com/@devleader), [TikTok](https://www.tiktok.com/@devleader), [Twitter](https://www.twitter.com/devleaderca), [All Dev Leader Links](https://linktr.ee/devleader) | .NET, C#, Tutorials, Microsoft, Unity3D |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/), [LinkedIn](https://www.linkedin.com/in/richjcampbell/), [Twitter](https://twitter.com/richcampbell) | Podcast, .NET |
 
 ### Costa Rica
