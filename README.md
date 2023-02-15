@@ -446,6 +446,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 
 | Name  | Channels | Tags |
 | --- | --- | --- |
+| Carl Sargunar | [Github](https://github.com/CarlSargunar), [Twitch](https://www.twitch.tv/carlcod_es), [Twitter](https://twitter.com/carlcod_es), [LinkedIn](https://www.linkedin.com/in/carl-sargunar-63b5814/), [Site](https://carlcod.es/) | .NET, C#, Docker, Umbraco, Maui |
 | Layla Porter | [Twitch](https://www.twitch.tv/laylacodesit), [Twitter](https://twitter.com/LaylaCodesIt), [LinkedIn](https://www.linkedin.com/in/layla-porter), [Site](https://www.layla.dev/) | .NET, C# |
 | Luke Malpass | [YouTube](https://youtube.com/c/angelsix), [GitHub](https://github.com/angelsix), [Twitter](https://twitter.com/angelsixuk) | .NET, C#, Avalonia UI, WPF |
 | Mark Heath | [Pluralsight](https://app.pluralsight.com/profile/author/mark-heath), [Blog](https://markheath.net), [Twitter](https://twitter.com/mark_heath) | .NET, ASP.NET Core, Azure |
