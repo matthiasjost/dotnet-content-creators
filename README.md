@@ -178,6 +178,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Abdul Rahman | [Site](https://www.ilovedotnet.org), [LinkedIn](https://www.linkedin.com/in/fingers10/) | C#, .NET |
+| Aditya Oberai | [Twitter](https://twitter.com/adityaoberai1), [LinkedIn](https://www.linkedin.com/in/adityaoberai1/), [Videos](https://oberai.dev/videos), [Blog](https://dev.to/adityaoberai/) | .NET, ASP.NET Web APIs, .NET MAUI, Azure |
 | Anto Subash | [YouTube](https://www.youtube.com/c/AntoSubash), [Blog](https://blog.antosubash.com), [Twitter](https://twitter.com/antosubash) | .NET, Docker, ABP Framework |
 | Anurag Sinha  | [Blog](https://techncodetools.com/blog/), [Twitter](https://twitter.com/awesomeanurag) | C#, .NET |
 | Bhrugen Patel | [YouTube](https://www.youtube.com/user/bhrugen1990), [Courses](https://www.dotnetmastery.com/) | .NET, ASP.NET Core, Blazor  |
