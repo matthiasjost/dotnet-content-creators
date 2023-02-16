@@ -227,6 +227,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Davide Bellone | [Blog](https://www.code4it.dev), [Twitter](https://twitter.com/BelloneDavide), [LinkedIn](https://www.linkedin.com/in/bellonedavide/) | .NET |
 | Fabio Ramoni | [Twitter](https://twitter.com/developer_fabio), [Twitter Threads (GitHub)](https://github.com/FabioDeveloper92/developer_fabio_twitter_threads) | .NET, SQL |
 | Marco Minerva | [Mastering Minimal APIs in ASP.NET Core (Book)](https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824), [LinkedIn](https://www.linkedin.com/in/marcominerva/), [Twitter](https://twitter.com/marcominerva) | .NET, C#, ASP.NET Core
+| Renato Golia | [Blog](https://renatogolia.com/), [Twitter](https://twitter.com/Kralizek), [LinkedIn](https://www.linkedin.com/in/renatogolia/), [GitHub](https://github.com/Kralizek), [Mastodon](https://dotnet.social/@rengol) | .NET, ASP.NET Core, AWS, Serverless, Architecture, Infrastructure-as-Code, CI/CD |
 
 ### Jamaica
 <img src="4x3/jm.svg" height="35">
