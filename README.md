@@ -399,6 +399,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Emanuele Bartolesi | [Blog](https://dev.to/kasuken), [Blog RSS](https://dev.to/feed/kasuken), [Twitter](https://twitter.com/kasuken), [Mastering Minimal APIs in ASP.NET Core (Book)](https://www.packtpub.com/product/mastering-minimal-apis-in-aspnet-core/9781803237824) | .NET, Blazor, Azure |
 | Marco Siccardi | [Blog](https://msicc.net/), [Mastodon](https://mastodon.social/@msicc), [LinkedIn](https://www.linkedin.com/in/msicc/) | .NET, C#, Xamarin
 | Matthias Güntert | [Blog](https://www.azureblue.io/), [LinkedIn](https://www.linkedin.com/in/matthiasguentert/) | Azure, ASP.NET Core  |
+| Matthias Jost | [Blog](https://www.matthias-jost.ch/en/), [LinkedIn](https://www.linkedin.com/in/matthias-jost/), [Twitter](https://twitter.com/jost0101), [Bio Link](https://matthiasjost.bio.link/) | .NET, C#
 | Jürgen Gutsch | [Blog](https://asp.net-hacker.rocks), [Twitter](https://twitter.com/sharpcms/) | ASP.NET Core  |
 | Steven Giesel |  [Blog](https://steven-giesel.com), [LinkedIn](https://www.linkedin.com/in/steven-giesel/) | .NET, C#, Blazor  |
 | Wolfgang Ofner | [Blog](https://programmingwithwolfgang.com/), [LinkedIn](https://www.linkedin.com/in/wolfgangofner/), [Twitter](https://twitter.com/wolfgang_ofner) | Azure, Kubernetes |
