@@ -564,7 +564,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/) | .NET, Aggregator Site |
 
 ## 🙏Credits
-* Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/?p=728)
+* Special thanks [Shreyas Jejurkar](https://twitter.com/ShreyasJejurkar) for sharing a lot of awesome YouTube channels that I didn't know: [List of YouTube channels for .NET C# developers](https://shreyasjejurkar.com/2022/01/24/list-of-youtube-channels-for-net-csharp-developers/)
 * Special thanks to the [dotnet Twitter Community](https://twitter.com/i/communities/1488624124817666051) for suggesting creators
 * Flags copied from: [Free Country Flags in SVG](https://flagicons.lipis.dev) 
 * Thanks to all contributors!
