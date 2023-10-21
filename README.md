@@ -200,7 +200,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Meysam Hadeli | [GitHub](https://github.com/meysamhadeli), [Twitter](https://twitter.com/meysamhadeli), [Blog](https://meysamhadeli.com) | Microservices, .NET, ASP.NET Core |
 | Mehdi Hadeli | [GitHub](https://github.com/mehdihadeli), [Twitter](https://twitter.com/mehdi_hadeli), [Blog](https://www.mehdihadeli.com/), [Blog RSS](https://www.mehdihadeli.com/rss) | Architecture, .NET, ASP.NET Core |
 | Mohsen Rajabi | [GitHub](https://github.com/EngRajabi), [Twitter](https://twitter.com/mohsen_rajabi72), [Blog](https://medium.com/@mohsen_rajabi) | Microservices, .NET, ASP.NET Core, C# |
-Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https://www.linkedin.com/in/omid-ahmadpour/), [Blog](https://medium.com/@omid-ahmadpour) | Microservices, .NET, C#, Clean Architecture, Clean Code, Azure |
+Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https://www.linkedin.com/in/omid-ahmadpour/), [YouTube](https://www.youtube.com/@withcodess), [Blog](https://medium.com/@omid-ahmadpour) | Microservices, .NET, C#, Clean Architecture, Clean Code, Azure |
 | Saeed Esmaeelinejad | [LinkedIn](https://www.linkedin.com/in/saeed-esmaeelinejad/) | C#, EF, SQL Server, ASP.NET |
 
 ### Ireland
