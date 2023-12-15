@@ -77,6 +77,13 @@ All creators under this section must have published something in 2022 or 2023.
 | --- | --- | --- |
 | Naweed Akram | [Blog](https://blogs.xgenoapps.com/), [Twitter](https://twitter.com/xgeno), [YouTube](https://www.youtube.com/@naweedakram), [LinkedIn](https://www.linkedin.com/in/naweed/) | .NET MAUI |
 
+### Bosnia and Herzegovina
+<img src="4x3/ba.svg" height="35">
+
+| Name         | Channels                                                                                                                                                                      | Tags                                |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Admir Mujkic | [Blog](https://admirlive.medium.com/), [LinkedIn](https://www.linkedin.com/in/admir-live/) | .NET, Architecture, C#, Ai, EF Core |
+
 ### Belgium
 
 <img src="4x3/be.svg" height="35">
