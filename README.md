@@ -1,6 +1,6 @@
 # :zap: My Favourite .NET Content Creators
 
-Please also see https://www.WeAreDotnet.io, a community founded for .NET content creators (founded by Tim and Matthias)
+Please also see [WeAreDotnet](https://www.WeAreDotnet.io), a community for .NET content creators (founded by Tim [@TimCadenbach](https://twitter.com/TimCadenbach) and Matthias [@jost0101](https://twitter.com/jost0101))
 
 ## ✍️ What Are Creators?
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
