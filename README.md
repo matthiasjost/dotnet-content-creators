@@ -123,6 +123,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Name  | Channels | Tags |
 | --- | --- | --- |
 | Shady Nagy | [Blog](https://shadynagy.com/), [Twitter](https://twitter.com/ShadyNagy_) | .NET, ASP.NET Core |
+| Ahmed Tarek | [Website](https://developmentsimplyput.com), [Blog](https://developmentsimplyput.com/blog), [LinkedIn](https://www.linkedin.com/in/atarekhasan), [Twitter](https://twitter.com/AhmedTarekHasa1) | .NET, ASP.NET Core |
 
 ### France
 <img src="4x3/fr.svg" height="35">
