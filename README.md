@@ -198,6 +198,7 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Camilo Terevinto | [Blog](https://www.camiloterevinto.com), [LinkedIn](https://www.linkedin.com/in/camiloterevinto/), [Twitter](https://twitter.com/CTerevinto), [Blog RSS](https://www.camiloterevinto.com/rss.xml) | C#, ASP.NET Core, Azure |
 | Dave Callan | [LinkedIn](https://www.linkedin.com/in/davidcallan/), [Twitter](https://twitter.com/DaveCallanIE) | C#, .NET, Visual Studio |
 | Dominic Frei | [LinkedIn](https://www.linkedin.com/in/dominicfrei/), [Twitter](https://twitter.com/dominicfrei), [GitHub](https://github.com/DominicFrei), [Blog](https://www.mongodb.com/developer/author/dominic-frei/) | .NET, C#, Blazor, Unity3D, MongoDB |
+| Nirav | [LinkedIn](https://www.linkedin.com/in/nirav-patel-linkedlin/), [Twitter](https://twitter.com/kaipnbole), [GitHub](https://github.com/INeerav) | .NET Core, scala, python, scikit-learn, Akka.net, k8s, gRPC, Elasticsearch |
 
 ### Israel
 <img src="4x3/il.svg" height="35">
