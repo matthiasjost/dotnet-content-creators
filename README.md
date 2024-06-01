@@ -2,8 +2,8 @@
 
 Please also see [WeAreDotnet](https://www.WeAreDotnet.io), a community for .NET content creators (founded by Tim [@TimCadenbach](https://twitter.com/TimCadenbach) and Matthias [@jost0101](https://twitter.com/jost0101))
 
-The repo accepts new updates, but the maintainer does not actively remove any longer inactive creators. Contributions are welcome.
-Most entries are from 2022/2023. This might change in the future again. Feedback is welcome!
+The repo accepts new updates, but the amount of effort the maintainer puts into it has been reduced.
+Most entries are from 2022/2023. I am still reviewing and merging PRs from you.
 
 ## ✍️ What Are Creators?
 By creators, we mean enthusiasts who create content for Blogs, YouTube, Twitch, Books, and tutorial platforms (e.g. Pluralsight). The content can be free or paid.
