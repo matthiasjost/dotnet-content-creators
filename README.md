@@ -378,6 +378,8 @@ Omid Ahmadpour | [GitHub](https://github.com/omid-ahmadpour), [LinkedIn](https:/
 | Jimmy Engström  |    [Podcast](https://www.codingafterwork.com/), [Twitter](https://twitter.com/EngstromJimmy), [Blog](https://engstromjimmy.com/) | .NET, Blazor, Podcast |
 | Jonah Andersson | [Twitter](https://twitter.com/cjkodare), [Linktree](https://linktr.ee/jonahandersson), [Blog](https://jonahandersson.tech/blog/) | .NET, C#, Azure |
 | Simon Wåhlin | [Twitter](https://twitter.com/SimonWahlin), [YouTube](https://www.youtube.com/c/SimonAutomates), [Blog](https://blog.simonw.se/) | PowerShell, Azure |
+| Tore Nestenius | [blog](https://nestenius.se), [LinkedIn](https://www.linkedin.com/in/torenestenius/), [Twitter](https://x.com/Tndata/) | .NET, Azure |
+
 
 ### Switzerland
 <img src="4x3/ch.svg" height="35">
