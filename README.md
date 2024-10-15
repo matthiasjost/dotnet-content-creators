@@ -548,7 +548,6 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 ### 🐙 Aggregator Sites
 | Name  | Channels | Tags |
 | --- | --- | --- |
-| Discover.NET | [Site](https://discoverdot.net) | .NET, Aggregator Site |
 | .NET Ketchup | [Site](https://dotnetketchup.com) | .NET, Aggregator Site |
 | The Morning Brew by Chris Alcock, UK | [Site](https://blog.cwa.me.uk/) | .NET, Aggregator Site  |
 | The Morning Dew by Alvin Ashcraft, USA | [Site](https://www.alvinashcraft.com/) | .NET, Aggregator Site |
