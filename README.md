@@ -88,6 +88,7 @@ All creators under this section must have published something in 2022 or 2023.
 | Jonathan Dick | [GitHub](https://github.com/redth), [Blog](https://redth.codes/), [Twitter](https://twitter.com/redth), [Mastodon](https://mas.to/@redth) | Microsoft, .NET MAUI, Xamarin, C# |
 | Nick Cosentino (Dev Leader) | [Website](https://www.devleader.ca), [YouTube](https://www.youtube.com/@devleader), [TikTok](https://www.tiktok.com/@devleader), [Twitter](https://www.twitter.com/devleaderca), [All Dev Leader Links](https://linktr.ee/devleader) | .NET, C#, Tutorials, Microsoft, Unity3D |
 | Richard Campbell | [Podcast (.NET Rocks!)](https://www.dotnetrocks.com/), [LinkedIn](https://www.linkedin.com/in/richjcampbell/), [Twitter](https://twitter.com/richcampbell) | Podcast, .NET |
+| Steve Bilogan | [GitHub](https://github.com/kazo0), [Blog](https://kazo0.dev/), [Twitter](https://twitter.com/BiloganSteve) [LinkedIn](www.linkedin.com/in/sbilogan) | .NET, C#, Uno Platform |
 
 ### Costa Rica
 <img src="4x3/cr.svg" height="35">
