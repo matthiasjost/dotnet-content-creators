@@ -506,6 +506,7 @@ Poornima Nayar | [Blog](https://poornimanayar.co.uk/), [Twitter](https://twitter
 | Matt Eland | [Blog](https://NewDevsGuide.com/) (Coding), [Blog](https://AccessibleAI.dev/) (AI/ML), [YouTube](https://MattOnDataScience.com), [Twitter](https://twitter.com/IntegerMan)  | .NET, C#, ML.NET |
 | Michael Eaton | [Blog](https://samestuffdifferentday.net/), [Mastodon](https://fosstodon.org/@mjeaton@our.devchatter.com), [GitHub](https://github.com/mjeaton), [LinkedIn](https://www.linkedin.com/in/mjeaton/) | .NET, C#
 | Niels Swimberghe | [Blog](https://swimburger.net), [Twitter](https://twitter.com/RealSwimburger), [LinkedIn](https://www.linkedin.com/in/nielsswimberghe/) | .NET  |
+| Pavel Yosifovich | [Blog](https://scorpiosoftware.net), [YouTube](https://www.youtube.com/@zodiacon), [LinkedIn](https://www.linkedin.com/in/pavely/) | Windows Internals and software development |
 | Richard Campbell | [Podcast Site](https://www.dotnetrocks.com), [Podcast on Bullhorn.fm](https://www.bullhorn.fm/dotnetrocks) | .NET |
 | Rick Strahl | [Blog](https://weblog.west-wind.com/), [Twitter](https://twitter.com/rickstrahl) | .NET, C#, Markdown |
 | Rockford Lhotka | [Blog](https://blog.lhotka.net), [Mastodon](https://fosstodon.org/@rockylhotka), [Twitter](https://www.twitter.com/rockylhotka) | .NET |
